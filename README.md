@@ -89,6 +89,232 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization |  |  |  |
 | Multi-Space Neural Radiance Fields |  |  |  |
 | MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences |  |  |  |
+| PVO: Panoptic Visual Odometry |  |  |  |
+| Diffusion-SDF: Text-to-Shape via Voxelized Diffusion |  |  |  |
+| Rotation-Invariant Transformer for Point Cloud Matching |  |  |  |
+| HexPlane: A Fast Representation for Dynamic Scenes |  |  |  |
+| Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders |  |  |  |
+| Progressive Neighbor Consistency Mining for Correspondence Pruning |  |  |  |
+| SCoDA: Domain Adaptive Shape Completion for Real Scans |  |  |  |
+| Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo |  |  |  |
+| Level-S<sup>2</sup>fM: Structure from Motion on Neural Level Set of Implicit Surfaces |  |  |  |
+| PLA: Language-Driven Open-Vocabulary 3D Scene Understanding |  |  |  |
+| SUDS: Scalable Urban Dynamic Scenes |  |  |  |
+| 3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds |  |  |  |
+| BAEFormer: Bi-Directional and Early Interaction Transformers for Bird's Eye View Semantic Segmentation |  |  |  |
+| Dionysus: Recovering Scene Structures by Dividing into Semantic Pieces |  |  |  |
+| LP-DIF: Learning Local Pattern-Specific Deep Implicit Function for 3D Objects and Scenes |  |  |  |
+| Neural Kaleidoscopic Space Sculpting |  |  |  |
+| Starting from Non-Parametric Networks for 3D Point Cloud Analysis |  |  |  |
+| Panoptic Compositional Feature Field for Editable Scene Rendering with Network-Inferred Labels via Metric Learning |  |  |  |
+| Robust Dynamic Radiance Fields |  |  |  |
+| BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields |  |  |  |
+| Consistent Direct Time-of-Flight Video Depth Super-Resolution |  |  |  |
+| Patch-based 3D Natural Scene Generation from a Single Example |  |  |  |
+| 3D Video Loops from Asynchronous Input |  |  |  |
+| UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View |  |  |  |
+| Neural Scene Chronology |  |  |  |
+| RUST: Latent Neural Scene Representations from Unposed Imagery |  |  |  |
+| Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask |  |  |  |
+| F<sup>2</sup>-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories |  |  |  |
+| VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud |  |  |  |
+| REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos |  |  |  |
+| MVImgNet: A Large-Scale Dataset of Multi-View Images |  |  |  |
+| Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography |  |  |  |
+| GINA-3D: Learning to Generate Implicit Neural Assets in the Wild |  |  |  |
+| MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures |  |  |  |
+| DynIBaR: Neural Dynamic Image-based Rendering |  |  |  |
+| IMP: Iterative Matching and Pose Estimation with Adaptive Pooling |  |  |  |
+| Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation |  |  |  |
+| NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-View Images |  |  |  |
+| ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision |  |  |  |
+| Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection |  |  |  |
+| NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects |  |  |  |
+| LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion |  |  |  |
+| 3D Registration with Maximal Cliques |  |  |  |
+| OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation |  |  |  |
+| Progressive Spatio-Temporal Alignment for Efficient Event-based Motion Estimation |  |  |  |
+<!-- |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  | -->
 
 ### Image and Video Synthesis and Generation
 
