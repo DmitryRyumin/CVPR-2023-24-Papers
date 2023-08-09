@@ -79,16 +79,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chengwei-zheng.github.io/EditableNeRF/) <br /> [![GitHub](https://img.shields.io/github/stars/chengwei-zheng/EditableNeRF_cvpr23)](https://github.com/chengwei-zheng/EditableNeRF_cvpr23) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_EditableNeRF_Editing_Topologically_Varying_Neural_Radiance_Fields_by_Key_Points_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.04247-b31b1b.svg)](https://arxiv.org/abs/2212.04247) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Eu2twgbg4kI) |
 | Iterative Geometry Encoding Volume for Stereo Matching | [![GitHub](https://img.shields.io/github/stars/gangweiX/IGEV)](https://github.com/gangweiX/IGEV) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Iterative_Geometry_Encoding_Volume_for_Stereo_Matching_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06615-b31b1b.svg)](https://arxiv.org/abs/2303.06615) | :heavy_minus_sign: |
 | Hi-LASSIE: High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://chhankyao.github.io/hi-lassie/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Hi-LASSIE_High-Fidelity_Articulated_Shape_and_Skeleton_Discovery_From_Sparse_Image_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.11042-b31b1b.svg)](https://arxiv.org/abs/2212.11042) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=s9FWABEm0WU) |
-<!-- |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  | -->
+| VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization |  |  |  |
+| Neuralangelo: High-Fidelity Neural Surface Reconstruction |  |  |  |
+| In-Hand 3D Object Scanning from an RGB Sequence |  |  |  |
+| SHS-Net: Learning Signed Hyper Surfaces for Oriented Normal Estimation of Point Clouds |  |  |  |
+| FAC: 3D Representation Learning via Foreground Aware Feature Contrast |  |  |  |
+| Neural Kernel Surface Reconstruction |  |  |  |
+| NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds |  |  |  |
+| HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization |  |  |  |
+| Multi-Space Neural Radiance Fields |  |  |  |
+| MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences |  |  |  |
 
 ### Image and Video Synthesis and Generation
 
