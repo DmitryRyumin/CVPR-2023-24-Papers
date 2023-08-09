@@ -67,7 +67,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 3D from Multi-View and Sensors
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **YouTube** |
+|-----------|----------|:---------:|:-----------:|
+| NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization | [![GitHub](https://img.shields.io/github/stars/Tangshitao/NeuMap)](https://github.com/Tangshitao/NeuMap) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_NeuMap_Neural_Coordinate_Mapping_by_Auto-Transdecoder_for_Camera_Localization_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11177-b31b1b.svg)](https://arxiv.org/abs/2211.11177) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=u4DGwkXuJXA) |
+<!-- |  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  | -->
 
 ### Image and Video Synthesis and Generation
 
