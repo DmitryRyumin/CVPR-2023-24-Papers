@@ -43,10 +43,23 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
 
 > ***NOTE*:** Conference table will be up to date all the time.
 
-| **Conference** | Year |
-|----------------|:----:|
-| ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
-| INTERSPEECH | [2023](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) |
+<table>
+    <tr>
+        <td><strong>Conference</strong></td>
+        <td colspan="1" align="center"><strong>Year</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+    </tr>
+    <tr>
+        <td>ICASSP</td>
+        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
+        <td>INTERSPEECH</td>
+        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+</table>
 
 ---
 
