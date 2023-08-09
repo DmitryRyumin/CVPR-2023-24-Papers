@@ -191,70 +191,70 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Learning Optical Expansion from Scale Matching |  |  |  |
 | Self-Supervised 3D Scene Flow Estimation Guided by Superpoints |  |  |  |
 | Adaptive Annealing for Robust Geometric Estimation |  |  |  |
+| SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes |  |  |  |
+| PlaneDepth: Self-Supervised Depth Estimation via Orthogonal Planes |  |  |  |
+| High-Res Facial Appearance Capture from Polarized Smartphone Images |  |  |  |
+| Tensor4D: Efficient Neural 4D Decomposition for High-Fidelity Dynamic Reconstruction and Rendering |  |  |  |
+| Fully Self-Supervised Depth Estimation from Defocus Clue |  |  |  |
+| Adaptive Assignment for Geometry Aware Local Feature Matching |  |  |  |
+| Efficient Second-Order Plane Adjustment |  |  |  |
+| Learning Adaptive Dense Event Stereo from the Image Domain |  |  |  |
+| FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization |  |  |  |
+| SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory |  |  |  |
+| Cross-guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis |  |  |  |
+| AeDet: Azimuth-Invariant Multi-View 3D Object Detection |  |  |  |
+| Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields |  |  |  |
+| DKM: Dense Kernelized Feature Matching for Geometry Estimation |  |  |  |
+| DINER: Depth-Aware Image-based NEural Radiance fields |  |  |  |
+| HGNet: Learning Hierarchical Geometry from Points, Edges, and Surfaces |  |  |  |
+| Instant Volumetric Head Avatars |  |  |  |
+| 3D Line Mapping Revisited |  |  |  |
+| Learning to Fuse Monocular and Multi-View Cues for Multi-Frame Depth Estimation in Dynamic Scenes |  |  |  |
+| ESLAM: Efficient Dense SLAM System based on Hybrid Representation of Signed Distance Fields |  |  |  |
+| Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting |  |  |  |
+| SparsePose: Sparse-View Camera Pose Regression and Refinement |  |  |  |
+| Controllable Mesh Generation through Sparse Latent Point Diffusion Models |  |  |  |
+| ARO-Net: Learning Implicit Fields from Anchored Radial Observations |  |  |  |
+| Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention |  |  |  |
+| Sphere-Guided Training of Neural Implicit Surfaces |  |  |  |
+| Finding Geometric Models by Clustering in the Consensus Space |  |  |  |
+| NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions |  |  |  |
+| Privacy-Preserving Representations are not Enough: Recovering Scene Content from Camera Poses |  |  |  |
+| Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting |  |  |  |
+| Neural Part Priors: Learning to Optimize Part-based Object Completion in RGB-D Scans |  |  |  |
+| Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses |  |  |  |
+| Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues |  |  |  |
+| Revisiting Rotation Averaging: Uncertainties and Robust Losses |  |  |  |
+| NeRF-Supervised Deep Stereo |  |  |  |
+| POEM: Reconstructing Hand in a Point Embedded Multi-View Stereo |  |  |  |
+| vMAP: Vectorised Object Mapping for Neural Field SLAM |  |  |  |
+| PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces |  |  |  |
+| Learnable Skeleton-Aware 3D Point Cloud Sampling |  |  |  |
+| ObjectMatch: Robust Registration using Canonical Object Correspondences |  |  |  |
+| DiffRF: Rendering-guided 3D Radiance Field Diffusion |  |  |  |
+| Learning a Depth Covariance Function |  |  |  |
+| Viewpoint Equivariance for Multi-View 3D Object Detection |  |  |  |
+| BlendFields: Few-Shot Example-Driven Facial Modeling |  |  |  |
+| Implicit Surface Contrastive Clustering for LiDAR Point Clouds |  |  |  |
+| Self-Supervised Super-Plane for Neural 3D Reconstruction |  |  |  |
+| DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models |  |  |  |
+| AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training |  |  |  |
+| VisFusion: Visibility-Aware Online 3D Scene Reconstruction from Videos |  |  |  |
+| Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids |  |  |  |
+| Semi-Weakly Supervised Object Kinematic Motion Prediction |  |  |  |
+| OmniVidar: Omnidirectional Depth Estimation from Multi-Fisheye Images |  |  |  |
+| ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-Real Novel View Synthesis via Contrastive Learning |  |  |  |
+| PointVector: A Vector Representation In Point Cloud Analysis |  |  |  |
+| Poly-PC: A Polyhedral Network for Multiple Point Cloud Tasks at Once |  |  |  |
+| Learning Neural Duplex Radiance Fields for Real-Time View Synthesis |  |  |  |
+| VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction |  |  |  |
+| CompletionFormer: Depth Completion with Convolutions and Vision Transformers |  |  |  |
+| Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields |  |  |  |
+| Collaboration Helps Camera Overtake LiDAR in 3D Detection |  |  |  |
+| SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  |  |  |
+| GeoMVSNet: Learning Multi-View Stereo with Geometry Perception |  |  |  |
+| 3D Shape Reconstruction of Semi-Transparent Worms |  |  |  |
 <!-- |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
