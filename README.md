@@ -436,13 +436,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 > Will soon be added
 
-### Others
-
-> Will soon be added
-
 ### Optimization Methods (other than Deep Learning)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Pose Synchronization under Multiple Pair-Wise Relative Poses |  |  |  |
+| Adaptive Global Decay Process for Event Cameras |  |  |  |
+| Wide-Angle Rectification via Content-Aware Conformal Mapping |  |  |  |
+| On the Convergence of IRLS and its Variants in Outlier-Robust Estimation |  |  |  |
+| A General Regret Bound of Preconditioned Gradient Method for DNN Training |  |  |  |
+| Robust and Scalable Gaussian Process Regression and its Applications |  |  |  |
+| EMT-NAS: Transferring Architectural Knowledge between Tasks from Different Datasets |  |  |  |
+| Transformer-based Learned Optimization |  |  |  |
+| Efficient Robust Principal Component Analysis via Block Krylov Iteration and CUR Decomposition |  |  |  |
+| Solving Relaxations of MAP-MRF Problems: Combinatorial In-Face Frank-Wolfe Directions |  |  |  |
+| Robust Generalization against Photon-Limited Corruptions via Worst-Case Sharpness Minimization |  |  |  |
+| Elastic Aggregation for Federated Optimization |  |  |  |
 
 ### Photogrammetry and Remote Sensing
 
@@ -476,3 +485,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | TruFor: Leveraging all-Round Clues for Trustworthy Image Forgery Detection and Localization |  |  |  |
 | SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy |  |  |  |
 | Angelic Patches for Improving Third-Party Object Detector Performance |  |  |  |
+
+### Others
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| A Bag-of-Prototypes Representation for Dataset-Level Applications |  |  |  |
+| Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation |  |  |  |
+| Label Information Bottleneck for Label Enhancement |  |  |  |
+| DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction |  |  |  |
+| Restoration of Hand-Drawn Architectural Drawings using Latent Space Mapping with Degradation Generator |  |  |  |
+| DaFKD: Domain-Aware Federated Knowledge Distillation |  |  |  |
+| Enhanced Stable View Synthesis |  |  |  |
+| ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients |  |  |  |
+| GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting |  |  |  |
+| High-Resolution Image Reconstruction with Latent Diffusion Models from Human Brain Activity |  |  |  |
+| A Unified Knowledge Distillation Framework for Deep Directed Graphical Models |  |  |  |
+| How to Prevent the Poor Performance Clients for Personalized Federated Learning? |  |  |  |
