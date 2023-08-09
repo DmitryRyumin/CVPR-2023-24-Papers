@@ -426,7 +426,22 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Machine Learning (other than Deep Learning)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Deep Incomplete Multi-View Clustering with Cross-View Partial Sample and Prototype Alignment |  |  |  |
+| Towards Better Decision Forests: Forest Alternating Optimization |  |  |  |
+| Class Adaptive Network Calibration |  |  |  |
+| Defining and Quantifying the Emergence of Sparse Concepts in DNNs |  |  |  |
+| MOT Masked Optimal Transport for Partial Domain Adaptation |  |  |  |
+| Adaptive Graph Convolutional Subspace Clustering |  |  |  |
+| Reliable and Interpretable Personalized Federated Learning |  |  |  |
+| Confidence-Aware Personalized Federated Learning via Variational Expectation Maximization |  |  |  |
+| Efficient Verification of Neural Networks against LVM-based Specifications |  |  |  |
+| You Are Catching My Attention: Are Vision Transformers Bad Learners under Backdoor Attacks? |  |  |  |
+| Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels |  |  |  |
+| Sliced Optimal Partial Transport |  |  |  |
+| A Meta-Learning Approach to Predicting Performance and Data Requirements |  |  |  |
+| Towards Effective Visual Representations for Partial-Label Learning |  |  |  |
 
 ### Physics-based Vision and Shape-from-X
 
