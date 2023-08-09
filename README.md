@@ -434,7 +434,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Biometrics
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Instance-Aware Domain Generalization for Face Anti-Spoofing |  |  |  |
+| OpenGait: Revisiting Gait Recognition Toward Better Practicality |  |  |  |
+| Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation |  |  |  |
+| GaitGCI: Generative Counterfactual Intervention for Gait Recognition |  |  |  |
+| Rethinking Domain Generalization for Face Anti-Spoofing: Separability and Alignment |  |  |  |
+| AstroNet: When Astrocyte Meets Artificial Neural Network |  |  |  |
+| DCFace: Synthetic Face Generation with Dual Condition Diffusion Model |  |  |  |
+| LidarGait: Benchmarking 3D Gait Recognition with Point Clouds |  |  |  |
+| CR-FIQA: Face Image Quality Assessment by Learning Sample Relative Classifiability |  |  |  |
+| Dual-Bridging with Adversarial Noise Generation for Domain Adaptive rPPG Estimation |  |  |  |
+| Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces |  |  |  |
 
 ### Optimization Methods (other than Deep Learning)
 
