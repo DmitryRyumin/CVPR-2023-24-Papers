@@ -22,8 +22,8 @@
 CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*CVPR 2023*](https://cvpr2023.thecvf.com/), the premier computer vision conference. Keep up to date with the latest advances in computer vision and deep learning. Code implementations included. :star: the repository for the development of visual intelligence!
 
 <p align="center">
-    <a href="https://cvpr2023.thecvf.com/" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/images/CVPR2023-banner.svg" style="background-color:#FFF !important" alt="CVPR 2023">
+    <a href="https://cvpr2023.thecvf.com/" target="_blank" style="background-color:#FFF">
+        <img width="600" src="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/images/CVPR2023-banner.svg" alt="CVPR 2023">
     </a>
 <p>
 
