@@ -418,11 +418,39 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Embodied Vision: Active Agents, Simulation
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction |  |  |  |
+| Layout-based Causal Inference for Object Navigation |  |  |  |
+| EC<sup>2</sup>: Emergent Communication for Embodied Control |  |  |  |
+| GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts |  |  |  |
+| Phone2Proc: Bringing Robust Robots into Our Chaotic World |  |  |  |
+| PIRLNav: Pretraining with Imitation and RL Finetuning for ObjectNav |  |  |  |
+| CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation |  |  |  |
+| 3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification |  |  |  |
+| Modality-Invariant Visual Odometry for Embodied Vision |  |  |  |
+| UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy |  |  |  |
+| EXCALIBUR: Encouraging and Evaluating Embodied Exploration |  |  |  |
+| Leverage Interactive Affinity for Affordance Learning |  |  |  |
+| LANA: A Language-Capable Navigator for Instruction Following and Generation |  |  |  |
+| Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second |  |  |  |
 
 ### Document Analysis and Understanding
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Towards Flexible Multi-Modal Document Models |  |  |  |
+| Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling |  |  |  |
+| Unifying Layout Generation with a Decoupled Diffusion Model |  |  |  |
+| Conditional Text Image Generation with Diffusion Models |  |  |  |
+| Turning a CLIP Model into a Scene Text Detector |  |  |  |
+| Unifying Vision, Text, and Layout for Universal Document Processing |  |  |  |
+| Modeling Entities as Semantic Points for Visual Information Extraction in the Wild |  |  |  |
+| GeoLayoutLM: Geometric Pre-Training for Visual Information Extraction |  |  |  |
+| Handwritten Text Generation from Visual Archetypes |  |  |  |
+| Towards Robust Tampered Text Detection in Document Image: New dataset and New Solution |  |  |  |
+| M<sup>6<sup>Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis |  |  |  |
+| Disentangling Writer and Character Styles for Handwriting Generation |  |  |  |
 
 ### Machine Learning (other than Deep Learning)
 
