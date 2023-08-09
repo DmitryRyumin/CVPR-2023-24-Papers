@@ -23,7 +23,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 <p align="center">
     <a href="https://cvpr2023.thecvf.com/" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/images/CVPR2023-banner.jpg" alt="CVPR 2023">
+        <img width="600" src="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/images/CVPR2023-banner.svg" alt="CVPR 2023">
     </a>
 <p>
 
