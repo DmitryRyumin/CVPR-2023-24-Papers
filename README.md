@@ -430,7 +430,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Physics-based Vision and Shape-from-X
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Learning Anchor Transformations for 3D Garment Animation |  |  |  |
+| High-Fidelity Event-Radiance Recovery via Transient Event Frequency |  |  |  |
+| Complementary Intrinsics from Neural Radiance Fields and CNNs for Outdoor Scene Relighting |  |  |  |
+| Fresnel Microfacet BRDF: Unification of Polari-Radiometric Surface-Body Reflection |  |  |  |
+| Event-based Shape from Polarization |  |  |  |
+| Weakly-Supervised Single-View Image Relighting |  |  |  |
+| DANI-Net: Uncalibrated Photometric Stereo by Differentiable Shadow Handling, Anisotropic Reflectance Modeling, and Neural Inverse Rendering |  |  |  |
+| Learning Accurate 3D Shape based on Stereo Polarimetric Imaging |  |  |  |
+| Visibility Constrained Wide-Band Illumination Spectrum Design for Seeing-in-the-Dark |  |  |  |
+| Light Source Separation and Intrinsic Image Decomposition under AC Illumination |  |  |  |
+| OReX: Object Reconstruction from Planar Cross-Sections using Neural Fields |  |  |  |
+| Unsupervised Intrinsic Image Decomposition with LiDAR Intensity |  |  |  |
 
 ### Biometrics
 
