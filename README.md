@@ -446,12 +446,33 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Photogrammetry and Remote Sensing
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection |  |  |  |
+| Probability-based Global Cross-Modal Upsampling for Pansharpening |  |  |  |
+| Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares |  |  |  |
+| Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection |  |  |  |
+| ViTs for SITS: Vision Transformers for Satellite Image Time Series |  |  |  |
+| Quantum-Inspired Spectral-Spatial Pyramid Network for Hyperspectral Image Classification |  |  |  |
+| TopDiG: Class-Agnostic Topological Directional Graph Extraction from Remote Sensing Images |  |  |  |
+| OmniCity: Omnipotent City Understanding with Multi-Level and Multi-View Images |  |  |  |
 
 ### Computer Vision Theory
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Neural Dependencies Emerging from Learning Massive Categories |  |  |  |
+| Gaussian Label Distribution Learning for Spherical Image Object Detection |  |  |  |
+| Unbalanced Optimal Transport: A Unified Framework for Object Detection |  |  |  |
+| DropKey for Vision Transformer |  |  |  |
+| SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries |  |  |  |
 
 ### Computer Vision for Social Good
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|----------|:---------:|:---------:|
+| Unlearnable Clusters: Towards Label-Agnostic Unlearnable Examples |  |  |  |
+| On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer |  |  |  |
+| TruFor: Leveraging all-Round Clues for Trustworthy Image Forgery Detection and Localization |  |  |  |
+| SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy |  |  |  |
+| Angelic Patches for Improving Third-Party Object Detector Performance |  |  |  |
