@@ -254,67 +254,67 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  |  |  |
 | GeoMVSNet: Learning Multi-View Stereo with Geometry Perception |  |  |  |
 | 3D Shape Reconstruction of Semi-Transparent Worms |  |  |  |
-<!-- |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  | -->
+| Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution |  |  |  |
+| Virtual Occlusions through Implicit Depth |  |  |  |
+| Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes |  |  |  |
+| Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds |  |  |  |
+| DynamicStereo: Consistent Dynamic Depth from Stereo Videos |  |  |  |
+| Robust Outlier Rejection for 3D Registration with Variational Bayes |  |  |  |
+| Meta Architecture for Point Cloud Analysis |  |  |  |
+| DyLiN: Making Light Field Networks Dynamic |  |  |  |
+| Domain Generalized Stereo Matching via Hierarchical Visual Transformation |  |  |  |
+| Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting |  |  |  |
+| LightedDepth: Video Depth Estimation in Light of Limited Inference View Angles |  |  |  |
+| Long-Term Visual Localization with Mobile Sensors |  |  |  |
+| Revisiting the P3P Problem |  |  |  |
+| I<sup>2</sup>-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs |  |  |  |
+| WildLight: In-the-Wild Inverse Rendering with a Flashlight |  |  |  |
+| SE-ORNet: Self-Ensembling Orientation-Aware Network for Unsupervised Point Cloud Shape Correspondence |  |  |  |
+| Teleidoscopic Imaging System for Microscale 3D Shape Reconstruction |  |  |  |
+| NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction |  |  |  |
+| PointClustering: Unsupervised Point Cloud Pre-Training using Transformation Invariance in Clustering |  |  |  |
+| PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices |  |  |  |
+| TriVol: Point Cloud Rendering via Triple Volumes |  |  |  |
+| Towards Unbiased Volume Rendering of Neural Implicit Surfaces with Geometry Priors |  |  |  |
+| Semi-Supervised Stereo-based 3D Object Detection via Cross-View Consensus |  |  |  |
+| Self-Supervised Pre-Training with Masked Shape Prediction for 3D Scene Understanding |  |  |  |
+| Octree Guided Unoriented Surface Reconstruction |  |  |  |
+| Towards Domain Generalization for Multi-View 3D Object Detection in Bird-Eye-View |  |  |  |
+| Learning Neural Volumetric Representations of Dynamic Humans in Minutes |  |  |  |
+| AnchorFormer: Point Cloud Completion from Discriminative Nodes |  |  |  |
+| Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization |  |  |  |
+| GANmouflage: 3D Object Nondetection with Texture Fields |  |  |  |
+| PEAL: Prior-embedded Explicit Attention Learning for Low-Overlap Point Cloud Registration |  |  |  |
+| NeRFLight: Fast and Light Neural Radiance Fields using a Shared Feature Grid |  |  |  |
+| TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering |  |  |  |
+| Generating Part-Aware Editable 3D Shapes without 3D Supervision |  |  |  |
+| ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction |  |  |  |
+| ORCa: Glossy Objects as Radiance-Field Cameras |  |  |  |
+| NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination |  |  |  |
+| BEV-guided Multi-Modality Fusion for Driving Perception |  |  |  |
+| <i>K</i>-Planes: Explicit Radiance Fields in Space, Time, and Appearance |  |  |  |
+| RobustNeRF: Ignoring Distractors with Robust Losses |  |  |  |
+| Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity |  |  |  |
+| ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer |  |  |  |
+| Diffusion-based Signed Distance Fields for 3D Shape Generation |  |  |  |
+| FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network |  |  |  |
+| Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields |  |  |  |
+| Neural Lens Modeling |  |  |  |
+| Multi-View Reconstruction using Signed Ray Distance Functions (SRDF) |  |  |  |
+| Masked Wavelet Representation for Compact Neural Radiance Fields |  |  |  |
+| A Rotation-Translation-Decoupled Solution for Robust and Efficient Visual-Inertial Initialization |  |  |  |
+| MACARONS: Mapping and Coverage Anticipation with RGB Online Self-Supervision |  |  |  |
+| DualRefine: Self-Supervised Depth and Pose Estimation through Iterative Epipolar Sampling and Refinement Toward Equilibrium |  |  |  |
+| CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data |  |  |  |
+| Semidefinite Relaxations for Robust Multiview Triangulation |  |  |  |
+| High-Frequency Stereo Matching Network |  |  |  |
+| CAP: Robust Point Cloud Classification via Semantic and Structural Modeling |  |  |  |
+| Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM |  |  |  |
+| Temporally Consistent Online Depth Estimation using Point-based Fusion |  |  |  |
+| Learning Neural Parametric Head Models |  |  |  |
+| PointConvFormer: Revenge of the Point-based Convolution |  |  |  |
+| Four-View Geometry with Unknown Radial Distortion |  |  |  |
+| Seeing through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container |  |  |  |
 
 ### Image and Video Synthesis and Generation
 
