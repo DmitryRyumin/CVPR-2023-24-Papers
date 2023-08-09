@@ -134,64 +134,64 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | 3D Registration with Maximal Cliques |  |  |  |
 | OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation |  |  |  |
 | Progressive Spatio-Temporal Alignment for Efficient Event-based Motion Estimation |  |  |  |
+| RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis |  |  |  |
+| NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior |  |  |  |
+| Spherical Transformer for LiDAR-based 3D Recognition |  |  |  |
+| Progressively Optimized Local Radiance Fields for Robust View Synthesis |  |  |  |
+| PersonNeRF: Personalized Reconstruction from Photo Collections |  |  |  |
+| NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation |  |  |  |
+| Representing Volumetric Videos as Dynamic MLP Maps |  |  |  |
+| Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation |  |  |  |
+| A Practical Stereo Depth System for Smart Glasses |  |  |  |
+| Compressing Volumetric Radiance Fields to 1 MB |  |  |  |
+| HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling |  |  |  |
+| Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields |  |  |  |
+| Command-Driven Articulated Object Understanding and Manipulation |  |  |  |
+| SCADE: NeRFs from Space Carving with Ambiguity-Aware Depth Estimates |  |  |  |
+| PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields |  |  |  |
+| NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer |  |  |  |
+| SegLoc: Learning Segmentation-based Representations for Privacy-Preserving Visual Localization |  |  |  |
+| expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization |  |  |  |
+| Neural Vector Fields: Implicit Representation by Explicit Learning |  |  |  |
+| Unsupervised Inference of Signed Distance Functions from Single Sparse Point Clouds without Learning Priors |  |  |  |
+| Learning to Measure the Point Cloud Reconstruction Loss in a Representation Space |  |  |  |
+| Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions |  |  |  |
+| TensoIR: Tensorial Inverse Rendering |  |  |  |
+| Multi-View Inverse Rendering for Large-Scale Real-World Indoor Scenes |  |  |  |
+| Frequency-Modulated Point Cloud Rendering with Easy Editing |  |  |  |
+| VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking |  |  |  |
+| RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models |  |  |  |
+| Multi-View Stereo Representation Revist: Region-Aware MVSNet |  |  |  |
+| AutoRecon: Automated 3D Object Discovery and Reconstruction |  |  |  |
+| Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories |  |  |  |
+| Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis |  |  |  |
+| LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs |  |  |  |
+| Learning 3D Scene Priors with 2D Supervision |  |  |  |
+| NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds |  |  |  |
+| NeuralPCI: Spatio-Temporal Neural Field for 3D Point Cloud Multi-Frame Non-Linear Interpolation |  |  |  |
+| Two-View Geometry Scoring without Correspondences |  |  |  |
+| Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration |  |  |  |
+| RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo |  |  |  |
+| Depth Estimation from Camera Image and mmWave Radar Point Cloud |  |  |  |
+| Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection |  |  |  |
+| Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis |  |  |  |
+| PATS: Patch Area Transportation with Subdivision for Local Feature Matching |  |  |  |
+| Depth Estimation from Indoor Panoramas with Neural Scene Representation |  |  |  |
+| Masked Representation Learning for Domain Generalized Stereo Matching |  |  |  |
+| GANHead: Towards Generative Animatable Neural Head Avatars |  |  |  |
+| Panoptic Lifting for 3D Scene Understanding with Neural Fields |  |  |  |
+| Visual-Tactile Sensing for In-Hand Object Reconstruction |  |  |  |
+| IterativePFN: True Iterative Point Cloud Filtering |  |  |  |
+| Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment |  |  |  |
+| GarmentTracking: Category-Level Garment Pose Tracking |  |  |  |
+| Learning Transformation-Predictive Representations for Detection and Description of Local Features |  |  |  |
+| Local Implicit Ray Function for Generalizable Radiance Field Representation |  |  |  |
+| Grid-guided Neural Radiance Fields for Large Urban Scenes |  |  |  |
+| EventNeRF: Neural Radiance Fields from a Single Colour Event Camera |  |  |  |
+| Learning Optical Expansion from Scale Matching |  |  |  |
+| Self-Supervised 3D Scene Flow Estimation Guided by Superpoints |  |  |  |
+| Adaptive Annealing for Robust Geometric Estimation |  |  |  |
 <!-- |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
