@@ -45,7 +45,7 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
 
 | **Conference** | Year |
 |----------------|:----:|
-| CVPR | [2023](https://github.com/DmitryRyumin/CVPR-2023-Papers) |
+| ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | INTERSPEECH | [2023](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) |
 
 ---
