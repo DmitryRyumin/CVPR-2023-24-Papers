@@ -419,7 +419,31 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Robotics
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States |  |  |  |
+| TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation |  |  |  |
+| Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation using Scene Object Spectrum Grounding |  |  |  |
+| Learning Human-to-Robot Handovers from Point Clouds |  |  |  |
+| Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence |  |  |  |
+| PartManip: Learning Cross-Category Generalizable Part Manipulation Policy from Point Cloud Observations |  |  |  |
+| DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects |  |  |  |
+| PyPose: A Library for Robot Learning with Physics-based Optimization |  |  |  |
+| Target-Referenced Reactive Grasping for Dynamic Objects |  |  |  |
+| Autonomous Manipulation Learning for Similar Deformable Objects via only One Demonstration |  |  |  |
+| Renderable Neural Radiance Map for Visual Navigation |  |  |  |
+| Efficient Map Sparsification based on 2D and 3D Discretized Grids |  |  |  |
+| Policy Adaptation from Foundation Model Feedback |  |  |  |
+| NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis |  |  |  |
+| Markerless Camera-to-Robot Pose Estimation via Self-Supervised Sim-to-Real Transfer |  |  |  |
+| Affordances from Human Videos as a Versatile Representation for Robotics |  |  |  |
+| DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization |  |  |  |
+| GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds |  |  |  |
+| Neural Volumetric Memory for Visual Locomotion Control |  |  |  |
+| Multi-Object Manipulation via Object-Centric Neural Scattering Functions |  |  |  |
+| Local-guided Global: Paired Similarity Representation for Visual Reinforcement Learning |  |  |  |
+| HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion |  |  |  |
+| Imitation Learning as State Matching via Differentiable Physics |  |  |  |
 
 ### Transparency, Fairness, Accountability, Privacy, Ethics in Vision
 
