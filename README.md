@@ -415,7 +415,40 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision + Graphics
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering |  |  |  |
+| <i>RaBit</i>: Pa<i>ra</i>metric Modeling of 3D <i>Bi</i>ped Car<i>t</i>oon Characters with a Topological-Consistent Dataset |  |  |  |
+| DualVector: Unsupervised Vector Font Synthesis with Dual-Part Representation |  |  |  |
+| Magic3D: High-Resolution Text-to-3D Content Creation |  |  |  |
+| Pointersect: Neural Rendering with Cloud-Ray Intersection |  |  |  |
+| Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection |  |  |  |
+| ABLE-NeRF: Attention-based Rendering with Learnable Embeddings for Neural Radiance Field |  |  |  |
+| JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields |  |  |  |
+| LayoutDM: Discrete Diffusion Model for Controllable Layout Generation |  |  |  |
+| LightPainter: Interactive Portrait Relighting with Freehand Scribble |  |  |  |
+| RODIN: A Generative Model for Sculpting 3D Digital Avatars using Diffusion |  |  |  |
+| NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud |  |  |  |
+| CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis |  |  |  |
+| VecFontSDF: Learning to Reconstruct and Synthesize High-Quality Vector Fonts via Signed Distance Functions |  |  |  |
+| Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process |  |  |  |
+| Latent-NeRF for Shape-guided Generation of 3D Shapes and Textures |  |  |  |
+| Parts2Words: Learning Joint Embedding of Point Clouds and Texts by Bidirectional Matching between Parts and Words |  |  |  |
+| Multiplicative Fourier Level of Detail |  |  |  |
+| SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations |  |  |  |
+| Transfer4D: A Framework for Frugal Motion Capture and Deformation Transfer |  |  |  |
+| Plateau-reduced Differentiable Path Tracing |  |  |  |
+| 3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions |  |  |  |
+| Differentiable Shadow Mapping for Efficient Inverse Graphics |  |  |  |
+| Inverse Rendering of Translucent Objects using Physical and Neural Renderers |  |  |  |
+| MAIR: Multi-View Attention Inverse Rendering with 3D Spatially-Varying Lighting Estimation |  |  |  |
+| Neural Fourier Filter Bank |  |  |  |
+| UMat: Uncertainty-Aware Single Image High Resolution Material Capture |  |  |  |
+| Neural Congealing: Aligning Images to a Joint Semantic Atlas |  |  |  |
+| PlenVDB: Memory Efficient VDB-based Radiance Fields for Fast Training and Rendering |  |  |  |
+| VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation |  |  |  |
+| Learning to Render Novel Views from Wide-Baseline Stereo Pairs |  |  |  |
+| CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language |  |  |  |
 
 ### Robotics
 
