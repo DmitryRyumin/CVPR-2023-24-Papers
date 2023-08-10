@@ -423,7 +423,38 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Transparency, Fairness, Accountability, Privacy, Ethics in Vision
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution |  |  |  |
+| Progressive Open Space Expansion for Open-Set Model Attribution |  |  |  |
+| Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack |  |  |  |
+| DartBlur: Privacy Preservation with Detection Artifact Suppression |  |  |  |
+| Reinforcement Learning-based Black-Box Model Inversion Attacks |  |  |  |
+| Model-Agnostic Gender Debiased Image Captioning |  |  |  |
+| Uncurated Image-Text Datasets: Shedding Light on Demographic Bias |  |  |  |
+| AltFreezing for more General Video Face Forgery Detection |  |  |  |
+| Make Landscape Flatter in Differentially Private Federated Learning |  |  |  |
+| DynaFed: Tackling Client Data Heterogeneity with Global Dynamics |  |  |  |
+| Re-Thinking Model Inversion Attacks Against Deep Neural Networks |  |  |  |
+| Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models |  |  |  |
+| TrojViT: Trojan Insertion in Vision Transformers |  |  |  |
+| Difficulty-based Sampling for Debiased Contrastive Representation Learning |  |  |  |
+| Model Barrier: A Compact Un-Transferable Isolation Domain for Model Intellectual Property Protection |  |  |  |
+| Fair Scratch Tickets: Finding Fair Sparse Networks without Weight Training |  |  |  |
+| CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search |  |  |  |
+| Bias in Pruned Vision Models: In-Depth Analysis and Countermeasures |  |  |  |
+| Learning to Generate Image Embeddings with User-Level Differential Privacy |  |  |  |
+| Bias Mimicking: A Simple Sampling Approach for Bias Mitigation |  |  |  |
+| CaPriDe Learning: Confidential and Private Decentralized Learning based on Encryption-Friendly Distillation Loss |  |  |  |
+| DeAR: Debiasing Vision-Language Models with Additive Residuals |  |  |  |
+| Deep Deterministic Uncertainty: A New Simple Baseline |  |  |  |
+| Manipulating Transfer Learning for Property Inference |  |  |  |
+| Training Debiased Subnetworks with Contrastive Weight Pruning |  |  |  |
+| Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models |  |  |  |
+| STDLens: Model Hijacking-Resilient Federated Learning for Object Detection |  |  |  |
+| Architectural Backdoors in Neural Networks |  |  |  |
+| MEDIC: Remove Model Backdoors via Importance Driven Cloning |  |  |  |
+| Learning Debiased Representations via Conditional Attribute Interpolation |  |  |  |
 
 ### Explainable Computer Vision
 
