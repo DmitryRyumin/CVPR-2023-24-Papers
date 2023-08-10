@@ -411,7 +411,43 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision Applications and Systems
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Context De-confounded Emotion Recognition |  |  |  |
+| Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models |  |  |  |
+| Automatic High Resolution Wire Segmentation and Removal |  |  |  |
+| Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning |  |  |  |
+| Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network |  |  |  |
+| Probing Sentiment-Oriented Pre-Training Inspired by Human Sentiment Perception Mechanism |  |  |  |
+| DIP: Dual Incongruity Perceiving Network for Sarcasm Detection |  |  |  |
+| Adaptive Human Matting for Dynamic Videos |  |  |  |
+| LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction |  |  |  |
+| Prototypical Residual Networks for Anomaly Detection and Localization |  |  |  |
+| Are Binary Annotations Sufficient? Video Moment Retrieval via Hierarchical Uncertainty-based Active Learning |  |  |  |
+| Affordance Grounding from Demonstration Video to Target Image |  |  |  |
+| Natural Language-Assisted Sign Language Recognition |  |  |  |
+| CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning |  |  |  |
+| Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation |  |  |  |
+| Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies |  |  |  |
+| Open-Set Fine-Grained Retrieval via Prompting Vision-Language Evaluator |  |  |  |
+| Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking |  |  |  |
+| Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving |  |  |  |
+| Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR |  |  |  |
+| What Can Human Sketches Do for Object Detection? |  |  |  |
+| Dynamic Conceptional Contrastive Learning for Generalized Category Discovery |  |  |  |
+| Balanced Energy Regularization Loss for Out-of-Distribution Detection |  |  |  |
+| Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR |  |  |  |
+| CLIP for All Things Zero-Shot Sketch-based Image Retrieval, Fine-Grained or Not |  |  |  |
+| PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout |  |  |  |
+| Re-Thinking Federated Active Learning based on Inter-Class Diversity |  |  |  |
+| Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection |  |  |  |
+| Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-World |  |  |  |
+| Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection |  |  |  |
+| AccelIR: Task-Aware Image Compression for Accelerating Neural Restoration |  |  |  |
+| Multiclass Confidence and Localization Calibration for Object Detection |  |  |  |
+| Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-Time Mobile Telepresence |  |  |  |
+| Deep Random Projector: Accelerated Deep Image Prior |  |  |  |
+| SIEDOB: Semantic Image Editing by Disentangling Object and Background |  |  |  |
 
 ### Vision + Graphics
 
