@@ -81,7 +81,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### 3D from Multi-View and Sensors
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization | [![GitHub](https://img.shields.io/github/stars/Tangshitao/NeuMap)](https://github.com/Tangshitao/NeuMap) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_NeuMap_Neural_Coordinate_Mapping_by_Auto-Transdecoder_for_Camera_Localization_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11177-b31b1b.svg)](https://arxiv.org/abs/2211.11177) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=u4DGwkXuJXA) |
 | Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation | [![GitHub](https://img.shields.io/github/stars/NVlabs/ConformalKeypoint)](https://github.com/NVlabs/ConformalKeypoint) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Object_Pose_Estimation_With_Statistical_Guarantees_Conformal_Keypoint_Detection_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12246-b31b1b.svg)](https://arxiv.org/abs/2303.12246) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=NWUf4hd571E) |
 | NeuralUDF: Learning Unsigned Distance Fields for Multi-View Reconstruction of Surfaces with Arbitrary Topologies | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.xxlong.site/NeuralUDF/) <br /> [![GitHub](https://img.shields.io/github/stars/xxlong0/NeuralUDF)](https://github.com/xxlong0/NeuralUDF) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Long_NeuralUDF_Learning_Unsigned_Distance_Fields_for_Multi-View_Reconstruction_of_Surfaces_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.14173-b31b1b.svg)](https://arxiv.org/abs/2211.14173) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=JnaXx7qyYQY) |
@@ -432,7 +432,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Embodied Vision: Active Agents, Simulation
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction |  |  |  |
 | Layout-based Causal Inference for Object Navigation |  |  |  |
 | EC<sup>2</sup>: Emergent Communication for Embodied Control |  |  |  |
@@ -451,7 +451,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Document Analysis and Understanding
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Towards Flexible Multi-Modal Document Models |  |  |  |
 | Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling |  |  |  |
 | Unifying Layout Generation with a Decoupled Diffusion Model |  |  |  |
@@ -468,7 +468,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Machine Learning (other than Deep Learning)
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Deep Incomplete Multi-View Clustering with Cross-View Partial Sample and Prototype Alignment |  |  |  |
 | Towards Better Decision Forests: Forest Alternating Optimization |  |  |  |
 | Class Adaptive Network Calibration |  |  |  |
@@ -487,7 +487,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Physics-based Vision and Shape-from-X
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Learning Anchor Transformations for 3D Garment Animation |  |  |  |
 | High-Fidelity Event-Radiance Recovery via Transient Event Frequency |  |  |  |
 | Complementary Intrinsics from Neural Radiance Fields and CNNs for Outdoor Scene Relighting |  |  |  |
@@ -504,7 +504,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Biometrics
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Instance-Aware Domain Generalization for Face Anti-Spoofing |  |  |  |
 | OpenGait: Revisiting Gait Recognition Toward Better Practicality |  |  |  |
 | Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation |  |  |  |
@@ -520,7 +520,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Optimization Methods (other than Deep Learning)
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Pose Synchronization under Multiple Pair-Wise Relative Poses |  |  |  |
 | Adaptive Global Decay Process for Event Cameras |  |  |  |
 | Wide-Angle Rectification via Content-Aware Conformal Mapping |  |  |  |
@@ -537,7 +537,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Photogrammetry and Remote Sensing
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection |  |  |  |
 | Probability-based Global Cross-Modal Upsampling for Pansharpening |  |  |  |
 | Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares |  |  |  |
@@ -550,7 +550,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Computer Vision Theory
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | Neural Dependencies Emerging from Learning Massive Categories |  |  |  |
 | Gaussian Label Distribution Learning for Spherical Image Object Detection |  |  |  |
 | Unbalanced Optimal Transport: A Unified Framework for Object Detection |  |  |  |
@@ -560,17 +560,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ### Computer Vision for Social Good
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
-| Unlearnable Clusters: Towards Label-Agnostic Unlearnable Examples | [![GitHub](https://img.shields.io/github/stars/jiamingzhang94/Unlearnable-Clusters)](https://github.com/jiamingzhang94/Unlearnable-Clusters)|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](http://arxiv.org/abs/2301.01217) |:heavy_minus_sign: |
+|-----------|:--------:|:---------:|:---------:|
+| Unlearnable Clusters: Towards Label-Agnostic Unlearnable Examples | [![GitHub](https://img.shields.io/github/stars/jiamingzhang94/Unlearnable-Clusters)](https://github.com/jiamingzhang94/Unlearnable-Clusters)|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.01217-b31b1b.svg)](http://arxiv.org/abs/2301.01217) | :heavy_minus_sign: |
 | On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
 | SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=YDV_qAw9c1k&pp=ygVNU0NDb252OiBTcGF0aWFsIGFuZCBDaGFubmVsIFJlY29uc3RydWN0aW9uIENvbnZvbHV0aW9uIGZvciBGZWF0dXJlIFJlZHVuZGFuY3k%3D) |
-| TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization | [![GitHub](https://img.shields.io/github/stars/grip-unina/TruFor)](https://github.com/grip-unina/TruFor)|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.00585-b31b1b.svg)](http://arxiv.org/abs/2212.10957)| :heavy_minus_sign: |
+| TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization | [![GitHub](https://img.shields.io/github/stars/grip-unina/TruFor)](https://github.com/grip-unina/TruFor)|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.10957-b31b1b.svg)](http://arxiv.org/abs/2212.10957)| :heavy_minus_sign: |
 | Angelic Patches for Improving Third-Party Object Detector Performance | [![GitHub](https://img.shields.io/github/stars/averysi224/angelic_patches)](https://github.com/averysi224/angelic_patches)|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
 
 ### Others
 
 | **Title** | **Repo** | **Paper** | **Video** |
-|-----------|----------|:---------:|:---------:|
+|-----------|:--------:|:---------:|:---------:|
 | A Bag-of-Prototypes Representation for Dataset-Level Applications |  |  |  |
 | Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation |  |  |  |
 | Label Information Bottleneck for Label Enhancement |  |  |  |
