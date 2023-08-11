@@ -91,7 +91,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### 3D from Multi-View and Sensors
 
-[:top:](#sections)
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -344,7 +346,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image and Video Synthesis and Generation
 
-[:top:](#sections)
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -536,19 +540,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Humans: Face, Body, Pose, Gesture, Movement
 
-[:top:](#sections)
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning
 
-[:top:](#sections)
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Recognition: Categorization, Detection, Retrieval
 
-[:top:](#sections)
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
