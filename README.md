@@ -79,7 +79,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ## [Papers](https://public.tableau.com/views/CVPR2023SubjectAreasbyTeamSize/Dashboard2a?:showVizHome=no)
 
 <details open>
-<summary>Expand Sections <a id="sections"></a></summary>
+<summary>Hide Sections<a id="sections"></a></summary>
 
 - [3D from Multi-View and Sensors](#3d-from-multi-view-and-sensors)
 - [Image and Video Synthesis and Generation](#image-and-video-synthesis-and-generation)
