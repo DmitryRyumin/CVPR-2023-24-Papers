@@ -86,6 +86,37 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 - [Humans: Face, Body, Pose, Gesture, Movement](#humans-face-body-pose-gesture-movement)
 - [Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning](#transfer-meta-low-shot-continual-or-long-tail-learning)
 - [Recognition: Categorization, Detection, Retrieval](#recognition-categorization-detection-retrieval)
+- [Vision, Language, and Reasoning](#vision-language-and-reasoning)
+- [Low-Level Vision](#low-level-vision)
+- [Segmentation, Grouping and Shape Analysis](#segmentation-grouping-and-shape-analysis)
+- [Deep Learning Architectures and Techniques](#deep-learning-architectures-and-techniques)
+- [Multi-Modal Learning](#multi-modal-learning)
+- [3D from Single Images](#3d-from-single-images)
+- [Medical and Biological Vision, Cell Microscopy](#medical-and-biological-vision-cell-microscopy)
+- [Video: Action and Event Understanding](#video-action-and-event-understanding)
+- [Autonomous Driving](#autonomous-driving)
+- [Self-Supervised or Unsupervised Representation Learning](#self-supervised-or-unsupervised-representation-learning)
+- [Datasets and Evaluation](#datasets-and-evaluation)
+- [Scene Analysis and Understanding](#scene-analysis-and-understanding)
+- [Adversarial Attack and Defense](#adversarial-attack-and-defense)
+- [Efficient and Scalable Vision](#efficient-and-scalable-vision)
+- [Computational Imaging](#computational-imaging)
+- [Video: Low-Level Analysis, Motion, and Tracking](#video-low-level-analysis-motion-and-tracking)
+- [Vision Applications and Systems](#vision-applications-and-systems)
+- [Vision and Graphics](#vision-and-graphics)
+- [Robotics](#robotics)
+- [Transparency, Fairness, Accountability, Privacy, Ethics in Vision](#transparency-fairness-accountability-privacy-ethics-in-vision)
+- [Explainable Computer Vision](#explainable-computer-vision)
+- [Embodied Vision: Active Agents, Simulation](#embodied-vision-active-agents-simulation)
+- [Document Analysis and Understanding](#document-analysis-and-understanding)
+- [Machine Learning (other than Deep Learning)](#machine-learning-other-than-deep-learning)
+- [Physics-based Vision and Shape-from-X](#physics-based-vision-and-shape-from-x)
+- [Biometrics](#biometrics)
+- [Optimization Methods (other than Deep Learning)](#optimization-methods-other-than-deep-learning)
+- [Photogrammetry and Remote Sensing](#photogrammetry-and-remote-sensing)
+- [Computer Vision Theory](#computer-vision-theory)
+- [Computer Vision for Social Good](#computer-vision-for-social-good)
+- [Others](#others)
 
 </details>
 
@@ -564,69 +595,137 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Vision, Language, and Reasoning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Low-Level Vision
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Segmentation, Grouping and Shape Analysis
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Deep Learning Architectures and Techniques
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Multi-Modal Learning
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### 3D from Single Images
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Medical and Biological Vision, Cell Microscopy
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Video: Action and Event Understanding
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Autonomous Driving
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Self-Supervised or Unsupervised Representation Learning
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Datasets and Evaluation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Scene Analysis and Understanding
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Adversarial Attack and Defense
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Efficient and Scalable Vision
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 > Will soon be added
 
 ### Computational Imaging
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Video: Low-Level Analysis, Motion, and Tracking
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 > Will soon be added
 
 ### Vision Applications and Systems
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -666,7 +765,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Deep Random Projector: Accelerated Deep Image Prior |  |  |  |
 | SIEDOB: Semantic Image Editing by Disentangling Object and Background |  |  |  |
 
-### Vision + Graphics
+### Vision and Graphics
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -705,6 +808,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Robotics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States |  |  |  |
@@ -732,6 +839,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Imitation Learning as State Matching via Differentiable Physics |  |  |  |
 
 ### Transparency, Fairness, Accountability, Privacy, Ethics in Vision
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -768,6 +879,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Explainable Computer Vision
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Are Data-Driven Explanations Robust against Out-of-Distribution Data? |  |  |  |
@@ -797,6 +912,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Embodied Vision: Active Agents, Simulation
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction |  |  |  |
@@ -816,6 +935,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Document Analysis and Understanding
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Towards Flexible Multi-Modal Document Models |  |  |  |
@@ -832,6 +955,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Disentangling Writer and Character Styles for Handwriting Generation |  |  |  |
 
 ### Machine Learning (other than Deep Learning)
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -852,6 +979,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Physics-based Vision and Shape-from-X
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Learning Anchor Transformations for 3D Garment Animation |  |  |  |
@@ -869,6 +1000,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Biometrics
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Instance-Aware Domain Generalization for Face Anti-Spoofing |  |  |  |
@@ -884,6 +1019,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces |  |  |  |
 
 ### Optimization Methods (other than Deep Learning)
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -902,6 +1041,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Photogrammetry and Remote Sensing
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection |  |  |  |
@@ -915,6 +1058,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Computer Vision Theory
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Neural Dependencies Emerging from Learning Massive Categories |  |  |  |
@@ -925,6 +1072,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Computer Vision for Social Good
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Unlearnable Clusters: Towards Label-Agnostic Unlearnable Examples | [![GitHub](https://img.shields.io/github/stars/jiamingzhang94/Unlearnable-Clusters)](https://github.com/jiamingzhang94/Unlearnable-Clusters) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.01217-b31b1b.svg)](http://arxiv.org/abs/2301.01217) | :heavy_minus_sign: |
@@ -934,6 +1085,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Angelic Patches for Improving Third-Party Object Detector Performance | [![GitHub](https://img.shields.io/github/stars/averysi224/angelic_patches)](https://github.com/averysi224/angelic_patches) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
 
 ### Others
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
+</a>
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
