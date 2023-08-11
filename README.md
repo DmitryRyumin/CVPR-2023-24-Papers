@@ -78,7 +78,20 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## [Papers](https://public.tableau.com/views/CVPR2023SubjectAreasbyTeamSize/Dashboard2a?:showVizHome=no)
 
+<details close>
+<summary>Expand Sections <a id="sections"></a></summary>
+
+- [3D from Multi-View and Sensors](#3d-from-multi-view-and-sensors)
+- [Image and Video Synthesis and Generation](#image-and-video-synthesis-and-generation)
+- [Humans: Face, Body, Pose, Gesture, Movement](#humans-face-body-pose-gesture-movement)
+- [Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning](#transfer-meta-low-shot-continual-or-long-tail-learning)
+- [Recognition: Categorization, Detection, Retrieval](#recognition-categorization-detection-retrieval)
+
+</details>
+
 ### 3D from Multi-View and Sensors
+
+[:top:](#sections)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
@@ -331,6 +344,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Image and Video Synthesis and Generation
 
+[:top:](#sections)
+
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Towards Universal Fake Image Detectors that Generalize Across Generative Models |  |  |  |
@@ -521,13 +536,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ### Humans: Face, Body, Pose, Gesture, Movement
 
+[:top:](#sections)
+
 > Will soon be added
 
 ### Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning
 
+[:top:](#sections)
+
 > Will soon be added
 
 ### Recognition: Categorization, Detection, Retrieval
+
+[:top:](#sections)
 
 > Will soon be added
 
