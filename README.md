@@ -643,7 +643,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Improving Fairness in Facial Albedo Estimation via Visual-Textual Cues |  |  |  |
 | FLEX: Full-Body Grasping without Full-Body Grasps |  |  |  |
 | EDGE: Editable Dance Generation From Music |  |  |  |
-|Complete 3D Human Reconstruction from a Single Incomplete Image |  |  |  |
+| Complete 3D Human Reconstruction from a Single Incomplete Image |  |  |  |
 | Zero-Shot Pose Transfer for Unrigged Stylized 3D Characters |  |  |  |
 | Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video |  |  |  |
 | Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes |  |  |  |
