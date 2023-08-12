@@ -878,7 +878,61 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media |  |  |  |
+| All-in-Focus Imaging from Event Focal Stack |  |  |  |
+| Learning Event Guided High Dynamic Range Video Reconstruction |  |  |  |
+| Propagate and Calibrate: Real-Time Passive Non-Line-of-Sight Tracking |  |  |  |
+| Efficient View Synthesis and 3D-based Multi-Frame Denoising with Multiplane Feature Representations |  |  |  |
+| Occlusion-Free Scene Recovery via Neural Radiance Fields |  |  |  |
+| Image Super-Resolution using T-Tetromino Pixels |  |  |  |
+| Event-based Blurry Frame Interpolation under Blind Exposure |  |  |  |
+| Decoupling-and-Aggregating for Image Exposure Correction |  |  |  |
+| VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining |  |  |  |
+| The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection |  |  |  |
+| Megahertz Light Steering without Moving Parts |  |  |  |
+| Text2Scene: Text-Driven Indoor Scene Stylization with Part-Aware Details |  |  |  |
+| RankMix: Data Augmentation for Weakly Supervised Learning of Classifying whole Slide Images with Diverse Sizes and Imbalanced Categories |  |  |  |
+| Guided Depth Super-Resolution by Deep Anisotropic Diffusion |  |  |  |
+| K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring |  |  |  |
+| Rawgment: Noise-Accounted RAW Augmentation Enables Recognition in a Wide Variety of Environments |  |  |  |
+| Low-Light Image Enhancement via Structure Modeling and Guidance |  |  |  |
+| Analyzing Physical Impacts using Transient Surface Wave Imaging |  |  |  |
+| DC<sup>2</sup>: Dual-Camera Defocus Control by Learning to Refocus |  |  |  |
+| pCON: Polarimetric Coordinate Networks for Neural Scene Representations |  |  |  |
+| Joint HDR Denoising and Fusion: A Real-World Mobile HDR Image Dataset |  |  |  |
+| NLOST: Non-Line-of-Sight Imaging with Transformer |  |  |  |
+| 1000 FPS HDR Video with a Spike-RGB Hybrid Camera |  |  |  |
+| Thermal Spread Functions (TSF): Physics-guided Material Classification |  |  |  |
+| Structured Kernel Estimation for Photon-Limited Deconvolution |  |  |  |
+| EfficientSCI: Densely Connected Network with Space-Time Factorization for Large-Scale Video Snapshot Compressive Imaging |  |  |  |
+| EvShutter: Transforming Events for Unconstrained Rolling Shutter Correction |  |  |  |
+| Tunable Convolutions with Parametric Multi-Loss Optimization |  |  |  |
+| Non-Line-of-Sight Imaging with Signal Superresolution Network |  |  |  |
+| Few-Shot Non-Line-of-Sight Imaging with Signal-Surface Collaborative Regularization |  |  |  |
+| ``Seeing`` Electric Network Frequency from Events |  |  |  |
+| Realistic Saliency Guided Image Enhancement |  |  |  |
+| Learned Image Compression with Mixed Transformer-CNN Architectures |  |  |  |
+| Self-Supervised Blind Motion Deblurring with Deep Expectation Maximization |  |  |  |
+| Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models |  |  |  |
+| Parallel Diffusion Models of Operator and Image for Blind Inverse Problems |  |  |  |
+| Range-Nullspace Video Frame Interpolation with Focalized Motion Estimation |  |  |  |
+| Combining Implicit-Explicit View Correlation for Light Field Semantic Segmentation |  |  |  |
+| Document Image Shadow Removal Guided by Color-Aware Background |  |  |  |
+| Kernel Aware Resampler |  |  |  |
+| Polarized Color Image Denoising |  |  |  |
+| Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation |  |  |  |
+| Role of Transients in Two-Bounce Non-Line-of-Sight Imaging |  |  |  |
+| Inverting the Imaging Process by Learning an Implicit Camera Model |  |  |  |
+| Deep Polarization Reconstruction with PDAVIS Events |  |  |  |
+| A Unified Spatial-Angular Structured Light for Single-View Acquisition of Shape and Reflectance |  |  |  |
+| Energy-Efficient Adaptive 3D Sensing |  |  |  |
+| HDR Imaging with Spatially Varying Signal-to-Noise Ratios |  |  |  |
+| Swept-Angle Synthetic Wavelength Interferometry |  |  |  |
+| Passive Micron-Scale Time-of-Flight with Sunlight Interferometry |  |  |  |
+| Implicit View-Time Interpolation of Stereo Videos using Multi-Plane Disparities and Non-Uniform Coordinates |  |  |  |
+| Learning a Deep Color Difference Metric for Photographic Images |  |  |  |
 
 ### Video: Low-Level Analysis, Motion, and Tracking
 
