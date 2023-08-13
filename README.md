@@ -458,14 +458,14 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Shape-Aware Text-Driven Layered Video Editing |  |  |  |
 | A Unified Pyramid Recurrent Network for Video Frame Interpolation |  |  |  |
 | TAPS3D: Text-guided 3D Textured Shape Generation from Pseudo Supervision |  |  |  |
-| Fine-Grained Face Swapping via Regional GAN Inversion |  |  |  |
+| Fine-grained Face Swapping via Regional GAN Inversion |  |  |  |
 | OTAvatar: One-Shot Talking Face Avatar with Controllable Tri-Plane Rendering |  |  |  |
 | Deep Stereo Video Inpainting |  |  |  |
 | StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer |  |  |  |
 | Cross-GAN Auditing: Unsupervised Identification of Attribute Level Similarities and Differences between Pretrained Generative Models |  |  |  |
 | Unsupervised Volumetric Animation |  |  |  |
 | SINE: SINgle Image Editing with Text-to-Image Diffusion Models |  |  |  |
-| Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis |  |  |  |
+| Progressive Disentangled Representation Learning for Fine-grained Controllable Talking Head Synthesis |  |  |  |
 | CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer |  |  |  |
 | DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality |  |  |  |
 | LEMaRT: Label-Efficient Masked Region Transform for Image Harmonization |  |  |  |
@@ -862,7 +862,69 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| TWINS: A Fine-Tuning Framework for Improved Transferability of Adversarial Robustness and Generalization |  |  |  |
+| Sibling-Attack: Rethinking Transferable Adversarial Attacks Against Face Recognition |  |  |  |
+| T-SEA: Transfer-based Self-Ensemble Attack on Object Detection |  |  |  |
+| The Enemy of My Enemy is My Friend: Exploring Inverse Adversaries for Improving Adversarial Training |  |  |  |
+| Trade-Off between Robustness and Accuracy of Vision Transformers |  |  |  |
+| Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling |  |  |  |
+| Proximal Splitting Adversarial Attack for Semantic Segmentation |  |  |  |
+| Feature Separation and Recalibration for Adversarial Robustness |  |  |  |
+| Enhancing the Self-Universality for Transferable Targeted Attacks |  |  |  |
+| Backdoor Defense via Adaptively Splitting Poisoned Dataset |  |  |  |
+| Dynamic Generative Targeted Attacks with Pattern Injection |  |  |  |
+| Exploring the Relationship between Architectural Design and Adversarially Robust Generalization |  |  |  |
+| Discrete Point-Wise Attack Is Not Enough: Generalized Manifold Adversarial Attack for Face Recognition |  |  |  |
+| Towards Benchmarking and Assessing Visual Naturalness of Physical World Adversarial Attacks |  |  |  |
+| MaLP: Manipulation Localization using a Proactive Scheme |  |  |  |
+| TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets |  |  |  |
+| Minimizing Maximum Model Discrepancy for Transferable Black-Box Targeted Attacks |  |  |  |
+| Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization |  |  |  |
+| AGAIN: Adversarial Training with Attribution Span Enlargement and Hybrid Feature Fusion |  |  |  |
+| Backdoor Defense via Deconfounded Representation Learning |  |  |  |
+| Adversarially Robust Neural Architecture Search for Graph Neural Networks |  |  |  |
+| PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees |  |  |  |
+| Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations |  |  |  |
+| Physically Adversarial Infrared Patches with Learnable Shapes and Locations |  |  |  |
+| Color Backdoor: A Robust Poisoning Attack in Color Space |  |  |  |
+| Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition |  |  |  |
+| Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework Against Graph Neural Networks |  |  |  |
+| Randomized Adversarial Training via Taylor Expansion |  |  |  |
+| Backdoor Cleansing with Unlabeled Data |  |  |  |
+| The Best Defense is a Good Offense: Adversarial Augmentation Against Adversarial Attacks |  |  |  |
+| Ensemble-based Blackbox Attacks on Dense Prediction |  |  |  |
+| Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning |  |  |  |
+| Adversarial Robustness via Random Projection Filters |  |  |  |
+| Boundary Unlearning: Rapid Forgetting of Deep Networks via Shifting the Decision Boundary |  |  |  |
+| Physical-World Optical Adversarial Attacks on 3D Face Recognition |  |  |  |
+| Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation CVPR Proceedings |  |  |  |
+| How to Backdoor Diffusion Models? |  |  |  |
+| The Resource Problem of using Linear Layer Leakage Attack in Federated Learning |  |  |  |
+| Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point Errors on Gradient-based Attacks |  |  |  |
+| Detecting Backdoors in Pre-trained Encoders |  |  |  |
+| Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders |  |  |  |
+| CFA: Class-Wise Calibrated Fair Adversarial Training |  |  |  |
+| Towards Transferable Targeted Adversarial Examples |  |  |  |
+| Hierarchical Fine-grained Image Forgery Detection and Localization |  |  |  |
+| RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts |  |  |  |
+| SlowLiDAR: Increasing the Latency of LiDAR-based Detection using Adversarial Examples |  |  |  |
+| Progressive Backdoor Erasing via Connecting Backdoor and Adversarial Attacks |  |  |  |
+| Improving the Transferability of Adversarial Samples by Path-Augmented Method |  |  |  |
+| Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation |  |  |  |
+| StyLess: Boosting the Transferability of Adversarial Examples |  |  |  |
+| Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup |  |  |  |
+| Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization |  |  |  |
+| Jedi: Entropy-based Localization and Removal of Adversarial Patches |  |  |  |
+| Seasoning Model Soups for Robustness to Adversarial and Natural Distribution Shifts |  |  |  |
+| CUDA: Convolution-based Unlearnable Datasets |  |  |  |
+| Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression |  |  |  |
+| Generalist: Decoupling Natural and Robust Generalization |  |  |  |
+| The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection |  |  |  |
+| Revisiting Residual Networks for Adversarial Robustness |  |  |  |
+| Detecting Backdoors During the Inference Stage based on Corruption Robustness Consistency |  |  |  |
+| Cooperation or Competition: Avoiding Player Domination for Multi-Target Robustness via Adaptive Budgets |  |  |  |
 
 ### Efficient and Scalable Vision
 
@@ -874,7 +936,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |-----------|:--------:|:---------:|:---------:|
 | DisWOT: Student Architecture Search for Distillation WithOut Training |  |  |  |
 | Stitchable Neural Networks |  |  |  |
-| NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling |  |  |  |
+| NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-Wise Modeling |  |  |  |
 | ResFormer: Scaling ViTs with Multi-Resolution Training |  |  |  |
 | PD-Quant: Post-Training Quantization based on Prediction Difference Metric |  |  |  |
 | DepGraph: Towards any Structural Pruning |  |  |  |
@@ -1062,15 +1124,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning |  |  |  |
 | Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation |  |  |  |
 | Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies |  |  |  |
-| Open-Set Fine-Grained Retrieval via Prompting Vision-Language Evaluator |  |  |  |
+| Open-Set Fine-grained Retrieval via Prompting Vision-Language Evaluator |  |  |  |
 | Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking |  |  |  |
 | Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving |  |  |  |
-| Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR |  |  |  |
+| Exploiting Unlabelled Photos for Stronger Fine-grained SBIR |  |  |  |
 | What Can Human Sketches Do for Object Detection? |  |  |  |
 | Dynamic Conceptional Contrastive Learning for Generalized Category Discovery |  |  |  |
 | Balanced Energy Regularization Loss for Out-of-Distribution Detection |  |  |  |
 | Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR |  |  |  |
-| CLIP for All Things Zero-Shot Sketch-based Image Retrieval, Fine-Grained or Not |  |  |  |
+| CLIP for All Things Zero-Shot Sketch-based Image Retrieval, Fine-grained or Not |  |  |  |
 | PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout |  |  |  |
 | Re-Thinking Federated Active Learning based on Inter-Class Diversity |  |  |  |
 | Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection |  |  |  |
@@ -1287,7 +1349,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Adaptive Graph Convolutional Subspace Clustering |  |  |  |
 | Reliable and Interpretable Personalized Federated Learning |  |  |  |
 | Confidence-Aware Personalized Federated Learning via Variational Expectation Maximization |  |  |  |
-| Efficient Verification of Neural Networks against LVM-based Specifications |  |  |  |
+| Efficient Verification of Neural Networks Against LVM-based Specifications |  |  |  |
 | You Are Catching My Attention: Are Vision Transformers Bad Learners under Backdoor Attacks? |  |  |  |
 | Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels |  |  |  |
 | Sliced Optimal Partial Transport |  |  |  |
@@ -1353,7 +1415,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Transformer-based Learned Optimization |  |  |  |
 | Efficient Robust Principal Component Analysis via Block Krylov Iteration and CUR Decomposition |  |  |  |
 | Solving Relaxations of MAP-MRF Problems: Combinatorial In-Face Frank-Wolfe Directions |  |  |  |
-| Robust Generalization against Photon-Limited Corruptions via Worst-Case Sharpness Minimization |  |  |  |
+| Robust Generalization Against Photon-Limited Corruptions via Worst-Case Sharpness Minimization |  |  |  |
 | Elastic Aggregation for Federated Optimization |  |  |  |
 
 ### Photogrammetry and Remote Sensing
@@ -1396,7 +1458,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
 | Unlearnable Clusters: Towards Label-Agnostic Unlearnable Examples | [![GitHub](https://img.shields.io/github/stars/jiamingzhang94/Unlearnable-Clusters)](https://github.com/jiamingzhang94/Unlearnable-Clusters) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Unlearnable_Clusters_Towards_Label-Agnostic_Unlearnable_Examples_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.01217-b31b1b.svg)](http://arxiv.org/abs/2301.01217) | :heavy_minus_sign: |
-| On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-Grained Content-Rich Patches Transfer | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ENiyidPXqb8) |
+| On the Difficulty of Unpaired Infrared-to-Visible Video Translation: Fine-grained Content-Rich Patches Transfer | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_On_the_Difficulty_of_Unpaired_Infrared-to-Visible_Video_Translation_Fine-Grained_Content-Rich_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ENiyidPXqb8) |
 | SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=YDV_qAw9c1k) |
 | TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://grip-unina.github.io/TruFor/) <br /> [![GitHub](https://img.shields.io/github/stars/grip-unina/TruFor)](https://github.com/grip-unina/TruFor) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.10957-b31b1b.svg)](http://arxiv.org/abs/2212.10957) | :heavy_minus_sign: |
 | Angelic Patches for Improving Third-Party Object Detector Performance | [![GitHub](https://img.shields.io/github/stars/averysi224/angelic_patches)](https://github.com/averysi224/angelic_patches) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
