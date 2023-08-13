@@ -846,7 +846,62 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Large-Scale Training Data Search for Object Re-Identification |  |  |  |
+| Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-grained Educational Videos |  |  |  |
+| V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting |  |  |  |
+| NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation |  |  |  |
+| CLOTH4D: A Dataset for Clothed Human Reconstruction |  |  |  |
+| Accelerating Dataset Distillation via Model Augmentation |  |  |  |
+| ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing |  |  |  |
+| Visual Atoms: Pre-Training Vision Transformers with Sinusoidal Waves |  |  |  |
+| Infinite Photorealistic Worlds using Procedural Generation |  |  |  |
+| CelebV-Text: A Large-Scale Facial Text-Video Dataset |  |  |  |
+| Spring: A High-Resolution High-Detail Dataset and Benchmark for Scene Flow, Optical Flow and Stereo |  |  |  |
+| Connecting Vision and Language with Video Localized Narratives |  |  |  |
+| Towards Artistic Image Aesthetics Assessment: A Large-scale Dataset and a New Method |  |  |  |
+| MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos |  |  |  |
+| Toward RAW Object Detection: A New Benchmark and A New Model |  |  |  |
+| Objaverse: A Universe of Annotated 3D Objects |  |  |  |
+| Habitat-Matterport 3D Semantics Dataset |  |  |  |
+| Similarity Metric Learning for RGB-Infrared Group Re-Identification |  |  |  |
+| MISC210K: A Large-Scale Dataset for Multi-Instance Semantic Correspondence |  |  |  |
+| WeatherStream: Light Transport Automation of Single Image Deweathering |  |  |  |
+| MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices |  |  |  |
+| GeoNet: Benchmarking Unsupervised Adaptation Across Geographies |  |  |  |
+| Logical Consistency and Greater Descriptive Power for Facial Hair Attribute Learning |  |  |  |
+| PACO: Parts and Attributes of Common Objects |  |  |  |
+| Understanding Deep Generative Models with Generalized Empirical Likelihoods |  |  |  |
+| BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion |  |  |  |
+| Unicode Analogies: An Anti-Objectivist Visual Reasoning Challenge |  |  |  |
+| A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation |  |  |  |
+| An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions |  |  |  |
+| Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation |  |  |  |
+| BiasBed – Rigorous Texture Bias Evaluation |  |  |  |
+| A Large-Scale Homography Benchmark |  |  |  |
+| Exploring and Utilizing Pattern Imbalance |  |  |  |
+| Full or Weak Annotations? An Adaptive Strategy for Budget-constrained Annotation Campaigns |  |  |  |
+| ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects |  |  |  |
+| Open-Vocabulary Attribute Detection |  |  |  |
+| Visual DNA: Representing and Comparing Images using Distributions of Neuron Activations |  |  |  |
+| Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective |  |  |  |
+| An Image Quality Assessment Dataset for Portraits |  |  |  |
+| Multi-Sensor Large-Scale Dataset for Multi-View 3D Reconstruction |  |  |  |
+| 3D-POP - An Automated Annotation Approach to Facilitate Markerless 2D-3D Tracking of Freely Moving Birds with Marker-based Motion Capture |  |  |  |
+| Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation |  |  |  |
+| Visual Localization using Imperfect 3D Models from the Internet |  |  |  |
+| <i>Fantastic Breaks</i>: A Dataset of Paired 3D Scans of Real-World Broken Objects and Their Complete Counterparts |  |  |  |
+| StarCraftImage: A Dataset for Prototyping Spatial Reasoning Methods for Multi-Agent Environments |  |  |  |
+| MammalNet: A Large-Scale Video Benchmark for Mammal Recognition and Behavior Understanding |  |  |  |
+| A Large-Scale Robustness Analysis of Video Action Recognition Models |  |  |  |
+| Affection: Learning Affective Explanations for Real-World Visual Data |  |  |  |
+| ShapeTalk: A Language Dataset and Framework for 3D Shape Edits and Deformations |  |  |  |
+| Deep Depth Estimation from Thermal Image |  |  |  |
+| DF-Platter: Multi-Face Heterogeneous Deepfake Dataset |  |  |  |
+| A New Dataset based on Images Taken by Blind People for Testing the Robustness of Image Classification Models Trained for ImageNet Categories |  |  |  |
+| RealImpact: A Dataset of Impact Sound Fields for Real Objects |  |  |  |
+| NICO<sup>++</sup>: Towards Better Benchmarking for Domain Generalization |  |  |  |
 
 ### Scene Analysis and Understanding
 
@@ -854,7 +909,62 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| You Only Segment Once: Towards Real-Time Panoptic Segmentation |  |  |  |
+| IS-GGT: Iterative Scene Graph Generation with Generative Transformers |  |  |  |
+| Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness |  |  |  |
+| Panoptic Video Scene Graph Generation |  |  |  |
+| 3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud |  |  |  |
+| JacobiNeRF: NeRF Shaping with Mutual Information Gradients |  |  |  |
+| Learning Geometric-Aware Properties in 2D Representation using Lightweight CAD Models, or Zero Real 3D Pairs |  |  |  |
+| Learning and Aggregating Lane Graphs for Urban Automated Driving |  |  |  |
+| MIME: Human-Aware 3D Scene Generation |  |  |  |
+| Connecting the Dots: Floorplan Reconstruction using Two-Level Queries |  |  |  |
+| NeRF-RPN: A General Framework for Object Detection in NeRFs |  |  |  |
+| Relational Context Learning for Human-Object Interaction Detection |  |  |  |
+| Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion |  |  |  |
+| Token Contrast for Weakly-Supervised Semantic Segmentation |  |  |  |
+| MM-3DScene: 3D Scene Understanding by Customizing Masked Modeling with Informative-Preserved Reconstruction and Self-Distilled Consistency |  |  |  |
+| Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation |  |  |  |
+| CLIP2Scene: Towards Label-Efficient 3D Scene Understanding by CLIP |  |  |  |
+| Multispectral Video Semantic Segmentation: A Benchmark Dataset and Baseline |  |  |  |
+| Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting |  |  |  |
+| Indiscernible Object Counting in Underwater Scenes |  |  |  |
+| Long Range Pooling for 3D Large-Scale Scene Understanding |  |  |  |
+| Delivering Arbitrary-Modal Semantic Segmentation |  |  |  |
+| Images Speak in Images: A Generalist Painter for In-Context Visual Learning |  |  |  |
+| SCPNet: Semantic Scene Completion on Point Cloud |  |  |  |
+| Content-Aware Token Sharing for Efficient Semantic Segmentation with Vision Transformers |  |  |  |
+| OpenScene: 3D Scene Understanding with Open Vocabularies |  |  |  |
+| Devil's on the Edges: Selective Quad Attention for Scene Graph Generation |  |  |  |
+| Delving into Shape-Aware Zero-Shot Semantic Segmentation |  |  |  |
+| Category Query Learning for Human-Object Interaction Classification |  |  |  |
+| Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision |  |  |  |
+| DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction |  |  |  |
+| SCOOP: Self-Supervised Correspondence and Optimization-based Scene Flow |  |  |  |
+| Incremental 3D Semantic Scene Graph Prediction from RGB Sequences |  |  |  |
+| PanelNet: Understanding 360 Indoor Environment via Panel Representation |  |  |  |
+| Perspective Fields for Single Image Camera Calibration |  |  |  |
+| Open-Category Human-Object Interaction Pre-Training via Language Modeling Framework |  |  |  |
+| Fast Contextual Scene Graph Generation with Unbiased Context Augmentation |  |  |  |
+| Diffusion-based Generation, Optimization, and Planning in 3D Scenes |  |  |  |
+| TopNet: Transformer-based Object Placement Network for Image Compositing |  |  |  |
+| Computational Flash Photography through Intrinsics |  |  |  |
+| Probing Neural Representations of Scene Perception in a Hippocampally Dependent Task using Artificial Neural Networks |  |  |  |
+| DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting |  |  |  |
+| LEGO-Net: Learning Regular Rearrangements of Objects in Rooms |  |  |  |
+| Open-Vocabulary Point-Cloud Object Detection without 3D Annotation |  |  |  |
+| Weakly-Supervised Domain Adaptive Semantic Segmentation with Prototypical Contrastive Learning |  |  |  |
+| ScanDMM: A Deep Markov Model of Scanpath Prediction for 360&deg; Images |  |  |  |
+| Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields |  |  |  |
+| TempSAL - Uncovering Temporal Information for Deep Saliency Prediction |  |  |  |
+| Probabilistic Debiasing of Scene Graphs |  |  |  |
+| Towards Unified Scene Text Spotting based on Sequence Generation |  |  |  |
+| Learning to Generate Language-Supervised and Open-Vocabulary Scene Graph using Pre-trained Visual-Semantic Space |  |  |  |
+| Modular Memorability: Tiered Representations for Video Memorability Prediction |  |  |  |
+| Where We Are and What We're Looking At: Query Based Worldwide Image Geo-Localization using Hierarchies and Scenes |  |  |  |
+| HRDFuse: Monocular 360&deg; Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions |  |  |  |
 
 ### Adversarial Attack and Defense
 
