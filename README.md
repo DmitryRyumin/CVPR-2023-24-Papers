@@ -870,7 +870,56 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| DisWOT: Student Architecture Search for Distillation WithOut Training |  |  |  |
+| Stitchable Neural Networks |  |  |  |
+| NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling |  |  |  |
+| ResFormer: Scaling ViTs with Multi-Resolution Training |  |  |  |
+| PD-Quant: Post-Training Quantization based on Prediction Difference Metric |  |  |  |
+| DepGraph: Towards any Structural Pruning |  |  |  |
+| Towards Professional Level Crowd Annotation of Expert Domain Data |  |  |  |
+| GENIE: Show Me the Data for Quantization |  |  |  |
+| Boost Vision Transformer with GPU-Friendly Sparsity and Quantization |  |  |  |
+| MobileOne: An Improved One Millisecond Mobile Backbone |  |  |  |
+| 1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions |  |  |  |
+| Discriminator-Cooperated Feature Map Distillation for GAN Compression |  |  |  |
+| EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention |  |  |  |
+| itKD: Interchange Transfer-based Knowledge Distillation for 3D Object Detection |  |  |  |
+| Slimmable Dataset Condensation |  |  |  |
+| Dynamic Inference with Grounding based Vision and Language Models |  |  |  |
+| ScaleDet: A Scalable Multi-Dataset Object Detector |  |  |  |
+| Learning to Zoom and Unzoom |  |  |  |
+| Generic-to-Specific Distillation of Masked Autoencoders |  |  |  |
+| Post-Training Quantization on Diffusion Models |  |  |  |
+| Global Vision Transformer Pruning with Hessian-Aware Saliency |  |  |  |
+| Network Expansion for Practical Training Acceleration |  |  |  |
+| Compacting Binary Neural Networks by Sparse Kernel Selection |  |  |  |
+| PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection |  |  |  |
+| Practical Network Acceleration with Tiny Sets |  |  |  |
+| Memory-Friendly Scalable Super-Resolution via Rewinding Lottery Ticket Hypothesis |  |  |  |
+| Fast Point Cloud Generation with Straight Flows |  |  |  |
+| Rethinking Federated Learning with Domain Shift: A Prototype View |  |  |  |
+| Solving Oscillation Problem in Post-Training Quantization through a Theoretical Perspective |  |  |  |
+| ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector |  |  |  |
+| Adaptive Channel Sparsity for Federated Learning under System Heterogeneity |  |  |  |
+| A-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting |  |  |  |
+| NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers |  |  |  |
+| NIPQ: Noise Proxy-based Integrated Pseudo-Quantization |  |  |  |
+| FlatFormer: <u>Flat</u>tened Window Attention for Efficient Point Cloud Trans<u>former</u> |  |  |  |
+| SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer |  |  |  |
+| Efficient On-Device Training via Gradient Filtering |  |  |  |
+| Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting |  |  |  |
+| You Need Multiple Exiting: Dynamic Early Exiting for Accelerating Unified Vision Language Model |  |  |  |
+| Adaptive Data-Free Quantization |  |  |  |
+| Train-Once-for-All Personalization |  |  |  |
+| Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN Models |  |  |  |
+| Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers |  |  |  |
+| FFCV: Accelerating Training by Removing Data Bottlenecks |  |  |  |
+| Samples with Low Loss Curvature Improve Data Efficiency |  |  |  |
+| Decentralized Learning with Multi-Headed Distillation |  |  |  |
+| Bit-Shrinking: Limiting Instantaneous Sharpness for Improving Post-Training Quantization |  |  |  |
+| Masked Autoencoders Enable Efficient Knowledge Distillers |  |  |  |
 
 ### Computational Imaging
 
