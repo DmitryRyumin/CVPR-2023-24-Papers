@@ -992,7 +992,79 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| SimpleNet: A Simple Network for Image Anomaly Detection and Localization |  |  |  |
+| Masked Image Modeling with Local Multi-Scale Reconstruction |  |  |  |
+| <i>Ada</i>MAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders |  |  |  |
+| ActMAD: Activation Matching to Align Distributions for Test-Time-Training |  |  |  |
+| Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling is All You Need |  |  |  |
+| DLBD: A Self-Supervised Direct-Learned Binary Descriptor |  |  |  |
+| Cut and Learn for Unsupervised Object Detection and Instance Segmentation |  |  |  |
+| Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration |  |  |  |
+| Masked Motion Encoding for Self-Supervised Video Representation Learning |  |  |  |
+| Stare at what You See: Masked Image Modeling without Reconstruction |  |  |  |
+| Hard Patches Mining for Masked Image Modeling |  |  |  |
+| Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning |  |  |  |
+| EVA: Exploring the Limits of Masked Visual Representation Learning at Scale |  |  |  |
+| MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis |  |  |  |
+| Token Boosting for Robust Self-Supervised Visual Transformer Pre-Training |  |  |  |
+| Unsupervised 3D Point Cloud Representation Learning by Triangle Constrained Contrast for Autonomous Driving |  |  |  |
+| Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond |  |  |  |
+| Integrally Pre-trained Transformer Pyramid Networks |  |  |  |
+| Mixed Autoencoder for Self-Supervised Visual Representation Learning |  |  |  |
+| Correlational Image Modeling for Self-Supervised Visual Pre-Training |  |  |  |
+| Shepherding Slots to Objects: Towards Stable and Robust Object-Centric Learning |  |  |  |
+| Deep Fair Clustering via Maximizing and Minimizing Mutual Information: Theory, Algorithm and Metric |  |  |  |
+| Evolved Part Masking for Self-Supervised Learning |  |  |  |
+| Change-Aware Sampling and Contrastive Learning for Satellite Images |  |  |  |
+| Learning Common Rationale to Improve Self-Supervised Representation for Fine-grained Visual Recognition Problems |  |  |  |
+| DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks |  |  |  |
+| RILS: Masked Visual Reconstruction in Language Semantic Space |  |  |  |
+| Three Guidelines You Should Know for Universally Slimmable Self-Supervised Learning |  |  |  |
+| BASiS: Batch Aligned Spectral Embedding Space |  |  |  |
+| Co-Salient Object Detection with Uncertainty-Aware Group Exchange-Masking |  |  |  |
+| Hyperbolic Contrastive Learning for Visual Representations beyond Objects |  |  |  |
+| Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm |  |  |  |
+| MV-JAR: Masked Voxel Jigsaw and Reconstruction for LiDAR-based Self-Supervised Pre-Training |  |  |  |
+| OmniAL: A Unified CNN Framework for Unsupervised Anomaly Localization |  |  |  |
+| TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models |  |  |  |
+| ALSO: Automotive Lidar Self-Supervision by Occupancy Estimation |  |  |  |
+| Non-Contrastive Unsupervised Learning of Physiological Signals from Video |  |  |  |
+| CrOC: Cross-View Online Clustering for Dense Visual Representation Learning |  |  |  |
+| MOVES: Manipulated Objects in Video Enable Segmentation |  |  |  |
+| Self-Supervised Representation Learning for CAD |  |  |  |
+| Movies2Scenes: using Movie Metadata to Learn Scene Representation |  |  |  |
+| PointCMP: Contrastive Mask Prediction for Self-Supervised Learning on Point Cloud Videos |  |  |  |
+| Texture-guided Saliency Distilling for Unsupervised Salient Object Detection |  |  |  |
+| Multi-Realism Image Compression with a Conditional Generator |  |  |  |
+| Understanding Masked Autoencoders via Hierarchical Latent Variable Models |  |  |  |
+| GeoMAE: Masked Geometric Target Prediction for Self-Supervised Point Cloud Pre-Training |  |  |  |
+| Siamese DETR |  |  |  |
+| Generalizable Implicit Neural Representations via Instance Pattern Composers |  |  |  |
+| Pose-Disentangled Contrastive Learning for Self-Supervised Facial Representation |  |  |  |
+| OT-Filter: an Optimal Transport Filter for Learning with Noisy Labels |  |  |  |
+| Teacher-generated Spatial-Attention Labels Boost Robustness and Accuracy of Contrastive Models |  |  |  |
+| Spatio-Temporal Self-Supervised Learning for Point Clouds in the Wild |  |  |  |
+| BKinD-3D: Self-Supervised 3D Keypoint Discovery from Multi-View Videos |  |  |  |
+| Learning Decorrelated Representations Efficiently using Fast Fourier Transform |  |  |  |
+| Beyond Appearance: A Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks |  |  |  |
+| Learning Geometry-Aware Representations by Sketching |  |  |  |
+| Improving Visual Representation Learning through Perceptual Understanding |  |  |  |
+| MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers |  |  |  |
+| Unsupervised Object Localization: Observing the Background to Discover Objects |  |  |  |
+| MCF: Mutual Correction Framework for Semi-Supervised Medical Image Segmentation |  |  |  |
+| DivClust: Controlling Diversity in Deep Clustering |  |  |  |
+| On Data Scaling in Masked Image Modeling |  |  |  |
+| Revealing the Dark Secrets of Masked Image Modeling |  |  |  |
+| Open-Set Representation Learning through Combinatorial Embedding |  |  |  |
+| Coreset Sampling from Open-Set for Fine-grained Self-Supervised Learning |  |  |  |
+| ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling |  |  |  |
+| MetaViewer: Towards a Unified Multi-View Representation |  |  |  |
+| Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture |  |  |  |
+| Understanding Masked Image Modeling via Learning Occlusion Invariant Feature |  |  |  |
+| CHMATCH: Contrastive Hierarchical Matching and Robust Adaptive Threshold Boosted Semi-Supervised Learning |  |  |  |
+| Regularize Implicit Neural Representation by Itself |  |  |  |
 
 ### Datasets and Evaluation
 
