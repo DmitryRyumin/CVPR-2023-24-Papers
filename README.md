@@ -984,7 +984,77 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| GraVoS: Voxel Selection for 3D Point-Cloud Detection |  |  |  |
+| BEV@DC: Bird's-Eye View Assisted Training for Depth Completion |  |  |  |
+| Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark |  |  |  |
+| PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer |  |  |  |
+| End-to-End Vectorized HD-Map Construction with Piecewise Bezier Curve |  |  |  |
+| MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences |  |  |  |
+| LaserMix for Semi-Supervised LiDAR Semantic Segmentation |  |  |  |
+| MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection |  |  |  |
+| LiDAR2Map: In Defense of LiDAR-based Semantic Map Construction using Online Camera Distillation |  |  |  |
+| Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving |  |  |  |
+| Planning-oriented Autonomous Driving |  |  |  |
+| Distilling Focal Knowledge from Imperfect Expert for 3D Object Detection |  |  |  |
+| Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection |  |  |  |
+| SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation |  |  |  |
+| Azimuth Super-Resolution for FMCW Radar in Autonomous Driving |  |  |  |
+| V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception |  |  |  |
+| Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving |  |  |  |
+| Coaching a Teachable Student |  |  |  |
+| BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks |  |  |  |
+| Center Focusing Network for Real-Time LiDAR Panoptic Segmentation |  |  |  |
+| IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction |  |  |  |
+| Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency |  |  |  |
+| CXTrack: Improving 3D Point Cloud Tracking with Contextual Information |  |  |  |
+| ReasonNet: End-to-End Driving with Temporal and Global Reasoning |  |  |  |
+| Seeing with Sound: Long-Range Acoustic Beamforming for Multimodal Scene Understanding |  |  |  |
+| LinK: Linear Kernel for LiDAR-based 3D Perception |  |  |  |
+| Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving |  |  |  |
+| Tri-Perspective View for Vision-based 3D Semantic Occupancy Prediction |  |  |  |
+| SkyEye: Self-Supervised Bird's-Eye-View Semantic Mapping using Monocular Frontal View Images |  |  |  |
+| BEV-LaneDet: An Efficient 3D Lane Detection based on Virtual Camera via Key-Points |  |  |  |
+| OcTr: Octree-based Transformer for 3D Object Detection |  |  |  |
+| Instant Domain Augmentation for LiDAR Semantic Segmentation |  |  |  |
+| ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries |  |  |  |
+| UniSim: A Neural Closed-Loop Sensor Simulator |  |  |  |
+| Learning Compact Representations for LiDAR Completion and Generation |  |  |  |
+| Towards Unsupervised Object Detection from LiDAR Point Clouds |  |  |  |
+| Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking |  |  |  |
+| Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving |  |  |  |
+| X<sup>3</sup>KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection |  |  |  |
+| PeakConv: Learning Peak Receptive Field for Radar Semantic Segmentation |  |  |  |
+| GD-MAE: Generative Decoder for MAE Pre-Training on LiDAR Point Clouds |  |  |  |
+| Neural Map Prior for Autonomous Driving |  |  |  |
+| Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field |  |  |  |
+| Continuous Pseudo-Label Rectified Domain Adaptive Semantic Segmentation with Implicit Neural Representations |  |  |  |
+| Single Domain Generalization for LiDAR Semantic Segmentation |  |  |  |
+| Uncertainty-Aware Vision-based Metric Cross-View Geolocalization |  |  |  |
+| MixSim: A Hierarchical Framework for Mixed Reality Traffic Simulation |  |  |  |
+| PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds |  |  |  |
+| Uni3D: A Unified Baseline for Multi-Dataset 3D Object Detection |  |  |  |
+| CAPE: Camera View Position Embedding for Multi-View 3D Object Detection |  |  |  |
+| LiDAR-in-the-Loop Hyperparameter Optimization |  |  |  |
+| Bi3D: Bi-Domain Active Learning for Cross-Domain 3D Object Detection |  |  |  |
+| FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction |  |  |  |
+| Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving |  |  |  |
+| Density-Insensitive Unsupervised Domain Adaption on 3D Object Detection |  |  |  |
+| SGLoc: Scene Geometry Encoding for Outdoor LiDAR Localization |  |  |  |
+| TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving |  |  |  |
+| Localized Semantic Feature Mixers for Efficient Pedestrian Detection in Autonomous Driving |  |  |  |
+| Deep Dive into Gradients: Better Optimization for 3D Object Detection with Gradient-corrected IoU Supervision |  |  |  |
+| ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-informed Proposals |  |  |  |
+| BEVHeight: A Robust Framework for Vision-based Roadside 3D Object Detection |  |  |  |
+| VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion |  |  |  |
+| Hidden Gems: 4D Radar Scene Flow Learning using Cross-Modal Supervision |  |  |  |
+| Self-Supervised Image-to-Point Distillation via Semantically Tolerant Contrastive Loss |  |  |  |
+| Query-Centric Trajectory Prediction |  |  |  |
+| Efficient Hierarchical Entropy Model for Learned Point Cloud Compression |  |  |  |
+| Novel Class Discovery for 3D Point Cloud Semantic Segmentation |  |  |  |
+| MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion |  |  |  |
+| FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs |  |  |  |
 
 ### Self-Supervised or Unsupervised Representation Learning
 
