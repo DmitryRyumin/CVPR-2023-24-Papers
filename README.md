@@ -944,7 +944,100 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| PA&DA: Jointly Sampling PAth and DAta for Consistent NAS |  |  |  |
+| Top-Down Visual Attention from Analysis by Synthesis |  |  |  |
+| CUF: Continuous Upsampling Filters |  |  |  |
+| Curvature-Balanced Feature Manifold Learning for Long-tailed Classification |  |  |  |
+| Neighborhood Attention Transformer |  |  |  |
+| Progressive Random Convolutions for Single Domain Generalization |  |  |  |
+| Domain Expansion of Image Generators |  |  |  |
+| Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization |  |  |  |
+| Boosting Verified Training for Robust Image Classifications via Abstraction |  |  |  |
+| Joint Token Pruning and Squeezing Towards more Aggressive Compression of Vision Transformers |  |  |  |
+| Vision Transformer with Super Token Sampling |  |  |  |
+| PointListNet: Deep Learning on 3D Point Lists |  |  |  |
+| Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks |  |  |  |
+| Masked Jigsaw Puzzle: A Versatile Position Embedding for Vision Transformers |  |  |  |
+| Deep Graph Reprogramming |  |  |  |
+| ConvNeXt V2: Co-Designing and Scaling ConvNets with Masked Autoencoders |  |  |  |
+| Frustratingly Easy Regularization on Representation can Boost Deep Reinforcement Learning |  |  |  |
+| Unified Pose Sequence Modeling |  |  |  |
+| RIFormer: Keep Your Vision Backbone Effective but Removing Token Mixer |  |  |  |
+| Real-Time Neural Light Field on Mobile Devices |  |  |  |
+| Towards Scalable Neural Representation for Diverse Videos |  |  |  |
+| AutoFocusFormer: Image Segmentation off the Grid |  |  |  |
+| Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation |  |  |  |
+| Deep Learning of Partial Graph Matching via Differentiable Top-K |  |  |  |
+| WIRE: Wavelet Implicit Neural Representations |  |  |  |
+| Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization |  |  |  |
+| Towards a Smaller Student: Capacity Dynamic Distillation for Efficient Image Retrieval |  |  |  |
+| UniHCP: A Unified Model for Human-Centric Perceptions |  |  |  |
+| Trainable Projected Gradient Method for Robust Fine-Tuning |  |  |  |
+| Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data |  |  |  |
+| B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution |  |  |  |
+| Run, Don't Walk: Chasing Higher FLOPS for Faster Neural Networks |  |  |  |
+| HyperMatch: Noise-Tolerant Semi-Supervised Learning via Relaxed Contrastive Constraint |  |  |  |
+| From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm |  |  |  |
+| Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention |  |  |  |
+| On the Pitfall of Mixup for Uncertainty Calibration |  |  |  |
+| Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision |  |  |  |
+| Mod-Squad: Designing Mixtures of Experts as Modular Multi-Task Learners |  |  |  |
+| DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network |  |  |  |
+| PaCa-ViT: Learning Patch-to-Cluster Attention in Vision Transformers |  |  |  |
+| BiFormer: Vision Transformer with Bi-Level Routing Attention |  |  |  |
+| DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection |  |  |  |
+| Hierarchical Neural Memory Network for Low Latency Event Processing |  |  |  |
+| Block Selection Method for using Feature Norm in Out-of-Distribution Detection |  |  |  |
+| NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction |  |  |  |
+| MDL-NAS: A Joint Multi-Domain Learning Framework for Vision Transformer |  |  |  |
+| VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution |  |  |  |
+| Multi-Agent Automated Machine Learning |  |  |  |
+| Making Vision Transformers Efficient from a Token Sparsification View |  |  |  |
+| Integral Neural Networks |  |  |  |
+| RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving |  |  |  |
+| MIANet: Aggregating Unbiased Instance and General Information for Few-Shot Semantic Segmentation |  |  |  |
+| One-Shot Model for Mixed-Precision Quantization |  |  |  |
+| Learning Dynamic Style Kernels for Artistic Style Transfer |  |  |  |
+| SVGformer: Representation Learning for Continuous Vector Graphics using Transformers |  |  |  |
+| How to Prevent the Continuous Damage of Noises to Model Training? |  |  |  |
+| GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-Shot Class Incremental Task |  |  |  |
+| Differentiable Architecture Search with Random Features |  |  |  |
+| ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer |  |  |  |
+| FIANCEE: Faster Inference of Adversarial Networks via Conditional Early Exits |  |  |  |
+| Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers |  |  |  |
+| Token Turing Machines |  |  |  |
+| Co-training 2<sup>L</sup> Submodels for Visual Recognition |  |  |  |
+| HOTNAS: Hierarchical Optimal Transport for Neural Architecture Search |  |  |  |
+| SLACK: Stable Learning of Augmentations with Cold-Start and KL Regularization |  |  |  |
+| MarginMatch: Improving Semi-Supervised Learning with Pseudo-Margins |  |  |  |
+| Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations |  |  |  |
+| Detection of Out-of-Distribution Samples using Binary Neuron Activation Patterns |  |  |  |
+| Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives |  |  |  |
+| Superclass Learning with Representation Enhancement |  |  |  |
+| Perception and Semantic Aware Regularization for Sequential Confidence Calibration |  |  |  |
+| DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks |  |  |  |
+| Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions |  |  |  |
+| E2PN: Efficient SE(3)-Equivariant Point Network |  |  |  |
+| Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation |  |  |  |
+| Regularization of Polynomial Networks for Image Recognition |  |  |  |
+| Hyperspherical Embedding for Point Cloud Completion |  |  |  |
+| On the Effectiveness of Partial Variance Reduction in Federated Learning with Heterogeneous Data |  |  |  |
+| Independent Component Alignment for Multi-Task Learning |  |  |  |
+| MP-Former: Mask-piloted Transformer for Image Segmentation |  |  |  |
+| SMPConv: Self-Moving Point Representations for Continuous Convolution |  |  |  |
+| MaskCon: Masked Contrastive Learning for Coarse-labelled Dataset |  |  |  |
+| FlexiViT: One Model for All Patch Sizes |  |  |  |
+| GEN: Pushing the Limits of Softmax-based Out-of-Distribution Detection |  |  |  |
+| Zero-Shot Noise2Noise: Efficient Image Denoising without any Data |  |  |  |
+| Castling-ViT: <u>C</u>ompressing Self-<u>A</u>ttention via <u>S</u>witching <u>T</u>owards <u>Li</u>near-A<u>ng</u>ular Attention at Vision Transformer Inference |  |  |  |
+| HNeRV: A Hybrid Neural Representation for Videos |  |  |  |
+| Re-Basin via Implicit Sinkhorn Differentiation |  |  |  |
+| Bayesian Posterior Approximation with Stochastic Ensembles |  |  |  |
+| FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning |  |  |  |
+| Enhancing Multiple Reliability Measures via Nuisance-extended Information Bottleneck |  |  |  |
+| Federated Learning with Data-Agnostic Distribution Fusion |  |  |  |
 
 ### Multi-Modal Learning
 
@@ -952,7 +1045,97 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Pix2Map: Cross-Modal Retrieval for Inferring Street Maps from Images |  |  |  |
+| Audio-Visual Grouping Network for Sound Localization from Mixtures |  |  |  |
+| Learning Semantic Relationship among Instances for Image-Text Matching |  |  |  |
+| Identity-Preserving Talking Face Generation with Landmark and Appearance Priors |  |  |  |
+| ImageBind: One Embedding Space to Bind Them All |  |  |  |
+| Learning to Dub Movies via Hierarchical Prosody Models |  |  |  |
+| OmniMAE: Single Model Masked Pretraining on Images and Videos |  |  |  |
+| CNVid-3.5M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset |  |  |  |
+| Egocentric Audio-Visual Object Localization |  |  |  |
+| Learning Visual Representations via Language-guided Sampling |  |  |  |
+| Unite and Conquer: Plug & Play Multi-Modal Synthesis using Diffusion Models |  |  |  |
+| iQuery: Instruments as Queries for Audio-Visual Sound Separation |  |  |  |
+| Diverse Embedding Expansion Network and Low-Light Cross-Modality Benchmark for Visible-Infrared Person Re-Identification |  |  |  |
+| PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection |  |  |  |
+| Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-Shot Learners |  |  |  |
+| Non-Contrastive Learning Meets Language-Image Pre-Training |  |  |  |
+| Highly Confident Local Structure based Consensus Graph Learning for Incomplete Multi-View Clustering |  |  |  |
+| Vision Transformers are Parameter-Efficient Audio-Visual Learners |  |  |  |
+| Teaching Structured Vision & Language Concepts to Vision & Language Models |  |  |  |
+| Data-Free Sketch-based Image Retrieval |  |  |  |
+| Align and Attend: Multimodal Summarization with Dual Contrastive Losses |  |  |  |
+| Efficient Multimodal Fusion via Interactive Prompting |  |  |  |
+| Multimodal Prompting with Missing Modalities for Visual Recognition |  |  |  |
+| Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-Commerce |  |  |  |
+| What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging |  |  |  |
+| MMANet: Margin-Aware Distillation and Modality-Aware Regularization for Incomplete Multimodal Learning |  |  |  |
+| Multi-Modal Learning with Missing Modality via Shared-Specific Feature Modelling |  |  |  |
+| The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects |  |  |  |
+| Position-guided Text Prompt for Vision-Language Pre-Training |  |  |  |
+| Conditional Generation of Audio from Video via Foley Analogies |  |  |  |
+| OSAN: A One-Stage Alignment Network to Unify Multimodal Alignment and Unsupervised Domain Adaptation |  |  |  |
+| Self-Supervised Video Forensics by Audio-Visual Anomaly Detection |  |  |  |
+| ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding |  |  |  |
+| AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR |  |  |  |
+| Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring |  |  |  |
+| SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text |  |  |  |
+| Exploring and Exploiting Uncertainty for Incomplete Multi-View Classification |  |  |  |
+| EXIF as Language: Learning Cross-Modal Associations between Images and Camera Metadata |  |  |  |
+| Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens |  |  |  |
+| RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval|  |  |  |
+| CASP-Net: Rethinking Video Saliency Prediction from an Audio-Visual Consistency Perceptual Perspective |  |  |  |
+| Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning |  |  |  |
+| ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Regeneration |  |  |  |
+| Look, Radiate, and Learn: Self-Supervised Localisation via Radio-Visual Correspondence |  |  |  |
+| Learning Emotion Representations from Verbal and Nonverbal Communication |  |  |  |
+| Enhanced Multimodal Representation Learning with Cross-Modal KD |  |  |  |
+| MELTR: Meta Loss Transformer for Learning to Fine-Tune Video Foundation Models |  |  |  |
+| Multilateral Semantic Relations Modeling for Image Text Retrieval |  |  |  |
+| GeoVLN: Learning Geometry-enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation |  |  |  |
+| Noisy Correspondence Learning with Meta Similarity Correction |  |  |  |
+| Improving Cross-Modal Retrieval with Set of Diverse Embeddings |  |  |  |
+| Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment |  |  |  |
+| MaPLe: Multi-Modal Prompt Learning |  |  |  |
+| Fine-grained Image-Text Matching by Cross-Modal Hard Aligning Network |  |  |  |
+| Towards Modality-Agnostic Person Re-Identification with Descriptive Query |  |  |  |
+| Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos |  |  |  |
+| FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-Training |  |  |  |
+| MAP: Multimodal Uncertainty-Aware Vision-Language Pre-Training Model |  |  |  |
+| Egocentric Auditory Attention Localization in Conversations |  |  |  |
+| Improving Zero-Shot Generalization and Robustness of Multi-Modal Models |  |  |  |
+| Understanding and Constructing Latent Modality Structures in Multi-Modal Representation Learning |  |  |  |
+| Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles |  |  |  |
+| GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering |  |  |  |
+| BiCro: Noisy Correspondence Rectification for Multi-Modality Data via Bi-Directional Cross-Modal Similarity Consistency |  |  |  |
+| DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training |  |  |  |
+| Referring Image Matting |  |  |  |
+| Leveraging per Image-Token Consistency for Vision-Language Pre-Training |  |  |  |
+| Seeing what You Miss: Vision-Language Pre-Training with Semantic Completion Learning |  |  |  |
+| Sample-Level Multi-View Graph Clustering |  |  |  |
+| SmallCap: Lightweight Image Captioning Prompted with Retrieval Augmentation |  |  |  |
+| On the Effects of Self-Supervision and Contrastive Alignment in Deep Multi-View Clustering |  |  |  |
+| SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model |  |  |  |
+| Novel-View Acoustic Synthesis |  |  |  |
+| MAGVLT: Masked Generative Vision-and-Language Transformer |  |  |  |
+| Reproducible Scaling Laws for Contrastive Language-Image Learning |  |  |  |
+| PMR: Prototypical Modal Rebalance for Multimodal Learning |  |  |  |
+| Language-guided Music Recommendation for Video via Prompt Analogies |  |  |  |
+| RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training |  |  |  |
+| <i>MMG-Ego4D</i>: <i>M</i>ulti-<i>M</i>odal <i>G</i>eneralization in Egocentric Action Recognition |  |  |  |
+| Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning |  |  |  |
+| PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment |  |  |  |
+| Masked Autoencoding Does Not Help Natural Language Supervision at Scale |  |  |  |
+| CLIPPO: Image-and-Language Understanding from Pixels Only |  |  |  |
+| Chat2Map: Efficient Scene Mapping from Multi-Ego Conversations |  |  |  |
+| Critical Learning Periods for Multisensory Integration in Deep Networks |  |  |  |
+| CLIPPING: Distilling CLIP-based Models with a Student base for Video-Language Retrieval |  |  |  |
+| NUWA-LIP: Language-guided Image Inpainting with Defect-Free VQGAN |  |  |  |
+| WINNER: Weakly-Supervised hIerarchical DecompositioN and aligNment for spatio-tEmporal Video gRounding |  |  |  |
+| Multivariate, Multi-Frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation |  |  |  |
 
 ### 3D from Single Images
 
@@ -960,7 +1143,99 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| 3D-Aware Multi-Class Image-to-Image Translation with NeRFs |  |  |  |
+| DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-Aware Scene Synthesis |  |  |  |
+| MagicPony: Learning Articulated 3D Animals in the Wild |  |  |  |
+| Seeing a Rose in Five Thousand Ways |  |  |  |
+| FitMe: Deep Photorealistic 3D Morphable Model Avatars |  |  |  |
+| Scalable, Detailed and Mask-Free Universal Photometric Stereo |  |  |  |
+| Spatio-Focal Bidirectional Disparity Estimation from a Dual-Pixel Image |  |  |  |
+| ShapeClipper: Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency |  |  |  |
+| High-Fidelity Clothed Avatar Reconstruction from a Single Image |  |  |  |
+| TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation |  |  |  |
+| Behind the Scenes: Density Fields for Single View Reconstruction |  |  |  |
+| Reconstructing Animatable Categories from Videos |  |  |  |
+| RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation |  |  |  |
+| Self-Supervised Geometry-Aware Encoder for Style-based 3D GAN Inversion |  |  |  |
+| 3D Cinemagraphy from a Single Image |  |  |  |
+| NeuralLift-360: Lifting An In-the-Wild 2D Photo to a 3D Object with 360&deg; Views |  |  |  |
+| iDisc: Internal Discretization for Monocular Depth Estimation |  |  |  |
+| <i>HairStep</i>: Transfer Synthetic to Real using Strand and Depth Maps for Single-View 3D Hair Modeling |  |  |  |
+| NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-Shot Real Image Animation |  |  |  |
+| NeurOCS: Neural NOCS Supervision for Monocular 3D Object Localization |  |  |  |
+| Multiview Compressive Coding for 3D Reconstruction |  |  |  |
+| FaceLit: Neural 3D Relightable Faces |  |  |  |
+| Rigidity-Aware Detection for 6D Object Pose Estimation |  |  |  |
+| Shape-Constraint Recurrent Flow for 6D Object Pose Estimation |  |  |  |
+| Bringing Inputs to Shared Domains for 3D Interacting Hands Recovery in the Wild |  |  |  |
+| Ref-NPR: Reference-based Non-Photorealistic Radiance Fields for Controllable Scene Stylization |  |  |  |
+| DiffPose: Toward More Reliable 3D Pose Estimation |  |  |  |
+| High-Fidelity 3D GAN Inversion by Pseudo-Multi-View Optimization |  |  |  |
+| Semantic Scene Completion with Cleaner Self |  |  |  |
+| Learned Two-Plane Perspective Prior based Image Resampling for Efficient Object Detection |  |  |  |
+| Mask3D: Pre-Training 2D Vision Transformers by Learning Masked 3D Priors |  |  |  |
+| Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild |  |  |  |
+| Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning |  |  |  |
+| Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization |  |  |  |
+| Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation |  |  |  |
+| gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction |  |  |  |
+| Accidental Light Probes |  |  |  |
+| Learning to Predict Scene-Level Implicit 3D from Posed RGBD Data |  |  |  |
+| DPF: Learning <u>D</u>ense <u>P</u>rediction <u>F</u>ields with Weak Supervision |  |  |  |
+| DIFu: Depth-guided Implicit Function for Clothed Human Reconstruction |  |  |  |
+| OrienterNet: Visual Localization in 2D Public Maps with Neural Matching |  |  |  |
+| Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes |  |  |  |
+| Structured 3D Features for Reconstructing Controllable Avatars |  |  |  |
+| Delving into Discrete Normalizing Flows on SO(3) Manifold for Probabilistic Rotation Modeling |  |  |  |
+| High-Fidelity 3D Human Digitization from Single 2K Resolution Images |  |  |  |
+| Learning 3D-Aware Image Synthesis with Unknown Pose Distribution |  |  |  |
+| DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors |  |  |  |
+| Recovering 3D Hand Mesh Sequence from a Single Blurry Image: A New Dataset and Temporal Unfolding |  |  |  |
+| Visibility Aware Human-Object Interaction Tracking from Single RGB Camera |  |  |  |
+| SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation |  |  |  |
+| Curricular Object Manipulation in LiDAR-based Object Detection |  |  |  |
+| SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction |  |  |  |
+| MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer |  |  |  |
+| Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion |  |  |  |
+| High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition |  |  |  |
+| NeRDi: Single-View NeRF Synthesis with Language-guided Diffusion as General Image Priors |  |  |  |
+| ACL-SPC: Adaptive Closed-Loop System for Self-Supervised Point Cloud Completion |  |  |  |
+| Self-Positioning Point-based Transformer for Point Cloud Understanding |  |  |  |
+| H2ONet: Hand-Occlusion-and-Orientation-Aware Network for Real-Time 3D Hand Mesh Reconstruction |  |  |  |
+| A Probabilistic Attention Model with Occlusion-Aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image |  |  |  |
+| Neural Voting Field for Camera-Space 3D Hand Pose Estimation |  |  |  |
+| PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation |  |  |  |
+| Distilling Neural Fields for Real-Time Articulated Shape Reconstruction |  |  |  |
+| Power Bundle Adjustment for Large-Scale 3D Reconstruction |  |  |  |
+| What You Can Reconstruct from a Shadow |  |  |  |
+| SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction |  |  |  |
+| Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement |  |  |  |
+| Trap Attention: Monocular Depth Estimation with Manual Traps |  |  |  |
+| Crowd3D: Towards Hundreds of People Reconstruction from a Single Image |  |  |  |
+| PAniC-3D: Stylized Single-View 3D Reconstruction from Portraits of Anime Characters |  |  |  |
+| HS-Pose: Hybrid Scope Feature Extraction for Category-Level Object Pose Estimation |  |  |  |
+| A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-the-Wild Images |  |  |  |
+| Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation |  |  |  |
+| SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks |  |  |  |
+| BITE: Beyond Priors for Improved Three-D Dog Pose Estimation |  |  |  |
+| SinGRAF: Learning a 3D Generative Radiance Field for a Single Scene |  |  |  |
+| Flow Supervision for Deformable NeRF |  |  |  |
+| Single Image Depth Prediction Made Better: A Multivariate Gaussian Take |  |  |  |
+| CARTO: Category and Joint Agnostic Reconstruction of ARTiculated Objects |  |  |  |
+| PanoSwin: A Pano-Style Swin Transformer for Panorama Understanding |  |  |  |
+| CP<sup>3</sup>: Channel Pruning Plug-In for Point-based Networks |  |  |  |
+| PC<sup>2</sup>: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction |  |  |  |
+| On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks |  |  |  |
+| Cross-Domain 3D Hand Pose Estimation with Dual Modalities |  |  |  |
+| RealFusion 360&deg; Reconstruction of Any Object from a Single Image |  |  |  |
+| Sampling is Matter: Point-guided 3D Human Mesh Reconstruction |  |  |  |
+| Knowledge Distillation for 6D Pose Estimation by Aligning Distributions of Local Predictions |  |  |  |
+| BAAM: Monocular 3D Pose and Shape Reconstruction with Bi-Contextual Attention Module and Attention-guided Modeling |  |  |  |
+| Single View Scene Scale Estimation using Scale Field |  |  |  |
+| Learning Articulated Shape with Keypoint Pseudo-Labels from Web Images |  |  |  |
+| Deformable Mesh Transformer for 3D Human Mesh Recovery |  |  |  |
 
 ### Medical and Biological Vision, Cell Microscopy
 
