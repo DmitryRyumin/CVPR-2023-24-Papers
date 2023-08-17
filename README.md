@@ -1060,7 +1060,126 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning |  |  |  |
+| Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models |  |  |  |
+| Iterative Proposal Refinement for Weakly-Supervised Video Grounding |  |  |  |
+| MetaCLUE: Towards Comprehensive Visual Metaphors Research |  |  |  |
+| PolyFormer: Referring Image Segmentation as Sequential Polygon Generation |  |  |  |
+| GeneCIS: A Benchmark for General Conditional Image Similarity |  |  |  |
+| FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks |  |  |  |
+| Generative Bias for Robust Visual Question Answering |  |  |  |
+| Advancing Visual Grounding with Scene Knowledge: Benchmark and Method |  |  |  |
+| Gloss Attention for Gloss-Free Sign Language Translation |  |  |  |
+| You Can Ground Earlier than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos |  |  |  |
+| Generalized Decoding for Pixel, Image, and Language |  |  |  |
+| Accelerating Vision-Language Pretraining with Free Language Modeling |  |  |  |
+| GRES: Generalized Referring Expression Segmentation |  |  |  |
+| BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration |  |  |  |
+| RGB no more: Minimally-decoded JPEG Vision Transformers |  |  |  |
+| Scaling Language-Image Pre-Training via Masking |  |  |  |
+| EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding |  |  |  |
+| RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension |  |  |  |
+| Mobile User Interface Element Detection Via Adaptively Prompt Tuning |  |  |  |
+| Context-Aware Alignment and Mutual Masking for 3D-Language Pre-Training |  |  |  |
+| Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation |  |  |  |
+| Meta Compositional Referring Expression Segmentation |  |  |  |
+| VindLU: A Recipe for Effective Video-and-Language Pretraining |  |  |  |
+| Super-CLEVR: A Virtual Benchmark to Diagnose Domain Robustness in Visual Reasoning |  |  |  |
+| GIVL: Improving Geographical Inclusivity of Vision-Language Models with Pre-Training Methods |  |  |  |
+| Learning Customized Visual Models with Retrieval-Augmented Knowledge |  |  |  |
+| LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling |  |  |  |
+| An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling |  |  |  |
+| NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations |  |  |  |
+| Clover: Towards a Unified Video-Language Alignment and Fusion Model |  |  |  |
+| Dual Alignment Unsupervised Domain Adaptation for Video-Text Retrieval |  |  |  |
+| Task Residual for Tuning Vision-Language Models |  |  |  |
+| Dream3D: Zero-Shot Text-to-3D Synthesis using 3D Shape Prior and Text-to-Image Diffusion Models |  |  |  |
+| End-to-End 3D Dense Captioning with Vote2Cap-DETR |  |  |  |
+| Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training |  |  |  |
+| Adaptive Zone-Aware Hierarchical Planner for Vision-Language Navigation |  |  |  |
+| Visual Programming: Compositional Visual Reasoning without Training |  |  |  |
+| Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language |  |  |  |
+| Referring Multi-Object Tracking |  |  |  |
+| MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis |  |  |  |
+| MIST : Multi-Modal Iterative Spatial-Temporal Transformer for Long-Form Video Question Answering |  |  |  |
+| Learning to Segment Every Referring Object Point by Point |  |  |  |
+| Contrastive Grouping with Transformer for Referring Image Segmentation |  |  |  |
+| Prototype-based Embedding Network for Scene Graph Generation |  |  |  |
+| Collaborative Static and Dynamic Vision-Language Streams for Spatio-Temporal Video Grounding |  |  |  |
+| S<sup>3</sup>C: Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning |  |  |  |
+| REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory |  |  |  |
+| Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering |  |  |  |
+| Cap4Video: What can Auxiliary Captions do for Text-Video Retrieval? |  |  |  |
+| Video-Text as Game Players: Hierarchical Banzhaf Interaction for Cross-Modal Representation Learning |  |  |  |
+| HAAV: Hierarchical Aggregation of Augmented Views for Image Captioning |  |  |  |
+| Zero-Shot Referring Image Segmentation with Global-Local Context Features |  |  |  |
+| Hierarchical Semantic Correspondence Networks for Video Paragraph Grounding |  |  |  |
+| Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training |  |  |  |
+| Probabilistic Prompt Learning for Dense Prediction |  |  |  |
+| DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-Training via Word-Region Alignment |  |  |  |
+| All in One: Exploring Unified Video-Language Pre-Training |  |  |  |
+| Is BERT Blind? Exploring the Effect of Vision-and-Language Pretraining on Visual Language Understanding |  |  |  |
+| Divide and Conquer: Answering Questions with Object Factorization and Compositional Reasoning |  |  |  |
+| ConZIC: Controllable Zero-Shot Image Captioning by Sampling-based Polishing |  |  |  |
+| RefCLIP: A Universal Teacher for Weakly Supervised Referring Expression Comprehension |  |  |  |
+| KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation |  |  |  |
+| ANetQA: A Large-Scale Benchmark for Fine-grained Compositional Reasoning over Untrimmed Videos |  |  |  |
+| ViLEM: Visual-Language Error Modeling for Image-Text Retrieval |  |  |  |
+| Multi-Modal Representation Learning with Text-Driven Soft Masks |  |  |  |
+| Meta-Personalizing Vision-Language Models to Find Named Instances in Video |  |  |  |
+| ReCo: Region-Controlled Text-to-Image Generation |  |  |  |
+| Are Deep Neural Networks SMARTer than Second Graders? |  |  |  |
+| Graph Representation for Order-Aware Visual Transformation |  |  |  |
+| 3D Concept Learning and Reasoning from Multi-View Images |  |  |  |
+| Text with Knowledge Graph Augmented Transformer for Video Captioning |  |  |  |
+| Crossing the Gap: Domain Generalization for Image Captioning |  |  |  |
+| MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering |  |  |  |
+| VQACL: A Novel Visual Question Answering Continual Learning Setting |  |  |  |
+| Improving Selective Visual Question Answering by Learning from Your Peers |  |  |  |
+| High-Fidelity 3D Face Generation from Natural Language Descriptions |  |  |  |
+| Language-guided Audio-Visual Source Separation via Trimodal Consistency |  |  |  |
+| Test of Time: Instilling Video-Language Models with a Sense of Time |  |  |  |
+| Learning Situation Hyper-Graphs for Video Question Answering |  |  |  |
+| Pic2Word: Mapping Pictures to Words for Zero-Shot Composed Image Retrieval |  |  |  |
+| Fine-grained Audible Video Description |  |  |  |
+| Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering |  |  |  |
+| A-Cap: Anticipation Captioning with Commonsense Knowledge |  |  |  |
+| Cross-Domain Image Captioning with Discriminative Finetuning |  |  |  |
+| Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations |  |  |  |
+| The Dialog Must Go on: Improving Visual Dialog via Generative Self-Training |  |  |  |
+| Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images! |  |  |  |
+| Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP |  |  |  |
+| Similarity Maps for Self-Training Weakly-Supervised Phrase Grounding |  |  |  |
+| Language Adaptive Weight Generation for Multi-Task Visual Grounding |  |  |  |
+| CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment |  |  |  |
+| Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers |  |  |  |
+| A Simple Framework for Text-Supervised Semantic Segmentation |  |  |  |
+| Learning to Name Classes for Vision and Language Models |  |  |  |
+| Iterative Vision-and-Language Navigation |  |  |  |
+| Behavioral Analysis of Vision-and-Language Navigation Agents |  |  |  |
+| Towards Fast Adaptation of Pretrained Contrastive Models for Multi-Channel Video-Language Retrieval |  |  |  |
+| SynthVSR: Scaling Up Visual Speech Recognition with Synthetic Supervision |  |  |  |
+| METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens |  |  |  |
+| Fusing Pre-trained Language Models with Multimodal Prompts through Reinforcement Learning |  |  |  |
+| Abstract Visual Reasoning: An Algebraic Approach for Solving Raven's Progressive Matrices |  |  |  |
+| Hierarchical Prompt Learning for Multi-Task Learning |  |  |  |
+| Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval |  |  |  |
+| SViTT: Temporal Learning of Sparse Video-Text Transformers |  |  |  |
+| How You Feelin'? Learning Emotions and Mental States in Movie Scenes |  |  |  |
+| Logical Implications for Visual Question Answering Consistency |  |  |  |
+| Image as a Foreign Language: BEIT Pretraining for Vision and Vision-Language Tasks |  |  |  |
+| DeCo: Decomposition and Reconstruction for Compositional Temporal Grounding via Coarse-to-Fine Contrastive Ranking |  |  |  |
+| iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition |  |  |  |
+| Semantic-Conditional Diffusion Networks for Image Captioning |  |  |  |
+| CREPE: Can Vision-Language Foundation Models Reason Compositionally? |  |  |  |
+| RMLVQA: A Margin Loss Approach for Visual Question Answering with Language Biases |  |  |  |
+| Improving Vision-and-Language Navigation by Generating Future-View Image Semantics |  |  |  |
+| Prefix Conditioning Unifies Language and Label Supervision |  |  |  |
+| A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning |  |  |  |
+| From Images to Textual Prompts: Zero-Shot Visual Question Answering with Frozen Large Language Models |  |  |  |
+| Hierarchical Video-Moment Retrieval and Step-Captioning |  |  |  |
 
 ### Low-Level Vision
 
