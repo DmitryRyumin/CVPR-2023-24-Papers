@@ -1260,61 +1260,61 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Temporal Attention Unit: Towards Efficient Spatiotemporal Predictive Learning |  |  |  |
 | Learning Steerable Function for Efficient Image Resampling |  |  |  |
 | Revisiting the Stack-based Inverse Tone Mapping |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Generative Diffusion Prior for Unified Image Restoration and Enhancement |  |  |  |
+| LG-BPN: Local and Global Blind-Patch Network for Self-Supervised Real-World Denoising |  |  |  |
+| Adaptive Spot-guided Transformer for Consistent Local Feature Matching |  |  |  |
+| SFD2: Semantic-guided Feature Detection and Description |  |  |  |
+| Burstormer: Burst Image Restoration and Enhancement Transformer |  |  |  |
+| DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients |  |  |  |
+| Gated Multi-Resolution Transfer Network for Burst Restoration and Enhancement |  |  |  |
+| Structured Sparsity Learning for Efficient Video Super-Resolution |  |  |  |
+| DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos |  |  |  |
+| Exploring Discontinuity for Video Frame Interpolation |  |  |  |
+| Neural Video Compression with Diverse Contexts |  |  |  |
+| FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation |  |  |  |
+| OPE-SR: Orthogonal Position Encoding for Designing a Parameter-Free Upsampling Module in Arbitrary-Scale Image Super-Resolution |  |  |  |
+| Context-based Trit-Plane Coding for Progressive Image Compression |  |  |  |
+| All-in-One Image Restoration for Unknown Degradations using Adaptive Discriminative Filters for Specific Degradations |  |  |  |
+| Learning to Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization |  |  |  |
+| Nighttime Smartphone Reflective Flare Removal using Optical Center Symmetry Prior |  |  |  |
+| Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints |  |  |  |
+| Real-Time Controllable Denoising for Image and Video |  |  |  |
+| Compression-Aware Video Super-Resolution |  |  |  |
+| Spatial-Frequency Mutual Learning for Face Super-Resolution |  |  |  |
+| The Treasure Beneath Multiple Annotations: An Uncertainty-Aware Edge Detector |  |  |  |
+| Toward Stable, Interpretable, and Lightweight Hyperspectral Super-Resolution |  |  |  |
+| Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer |  |  |  |
+| Data-Driven Feature Tracking for Event Cameras |  |  |  |
+| LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression |  |  |  |
+| Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger |  |  |  |
+| Learning to Detect Mirrors from Videos via Dual Correspondences |  |  |  |
+| Robust Unsupervised StyleGAN Image Restoration |  |  |  |
+| Ingredient-oriented Multi-Degradation Learning for Image Restoration |  |  |  |
+| CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution |  |  |  |
+| Semi-Supervised Parametric Real-World Image Harmonization |  |  |  |
+| SmartAssign: Learning a Smart Knowledge Assignment Strategy for Deraining and Desnowing |  |  |  |
+| Robust Single Image Reflection Removal Against Adversarial Attacks |  |  |  |
+| PMatch: Paired Masked Image Modeling for Dense Geometric Matching |  |  |  |
+| Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation |  |  |  |
+| Residual Degradation Learning Unfolding Framework with Mixing Priors Across Spectral and Spatial for Compressive Spectral Imaging |  |  |  |
+| Visual Recognition-Driven Image Restoration for Multiple Degradation with Intrinsic Semantics Recovery |  |  |  |
+| sRGB Real Noise Synthesizing with Neighboring Correlation-Aware Noise Model |  |  |  |
+| Rethinking Image Super Resolution from Long-Tailed Distribution Learning Perspective |  |  |  |
+| Comprehensive and Delicate: An Efficient Transformer for Image Restoration |  |  |  |
+| Super-Resolution Neural Operator |  |  |  |
+| Neumann Network with Recursive Kernels for Single Image Defocus Deblurring |  |  |  |
+| Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection |  |  |  |
+| Learning Rotation-Equivariant Features for Visual Correspondence |  |  |  |
+| Patch-Craft Self-Supervised Training for Correlated Image Denoising |  |  |  |
+| Metadata-based RAW Reconstruction via Implicit Neural Functions |  |  |  |
+| Contrastive Semi-Supervised Learning for Underwater Image Restoration via Reliable Bank |  |  |  |
+| Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning |  |  |  |
+| Spectral Bayesian Uncertainty for Image Super-Resolution |  |  |  |
+| DINER: Disorder-Invariant Implicit Neural Representation |  |  |  |
+| NVTC: Nonlinear Vector Transform Coding |  |  |  |
+| HyperCUT: Video Sequence from a Single Blurry Image using Unsupervised Ordering |  |  |  |
+| You Do Not Need Additional Priors or Regularizers in Retinex-based Low-light Image Enhancement |  |  |  |
+| Learning a Practical SDR-to-HDRTV Up-Conversion using New Dataset and Degradation Models |  |  |  |
 
 ### Segmentation, Grouping and Shape Analysis
 
