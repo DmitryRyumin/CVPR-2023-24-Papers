@@ -1218,48 +1218,48 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SMAE: Few-Shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders |  |  |  |
 | A Unified HDR Imaging Method with Pixel and Patch Level |  |  |  |
 | DegAE: A New Pretraining Paradigm for Low-Level Vision |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input |  |  |  |
+| Blind Video Deflickering by Neural Filtering with a Flawed Atlas |  |  |  |
+| Efficient and Explicit Modelling of Image Hierarchies for Image Restoration |  |  |  |
+| Learning Distortion Invariant Representation for Image Restoration from a Causality Perspective |  |  |  |
+| Human Guided Ground-truth Generation for Realistic Image Super-Resolution |  |  |  |
+| Raw Image Reconstruction with Learned Compact Metadata |  |  |  |
+| Curricular Contrastive Regularization for Physics-Aware Single Image Dehazing |  |  |  |
+| ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal |  |  |  |
+| N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution |  |  |  |
+| Real-time 6K Image Rescaling with Rate-Distortion Optimization |  |  |  |
+| GamutMLP: A Lightweight MLP for Color Loss Recovery |  |  |  |
+| CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion |  |  |  |
+| Quality-Aware Pre-trained Models for Blind Image Quality Assessment |  |  |  |
+| Recurrent Homography Estimation using Homography-guided Image Warping and Focus Transformer |  |  |  |
+| Learning Spatial-Temporal Implicit Neural Representations for Event-guided Video Super-Resolution |  |  |  |
+| RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors |  |  |  |
+| Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera |  |  |  |
+| Structure Aggregation for Cross-Spectral Stereo Image Guided Denoising |  |  |  |
+| Rethinking Optical Flow from Geometric Matching Consistent Perspective |  |  |  |
+| Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior |  |  |  |
+| Perception-Oriented Single Image Super-Resolution using Optimal Objective Estimation |  |  |  |
+| Zero-Shot Dual-Lens Super-Resolution |  |  |  |
+| Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring |  |  |  |
+| A Simple Baseline for Video Restoration with Grouped Spatial-Temporal Shift |  |  |  |
+| Learning Generative Structure Prior for Blind Text Image Super-Resolution |  |  |  |
+| Motion Information Propagation for Neural Video Compression |  |  |  |
+| Joint Video Multi-Frame Interpolation and Deblurring under Unknown Exposure Time |  |  |  |
+| Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields |  |  |  |
+| Learning Sample Relationship for Exposure Correction |  |  |  |
+| Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising |  |  |  |
+| Context-Aware Pretraining for Efficient Blind Image Decomposition |  |  |  |
+| Physics-guided ISO-Dependent Sensor Noise Modeling for Extreme Low-Light Photography |  |  |  |
+| AnyFlow: Arbitrary Scale Optical Flow with Implicit Neural Representation |  |  |  |
+| Complexity-guided Slimmable Decoder for Efficient Deep Video Compression |  |  |  |
+| Bitstream-Corrupted JPEG Images are Restorable: Two-Stage Compensation and Alignment Framework for Image Restoration |  |  |  |
+| Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising |  |  |  |
+| Learning from Unique Perspectives: User-Aware Saliency Modeling |  |  |  |
+| DINN360: Deformable Invertible Neural Network for Latitude-Aware 360&deg; Image Rescaling |  |  |  |
+| ABCD: Arbitrary Bitwise Coefficient for De-Quantization |  |  |  |
+| Temporal Attention Unit: Towards Efficient Spatiotemporal Predictive Learning |  |  |  |
+| Learning Steerable Function for Efficient Image Resampling |  |  |  |
+| Revisiting the Stack-based Inverse Tone Mapping |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -2142,7 +2142,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | DisWOT: Student Architecture Search for Distillation WithOut Training | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lilujunai.github.io/DisWOT-CVPR2023/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_DisWOT_Student_Architecture_Search_for_Distillation_WithOut_Training_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.15678-b31b1b.svg)](http://arxiv.org/abs/2303.15678) | :heavy_minus_sign: |
 | Stitchable Neural Networks | [![GitHub](https://img.shields.io/github/stars/ziplab/SN-Net)](https://github.com/ziplab/SN-Net) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.06586-b31b1b.svg)](http://arxiv.org/abs/2302.06586) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=SfpHVWWLREM) |
 | NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-Wise Modeling | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Maiya_NIRVANA_Neural_Implicit_Representations_of_Videos_With_Adaptive_Networks_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.14593-b31b1b.svg)](http://arxiv.org/abs/2212.14593) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=cJOt3p2WLj0) |
-| ResFormer: Scaling ViTs with Multi-Resolution Training | [![GitHub](https://img.shields.io/github/stars/ruitian12/resformer)](https://github.com/ruitian12/resformer) | 
+| ResFormer: Scaling ViTs with Multi-Resolution Training | [![GitHub](https://img.shields.io/github/stars/ruitian12/resformer)](https://github.com/ruitian12/resformer) |
  [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_ResFormer_Scaling_ViTs_With_Multi-Resolution_Training_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.00776-b31b1b.svg)](http://arxiv.org/abs/2212.00776) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=tx5bSpeRcrE) |
 | PD-Quant: Post-Training Quantization based on Prediction Difference Metric | [![GitHub](https://img.shields.io/github/stars/hustvl/PD-Quant)](https://github.com/hustvl/PD-Quant) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_PD-Quant_Post-Training_Quantization_Based_on_Prediction_Difference_Metric_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.07048-b31b1b.svg)](https://arxiv.org/abs/2212.07048) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5OEmjFcqNPo) |
 | DepGraph: Towards any Structural Pruning | [![GitHub](https://img.shields.io/github/stars/VainF/Torch-Pruning)](https://github.com/VainF/Torch-Pruning) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.12900-b31b1b.svg)](http://arxiv.org/abs/2301.12900) | :heavy_minus_sign: |
