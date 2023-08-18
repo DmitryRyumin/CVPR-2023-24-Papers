@@ -1187,7 +1187,134 @@ Contributions to improve the completeness of this list are greatly appreciated. 
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" />
 </a>
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Activating More Pixels in Image Super-Resolution Transformer |  |  |  |
+| MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection |  |  |  |
+| Omni Aggregation Networks for Lightweight Image Super-Resolution |  |  |  |
+| Blur Interpolation Transformer for Real-World Motion from Blur |  |  |  |
+| Equivalent Transformation and Dual Stream Network Construction for Mobile Image Super-Resolution |  |  |  |
+| Masked Image Training for Generalizable Deep Image Denoising |  |  |  |
+| CutMIB: Boosting Light Field Super-Resolution via Multi-View Image Blending |  |  |  |
+| Learning Semantic-Aware Knowledge Guidance for Low-Light Image Enhancement |  |  |  |
+| Learning A Sparse Transformer Network for Effective Image Deraining |  |  |  |
+| Deep Discriminative Spatial and Temporal Network for Efficient Video Deblurring |  |  |  |
+| Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions |  |  |  |
+| AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation |  |  |  |
+| Self-Supervised Non-Uniform Kernel Estimation with Flow-based Motion Prior for Blind Image Deblurring |  |  |  |
+| OSRT: Omnidirectional Image Super-Resolution with Distortion-Aware Transformer |  |  |  |
+| Toward Accurate Post-Training Quantization for Image Super Resolution |  |  |  |
+| Learning a Simple Low-Light Image Enhancer from Paired Low-Light Instances |  |  |  |
+| Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction |  |  |  |
+| Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution |  |  |  |
+| Unsupervised Cumulative Domain Adaptation for Foggy Scene Optical Flow |  |  |  |
+| PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow |  |  |  |
+| DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration |  |  |  |
+| DNF: Decouple and Feedback Network for Seeing in the Dark |  |  |  |
+| Optimization-Inspired Cross-Attention Transformer for Compressive Sensing |  |  |  |
+| Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution |  |  |  |
+| Event-based Frame Interpolation with Ad-hoc Deblurring |  |  |  |
+| Better ``CMOS`` Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution |  |  |  |
+| SMAE: Few-Shot Learning for HDR Deghosting with Saturation-Aware Masked Autoencoders |  |  |  |
+| A Unified HDR Imaging Method with Pixel and Patch Level |  |  |  |
+| DegAE: A New Pretraining Paradigm for Low-Level Vision |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ### Segmentation, Grouping and Shape Analysis
 
