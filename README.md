@@ -41,7 +41,7 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
 <br />
 <br />
 
-> ***NOTE*:** Conference table will be up to date all the time.
+> :exclamation: Conference table will be up to date all the time.
 
 <table>
     <tr>
