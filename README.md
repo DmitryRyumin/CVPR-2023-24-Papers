@@ -1466,7 +1466,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Real-Time Neural Light Field on Mobile Devices |  |  |  |
 | Towards Scalable Neural Representation for Diverse Videos |  |  |  |
 | AutoFocusFormer: Image Segmentation off the Grid |  |  |  |
-| Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation |  |  |  |
+| Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation | [![GitHub](https://img.shields.io/github/stars/AngusDujw/FTD-distillation)](https://github.com/AngusDujw/FTD-distillation) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Minimizing_the_Accumulated_Trajectory_Error_To_Improve_Dataset_Distillation_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11004-b31b1b.svg)](https://arxiv.org/abs/2211.11004) | :heavy_minus_sign: |
 | Deep Learning of Partial Graph Matching via Differentiable Top-K |  |  |  |
 | WIRE: Wavelet Implicit Neural Representations |  |  |  |
 | Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization |  |  |  |
