@@ -49,6 +49,13 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
         <td colspan="1" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
+      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
+    </tr>
+    <tr>
+        <td>ICCV</td>
+        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
       <td colspan="2" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
