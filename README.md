@@ -2497,7 +2497,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations |  |  |  |
 | Transfer4D: A Framework for Frugal Motion Capture and Deformation Transfer |  |  |  |
 | Plateau-reduced Differentiable Path Tracing |  |  |  |
-| 3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions |  |  |  |
+| 3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://threedle.github.io/3DHighlighter/) <br /> [![GitHub](https://img.shields.io/github/stars/threedle/3DHighlighter)](https://github.com/threedle/3DHighlighter) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Decatur_3D_Highlighter_Localizing_Regions_on_3D_Shapes_via_Text_Descriptions_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.11263-b31b1b.svg)](https://arxiv.org/abs/2212.11263) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=OKPySDDCdd0) |
 | Differentiable Shadow Mapping for Efficient Inverse Graphics |  |  |  |
 | Inverse Rendering of Translucent Objects using Physical and Neural Renderers |  |  |  |
 | MAIR: Multi-View Attention Inverse Rendering with 3D Spatially-Varying Lighting Estimation |  |  |  |
