@@ -2156,7 +2156,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | Category Query Learning for Human-Object Interaction Classification |  |  |  |
 | Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision |  |  |  |
 | DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction |  |  |  |
-| SCOOP: Self-Supervised Correspondence and Optimization-based Scene Flow |  |  |  |
+| SCOOP: Self-Supervised Correspondence and Optimization-based Scene Flow | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://itailang.github.io/SCOOP/) <br /> [![GitHub](https://img.shields.io/github/stars/itailang/SCOOP)](https://github.com/itailang/SCOOP) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lang_SCOOP_Self-Supervised_Correspondence_and_Optimization-Based_Scene_Flow_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.14020-b31b1b.svg)](https://arxiv.org/abs/2211.14020) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=b8MVWGU7V4E) |
 | Incremental 3D Semantic Scene Graph Prediction from RGB Sequences |  |  |  |
 | PanelNet: Understanding 360 Indoor Environment via Panel Representation |  |  |  |
 | Perspective Fields for Single Image Camera Calibration |  |  |  |
