@@ -1451,9 +1451,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| PA&DA: Jointly Sampling PAth and DAta for Consistent NAS |  |  |  |
-| Top-Down Visual Attention from Analysis by Synthesis |  |  |  |
-| CUF: Continuous Upsampling Filters |  |  |  |
+| PA&DA: Jointly Sampling PAth and DAta for Consistent NAS | [![GitHub](https://img.shields.io/github/stars/ShunLu91/PA-DA)](https://github.com/ShunLu91/PA-DA) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Lu_PADA_Jointly_Sampling_Path_and_Data_for_Consistent_NAS_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14772-b31b1b.svg)](https://arxiv.org/abs/2302.14772) | :heavy_minus_sign: |
+| Top-Down Visual Attention from Analysis by Synthesis | [![GitHub](https://img.shields.io/github/stars/bfshi/AbSViT)](https://github.com/bfshi/AbSViT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Shi_Top-Down_Visual_Attention_From_Analysis_by_Synthesis_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13043-b31b1b.svg)](http://arxiv.org/abs/2303.13043) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=9MG--mbXfYE) |
+| CUF: Continuous Upsampling Filters | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://cuf-paper.github.io/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Vasconcelos_CUF_Continuous_Upsampling_Filters_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2210.06965-b31b1b.svg)](http://arxiv.org/abs/2210.06965) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=pusooSMrbHs) |
 | Curvature-Balanced Feature Manifold Learning for Long-tailed Classification |  |  |  |
 | Neighborhood Attention Transformer |  |  |  |
 | Progressive Random Convolutions for Single Domain Generalization |  |  |  |
