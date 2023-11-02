@@ -53,22 +53,22 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td>ICCV</td>
-        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
     </tr>
 </table>
 
