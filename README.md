@@ -53,18 +53,22 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td>ICCV</td>
-        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><i>Speech (SP)</i></td>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
+        <td>ISMIR</td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
     </tr>
 </table>
 
@@ -150,7 +154,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | In-Hand 3D Object Scanning from an RGB Sequence | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rgbinhandscanning.github.io/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Hampali_In-Hand_3D_Object_Scanning_From_an_RGB_Sequence_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16193-b31b1b.svg)](https://arxiv.org/abs/2211.16193) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=OaBKtUBbn3M) |
 | SHS-Net: Learning Signed Hyper Surfaces for Oriented Normal Estimation of Point Clouds | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://leoqli.github.io/SHS-Net/) <br /> [![GitHub](https://img.shields.io/github/stars/LeoQLi/SHS-Net)](https://github.com/LeoQLi/SHS-Net) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SHS-Net_Learning_Signed_Hyper_Surfaces_for_Oriented_Normal_Estimation_of_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.05873-b31b1b.svg)](https://arxiv.org/abs/2305.05873) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=9DHAkjsnVYo) |
 | FAC: 3D Representation Learning via Foreground Aware Feature Contrast | [![GitHub](https://img.shields.io/github/stars/KangchengLiu/FAC_Foreground_Aware_Contrast)](https://github.com/KangchengLiu/FAC_Foreground_Aware_Contrast) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_FAC_3D_Representation_Learning_via_Foreground_Aware_Feature_Contrast_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06388-b31b1b.svg)](https://arxiv.org/abs/2303.06388) | :heavy_minus_sign: |
-| Neural Kernel Surface Reconstruction <br/> [![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00)]()  | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.nvidia.com/labs/toronto-ai/NKSR/) <br /> [![GitHub](https://img.shields.io/github/stars/nv-tlabs/nksr)](https://github.com/nv-tlabs/nksr) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Neural_Kernel_Surface_Reconstruction_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19590-b31b1b.svg)](https://arxiv.org/abs/2305.19590) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=J1V5F2z-dWY) |
+| Neural Kernel Surface Reconstruction <br/> [![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00)]() | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.nvidia.com/labs/toronto-ai/NKSR/) <br /> [![GitHub](https://img.shields.io/github/stars/nv-tlabs/nksr)](https://github.com/nv-tlabs/nksr) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Neural_Kernel_Surface_Reconstruction_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.19590-b31b1b.svg)](https://arxiv.org/abs/2305.19590) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=J1V5F2z-dWY) |
 | NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_NeRFVS_Neural_Radiance_Fields_for_Free_View_Synthesis_via_Geometry_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.06287-b31b1b.svg)](https://arxiv.org/abs/2304.06287) | :heavy_minus_sign: |
 | HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lzhnb.github.io/project-pages/helixsurf.html) <br /> [![GitHub](https://img.shields.io/github/stars/Gorilla-Lab-SCUT/HelixSurf)](https://github.com/Gorilla-Lab-SCUT/HelixSurf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Liang_HelixSurf_A_Robust_and_Efficient_Neural_Implicit_Surface_Learning_of_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.14340-b31b1b.svg)](https://arxiv.org/abs/2302.14340) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=eS5HjmX-l-w) |
 | Multi-Space Neural Radiance Fields | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zx-yin.github.io/msnerf/) <br /> [![GitHub](https://img.shields.io/github/stars/ZX-Yin/ms-nerf)](https://github.com/ZX-Yin/ms-nerf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yin_Multi-Space_Neural_Radiance_Fields_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.04268-b31b1b.svg)](https://arxiv.org/abs/2305.04268) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=mknOiuT7rVo) |
