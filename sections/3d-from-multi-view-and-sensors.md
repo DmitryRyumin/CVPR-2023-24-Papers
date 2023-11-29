@@ -1,12 +1,12 @@
 # CVPR-2023-Papers
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
-    </a>
+ <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
+ <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+ </a>
+ <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">
+ <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+ </a>
 </div>
 
 ## 3D from Multi-View and Sensors
@@ -60,16 +60,16 @@
 | 3D Video Loops from Asynchronous Input | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://limacv.github.io/VideoLoop3D_web/) <br /> [![GitHub](https://img.shields.io/github/stars/limacv/VideoLoop3D)](https://github.com/limacv/VideoLoop3D) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_3D_Video_Loops_From_Asynchronous_Input_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.05312-b31b1b.svg)](https://arxiv.org/abs/2303.05312) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Z_Zs1NLPACk) |
 | UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/megvii-research/CVPR2023-UniDistill)](https://github.com/megvii-research/CVPR2023-UniDistill) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_UniDistill_A_Universal_Cross-Modality_Knowledge_Distillation_Framework_for_3D_Object_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.15083-b31b1b.svg)](https://arxiv.org/abs/2303.15083) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=_DW32YG7SSE) |
 | Neural Scene Chronology | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zju3dv.github.io/neusc/) <br /> [![GitHub](https://img.shields.io/github/stars/zju3dv/NeuSC)](https://github.com/zju3dv/NeuSC) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Neural_Scene_Chronology_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.07970-b31b1b.svg)](https://arxiv.org/abs/2306.07970) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ak47wEZH1kY) |
-| RUST: Latent Neural Scene Representations from Unposed Imagery <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rust-paper.github.io/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Sajjadi_RUST_Latent_Neural_Scene_Representations_From_Unposed_Imagery_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.14306-b31b1b.svg)](https://arxiv.org/abs/2211.14306) | :heavy_minus_sign: |
+| RUST: Latent Neural Scene Representations from Unposed Imagery <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rust-paper.github.io/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Sajjadi_RUST_Latent_Neural_Scene_Representations_From_Unposed_Imagery_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.14306-b31b1b.svg)](https://arxiv.org/abs/2211.14306) | :heavy_minus_sign: |
 | Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://zju3dv.github.io/paintingnature/) <br /> [![GitHub](https://img.shields.io/github/stars/zhanghe3z/PaintingNature)](https://github.com/zhanghe3z/PaintingNature) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Painting_3D_Nature_in_2D_View_Synthesis_of_Natural_Scenes_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.07224-b31b1b.svg)](https://arxiv.org/abs/2302.07224) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=-ipSXuzSs2A) |
-| F<sup>2</sup>-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://totoro97.github.io/projects/f2-nerf/) <br /> [![GitHub](https://img.shields.io/github/stars/totoro97/f2-nerf)](https://github.com/totoro97/f2-nerf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_F2-NeRF_Fast_Neural_Radiance_Field_Training_With_Free_Camera_Trajectories_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.15951-b31b1b.svg)](https://arxiv.org/abs/2303.15951) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=JWQYAucCNl0) |
-| VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/wz7in/CVPR2023-VLSAT)](https://github.com/wz7in/CVPR2023-VLSAT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VL-SAT_Visual-Linguistic_Semantics_Assisted_Training_for_3D_Semantic_Scene_Graph_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14408-b31b1b.svg)](https://arxiv.org/abs/2303.14408) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=YKicx1B5f7c) |
+| F<sup>2</sup>-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://totoro97.github.io/projects/f2-nerf/) <br /> [![GitHub](https://img.shields.io/github/stars/totoro97/f2-nerf)](https://github.com/totoro97/f2-nerf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_F2-NeRF_Fast_Neural_Radiance_Field_Training_With_Free_Camera_Trajectories_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.15951-b31b1b.svg)](https://arxiv.org/abs/2303.15951) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=JWQYAucCNl0) |
+| VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/wz7in/CVPR2023-VLSAT)](https://github.com/wz7in/CVPR2023-VLSAT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VL-SAT_Visual-Linguistic_Semantics_Assisted_Training_for_3D_Semantic_Scene_Graph_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14408-b31b1b.svg)](https://arxiv.org/abs/2303.14408) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=YKicx1B5f7c) |
 | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://lingtengqiu.github.io/2023/REC-MV/) <br /> [![GitHub](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/REC-MV)](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiu_REC-MV_REconstructing_3D_Dynamic_Cloth_From_Monocular_Videos_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.14236-b31b1b.svg)](https://arxiv.org/abs/2305.14236) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=agZ1qOEM1pA&t=17s) |
 | MVImgNet: A Large-Scale Dataset of Multi-View Images | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://gaplab.cuhk.edu.cn/projects/MVImgNet/) <br /> [![GitHub](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/MVImgNet)](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MVImgNet_A_Large-Scale_Dataset_of_Multi-View_Images_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.06042-b31b1b.svg)](https://arxiv.org/abs/2303.06042) | :heavy_minus_sign: |
 | Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://light.princeton.edu/publication/soap/) <br /> [![GitHub](https://img.shields.io/github/stars/princeton-computational-imaging/SoaP)](https://github.com/princeton-computational-imaging/SoaP) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chugunov_Shakes_on_a_Plane_Unsupervised_Depth_Estimation_From_Unstabilized_Photography_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.12324-b31b1b.svg)](https://arxiv.org/abs/2212.12324) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=6Chkn8nW6bk) |
 | GINA-3D: Learning to Generate Implicit Neural Assets in the Wild | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_GINA-3D_Learning_To_Generate_Implicit_Neural_Assets_in_the_Wild_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.02163-b31b1b.svg)](https://arxiv.org/abs/2304.02163) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=aCAik8icuLI) |
-| MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures <br /> [CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mobile-nerf.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/google-research/jax3d)](https://github.com/google-research/jax3d) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_MobileNeRF_Exploiting_the_Polygon_Rasterization_Pipeline_for_Efficient_Neural_Field_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00277-b31b1b.svg)](https://arxiv.org/abs/2208.00277) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=C1rULzOcjuw) |
-| DynIBaR: Neural Dynamic Image-based Rendering <br /> [CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dynibar.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/google/dynibar)](https://github.com/google/dynibar) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11082-b31b1b.svg)](https://arxiv.org/abs/2211.11082) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=SCFfqYBGXt0) |
+| MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures <br /> ![CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://mobile-nerf.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/google-research/jax3d)](https://github.com/google-research/jax3d) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_MobileNeRF_Exploiting_the_Polygon_Rasterization_Pipeline_for_Efficient_Neural_Field_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2208.00277-b31b1b.svg)](https://arxiv.org/abs/2208.00277) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=C1rULzOcjuw) |
+| DynIBaR: Neural Dynamic Image-based Rendering <br /> ![CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dynibar.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/google/dynibar)](https://github.com/google/dynibar) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DynIBaR_Neural_Dynamic_Image-Based_Rendering_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.11082-b31b1b.svg)](https://arxiv.org/abs/2211.11082) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=SCFfqYBGXt0) |
 | IMP: Iterative Matching and Pose Estimation with Adaptive Pooling | [![GitHub](https://img.shields.io/github/stars/feixue94/imp-release)](https://github.com/feixue94/imp-release) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.14837-b31b1b.svg)](https://arxiv.org/abs/2304.14837) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=yH3d-AzyTGo) |
 | Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation | [![GitHub](https://img.shields.io/github/stars/lly00412/SEDNet)](https://github.com/lly00412/SEDNet) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00152-b31b1b.svg)](https://arxiv.org/abs/2304.00152) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5Y6Vo69SiLQ) |
 | NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-View Images | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat) <br /> [![GitHub](https://img.shields.io/github/stars/xmeng525/NeAT)](https://github.com/xmeng525/NeAT) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Meng_NeAT_Learning_Neural_Implicit_Surfaces_With_Arbitrary_Topologies_From_Multi-View_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12012-b31b1b.svg)](https://arxiv.org/abs/2303.12012) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=GQNaW8GZOsM) |
@@ -77,11 +77,11 @@
 | Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection | [![GitHub](https://img.shields.io/github/stars/JessieW0806/Bi-LRFusion)](https://github.com/JessieW0806/Bi-LRFusion) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Bi-LRFusion_Bi-Directional_LiDAR-Radar_Fusion_for_3D_Dynamic_Object_Detection_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2306.01438-b31b1b.svg)](https://arxiv.org/abs/2306.01438) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=mVm8x09SqHs) |
 | NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://jokeryan.github.io/projects/nerf-ds/) <br /> [![GitHub](https://img.shields.io/github/stars/JokerYan/NeRF-DS)](https://github.com/JokerYan/NeRF-DS) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_NeRF-DS_Neural_Radiance_Fields_for_Dynamic_Specular_Objects_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14435-b31b1b.svg)](https://arxiv.org/abs/2303.14435) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=VQShDzJ4NvI) |
 | LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion | [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/LoGoNet)](https://github.com/PJLab-ADG/LoGoNet) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_LoGoNet_Towards_Accurate_3D_Object_Detection_With_Local-to-Global_Cross-Modal_Fusion_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.03595-b31b1b.svg)](https://arxiv.org/abs/2303.03595) | :heavy_minus_sign: |
-| 3D Registration with Maximal Cliques <br /> [CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub](https://img.shields.io/github/stars/zhangxy0517/3D-Registration-with-Maximal-Cliques)](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10854-b31b1b.svg)](https://arxiv.org/abs/2305.10854) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=LhALRCQo400) |
-| OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation <br /> [CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://omniobject3d.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/omniobject3d/OmniObject3D)](https://github.com/omniobject3d/OmniObject3D) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.07525-b31b1b.svg)](https://arxiv.org/abs/2301.07525) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=3rK9gVWxwS0) |
+| 3D Registration with Maximal Cliques <br /> ![CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub](https://img.shields.io/github/stars/zhangxy0517/3D-Registration-with-Maximal-Cliques)](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.10854-b31b1b.svg)](https://arxiv.org/abs/2305.10854) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=LhALRCQo400) |
+| OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation <br /> ![CVPR - Award](https://img.shields.io/badge/CVPR-Award-294A7C) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://omniobject3d.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/omniobject3d/OmniObject3D)](https://github.com/omniobject3d/OmniObject3D) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_OmniObject3D_Large-Vocabulary_3D_Object_Dataset_for_Realistic_Perception_Reconstruction_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.07525-b31b1b.svg)](https://arxiv.org/abs/2301.07525) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=3rK9gVWxwS0) |
 | Progressive Spatio-Temporal Alignment for Efficient Event-based Motion Estimation | [![GitHub](https://img.shields.io/github/stars/huangxueyan/PEME)](https://github.com/huangxueyan/PEME) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Progressive_Spatio-Temporal_Alignment_for_Efficient_Event-Based_Motion_Estimation_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hEMm-Fkim7M) |
 | RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
-| NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://nope-nerf.active.vision/) <br /> [![GitHub](https://img.shields.io/github/stars/ActiveVisionLab/nope-nerf)](https://github.com/ActiveVisionLab/nope-nerf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Bian_NoPe-NeRF_Optimising_Neural_Radiance_Field_With_No_Pose_Prior_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.07388-b31b1b.svg)](https://arxiv.org/abs/2212.07388) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=DVFbxol_mdA) |
+| NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://nope-nerf.active.vision/) <br /> [![GitHub](https://img.shields.io/github/stars/ActiveVisionLab/nope-nerf)](https://github.com/ActiveVisionLab/nope-nerf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Bian_NoPe-NeRF_Optimising_Neural_Radiance_Field_With_No_Pose_Prior_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.07388-b31b1b.svg)](https://arxiv.org/abs/2212.07388) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=DVFbxol_mdA) |
 | Spherical Transformer for LiDAR-based 3D Recognition | [![GitHub](https://img.shields.io/github/stars/dvlab-research/SphereFormer)](https://github.com/dvlab-research/SphereFormer) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lai_Spherical_Transformer_for_LiDAR-Based_3D_Recognition_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12766-b31b1b.svg)](https://arxiv.org/abs/2303.12766) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=b3p_7yin5Qk) |
 | Progressively Optimized Local Radiance Fields for Robust View Synthesis | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://localrf.github.io/) <br /> [![GitHub](https://img.shields.io/github/stars/facebookresearch/localrf)](https://github.com/facebookresearch/localrf) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Meuleman_Progressively_Optimized_Local_Radiance_Fields_for_Robust_View_Synthesis_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13791-b31b1b.svg)](https://arxiv.org/abs/2303.13791) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=GfXAHDxUY4M) |
 | PersonNeRF: Personalized Reconstruction from Photo Collections | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://grail.cs.washington.edu/projects/personnerf/) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_PersonNeRF_Personalized_Reconstruction_From_Photo_Collections_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2302.08504-b31b1b.svg)](https://arxiv.org/abs/2302.08504) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=XbkSYQw_dUE) |
@@ -90,174 +90,174 @@
 | Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation | [![GitHub](https://img.shields.io/github/stars/hikvision-research/3DVision)](https://github.com/hikvision-research/3DVision) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Du_Rethinking_the_Approximation_Error_in_3D_Surface_Fitting_for_Point_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.17167-b31b1b.svg)](http://arxiv.org/abs/2303.17167) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0Hjzf0UCtq4) |
 | A Practical Stereo Depth System for Smart Glasses | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.10551-b31b1b.svg)](http://arxiv.org/abs/2211.10551) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=jRh2qlclJ8w) |
 | Compressing Volumetric Radiance Fields to 1 MB | [![GitHub](https://img.shields.io/github/stars/AlgoHunt/VQRF)](https://github.com/AlgoHunt/VQRF) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Li_Compressing_Volumetric_Radiance_Fields_to_1_MB_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.16386-b31b1b.svg)](http://arxiv.org/abs/2211.16386) | :heavy_minus_sign: |
-| HyperReel: High-Fidelity 6-DoF Video With Ray-Conditioned Sampling <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/facebookresearch/hyperreel)](https://github.com/facebookresearch/hyperreel) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Attal_HyperReel_High-Fidelity_6-DoF_Video_With_Ray-Conditioned_Sampling_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.02238-b31b1b.svg)](https://arxiv.org/abs/2301.02238) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hBjJQ1lpR0k) |
+| HyperReel: High-Fidelity 6-DoF Video With Ray-Conditioned Sampling <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/facebookresearch/hyperreel)](https://github.com/facebookresearch/hyperreel) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Attal_HyperReel_High-Fidelity_6-DoF_Video_With_Ray-Conditioned_Sampling_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.02238-b31b1b.svg)](https://arxiv.org/abs/2301.02238) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hBjJQ1lpR0k) |
 | Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields | :heavy_minus_sign:|[![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Hu_Point2Pix_Photo-Realistic_Point_Cloud_Rendering_via_Neural_Radiance_Fields_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.16482-b31b1b.svg)](http://arxiv.org/abs/2303.16482) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=XmGJ8VfCxPQ) |
-| Command-Driven Articulated Object Understanding and Manipulation |  :heavy_minus_sign:  | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Chu_Command-Driven_Articulated_Object_Understanding_and_Manipulation_CVPR_2023_paper.pdf)  | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=-UJBvLH93uM) |
+| Command-Driven Articulated Object Understanding and Manipulation | :heavy_minus_sign: | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Chu_Command-Driven_Articulated_Object_Understanding_and_Manipulation_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=-UJBvLH93uM) |
 | SCADE: NeRFs from Space Carving With Ambiguity-Aware Depth Estimates | [![GitHub](https://img.shields.io/github/stars/mikacuy/scade)](https://github.com/mikacuy/scade) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Uy_SCADE_NeRFs_from_Space_Carving_With_Ambiguity-Aware_Depth_Estimates_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.13582-b31b1b.svg)](http://arxiv.org/abs/2303.13582) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5XwWZn-kjBU) |
-| Panoptic Lifting for 3D Scene Understanding with Neural Fields <br /> [CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/nihalsid/panoptic-lifting)](https://github.com/nihalsid/panoptic-lifting) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Siddiqui_Panoptic_Lifting_for_3D_Scene_Understanding_With_Neural_Fields_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.09802-b31b1b.svg)](https://arxiv.org/abs/2212.09802) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/QtsiL-6rSuM) |
-| PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields |  |  |  |
-| NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer |  |  |  |
-| SegLoc: Learning Segmentation-based Representations for Privacy-Preserving Visual Localization |  |  |  |
-| expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization |  |  |  |
-| Neural Vector Fields: Implicit Representation by Explicit Learning |  |  |  |
-| Unsupervised Inference of Signed Distance Functions from Single Sparse Point Clouds without Learning Priors |  |  |  |
-| Learning to Measure the Point Cloud Reconstruction Loss in a Representation Space |  |  |  |
-| Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions |  |  |  |
-| TensoIR: Tensorial Inverse Rendering |  |  |  |
-| Multi-View Inverse Rendering for Large-Scale Real-World Indoor Scenes |  |  |  |
-| Frequency-Modulated Point Cloud Rendering with Easy Editing |  |  |  |
-| VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking |  |  |  |
-| RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models |  |  |  |
-| Multi-View Stereo Representation Revist: Region-Aware MVSNet |  |  |  |
-| AutoRecon: Automated 3D Object Discovery and Reconstruction |  |  |  |
-| Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories |  |  |  |
-| Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis |  |  |  |
-| LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs |  |  |  |
-| Learning 3D Scene Priors with 2D Supervision |  |  |  |
-| NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds |  |  |  |
-| NeuralPCI: Spatio-Temporal Neural Field for 3D Point Cloud Multi-Frame Non-Linear Interpolation |  |  |  |
-| Two-View Geometry Scoring without Correspondences |  |  |  |
-| Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration |  |  |  |
-| RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo |  |  |  |
-| Depth Estimation from Camera Image and mmWave Radar Point Cloud |  |  |  |
-| Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection |  |  |  |
-| Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis |  |  |  |
-| PATS: Patch Area Transportation with Subdivision for Local Feature Matching |  |  |  |
-| Depth Estimation from Indoor Panoramas with Neural Scene Representation |  |  |  |
-| Masked Representation Learning for Domain Generalized Stereo Matching |  |  |  |
-| GANHead: Towards Generative Animatable Neural Head Avatars |  |  |  |
-| Visual-Tactile Sensing for In-Hand Object Reconstruction |  |  |  |
-| IterativePFN: True Iterative Point Cloud Filtering |  |  |  |
-| Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment |  |  |  |
-| GarmentTracking: Category-Level Garment Pose Tracking |  |  |  |
-| Learning Transformation-Predictive Representations for Detection and Description of Local Features |  |  |  |
-| Local Implicit Ray Function for Generalizable Radiance Field Representation |  |  |  |
-| Grid-guided Neural Radiance Fields for Large Urban Scenes |  |  |  |
-| EventNeRF: Neural Radiance Fields from a Single Colour Event Camera |  |  |  |
-| Learning Optical Expansion from Scale Matching |  |  |  |
-| Self-Supervised 3D Scene Flow Estimation Guided by Superpoints |  |  |  |
-| Adaptive Annealing for Robust Geometric Estimation |  |  |  |
-| SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes |  |  |  |
-| PlaneDepth: Self-Supervised Depth Estimation via Orthogonal Planes |  |  |  |
-| High-Res Facial Appearance Capture from Polarized Smartphone Images |  |  |  |
-| Tensor4D: Efficient Neural 4D Decomposition for High-Fidelity Dynamic Reconstruction and Rendering |  |  |  |
-| Fully Self-Supervised Depth Estimation from Defocus Clue |  |  |  |
-| Adaptive Assignment for Geometry Aware Local Feature Matching |  |  |  |
-| Efficient Second-Order Plane Adjustment |  |  |  |
-| Learning Adaptive Dense Event Stereo from the Image Domain |  |  |  |
-| FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization |  |  |  |
-| SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory |  |  |  |
-| Cross-guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis |  |  |  |
-| AeDet: Azimuth-Invariant Multi-View 3D Object Detection |  |  |  |
-| Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields |  |  |  |
-| DKM: Dense Kernelized Feature Matching for Geometry Estimation |  |  |  |
-| DINER: Depth-Aware Image-based NEural Radiance fields |  |  |  |
-| HGNet: Learning Hierarchical Geometry from Points, Edges, and Surfaces |  |  |  |
-| Instant Volumetric Head Avatars |  |  |  |
-| 3D Line Mapping Revisited |  |  |  |
-| Learning to Fuse Monocular and Multi-View Cues for Multi-Frame Depth Estimation in Dynamic Scenes |  |  |  |
-| ESLAM: Efficient Dense SLAM System based on Hybrid Representation of Signed Distance Fields |  |  |  |
-| Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting |  |  |  |
-| SparsePose: Sparse-View Camera Pose Regression and Refinement |  |  |  |
-| Controllable Mesh Generation through Sparse Latent Point Diffusion Models |  |  |  |
-| ARO-Net: Learning Implicit Fields from Anchored Radial Observations |  |  |  |
-| Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention |  |  |  |
-| Sphere-guided Training of Neural Implicit Surfaces |  |  |  |
-| Finding Geometric Models by Clustering in the Consensus Space |  |  |  |
-| NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions |  |  |  |
-| Privacy-Preserving Representations are not Enough: Recovering Scene Content from Camera Poses |  |  |  |
-| Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting |  |  |  |
-| Neural Part Priors: Learning to Optimize Part-based Object Completion in RGB-D Scans |  |  |  |
-| Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses |  |  |  |
-| Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues |  |  |  |
-| Revisiting Rotation Averaging: Uncertainties and Robust Losses |  |  |  |
-| NeRF-Supervised Deep Stereo |  |  |  |
-| POEM: Reconstructing Hand in a Point Embedded Multi-View Stereo |  |  |  |
-| vMAP: Vectorised Object Mapping for Neural Field SLAM |  |  |  |
-| PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces |  |  |  |
-| Learnable Skeleton-Aware 3D Point Cloud Sampling |  |  |  |
-| ObjectMatch: Robust Registration using Canonical Object Correspondences |  |  |  |
-| DiffRF: Rendering-guided 3D Radiance Field Diffusion |  |  |  |
-| Learning a Depth Covariance Function |  |  |  |
-| Viewpoint Equivariance for Multi-View 3D Object Detection |  |  |  |
-| BlendFields: Few-Shot Example-Driven Facial Modeling |  |  |  |
-| Implicit Surface Contrastive Clustering for LiDAR Point Clouds |  |  |  |
-| Self-Supervised Super-Plane for Neural 3D Reconstruction |  |  |  |
-| DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models |  |  |  |
-| AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training |  |  |  |
-| VisFusion: Visibility-Aware Online 3D Scene Reconstruction from Videos |  |  |  |
-| Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids |  |  |  |
-| Semi-Weakly Supervised Object Kinematic Motion Prediction |  |  |  |
-| OmniVidar: Omnidirectional Depth Estimation from Multi-Fisheye Images |  |  |  |
-| ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-Real Novel View Synthesis via Contrastive Learning |  |  |  |
-| PointVector: A Vector Representation In Point Cloud Analysis |  |  |  |
-| Poly-PC: A Polyhedral Network for Multiple Point Cloud Tasks at Once |  |  |  |
-| Learning Neural Duplex Radiance Fields for Real-Time View Synthesis |  |  |  |
-| VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction |  |  |  |
-| CompletionFormer: Depth Completion with Convolutions and Vision Transformers |  |  |  |
-| Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields |  |  |  |
-| Collaboration Helps Camera Overtake LiDAR in 3D Detection |  |  |  |
-| SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields |  |  |  |
-| GeoMVSNet: Learning Multi-View Stereo with Geometry Perception |  |  |  |
-| 3D Shape Reconstruction of Semi-Transparent Worms |  |  |  |
-| Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution |  |  |  |
-| Virtual Occlusions through Implicit Depth |  |  |  |
-| Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes |  |  |  |
-| Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds |  |  |  |
-| DynamicStereo: Consistent Dynamic Depth from Stereo Videos |  |  |  |
-| Robust Outlier Rejection for 3D Registration with Variational Bayes |  |  |  |
-| Meta Architecture for Point Cloud Analysis |  |  |  |
-| DyLiN: Making Light Field Networks Dynamic |  |  |  |
-| Domain Generalized Stereo Matching via Hierarchical Visual Transformation |  |  |  |
-| Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting |  |  |  |
-| LightedDepth: Video Depth Estimation in Light of Limited Inference View Angles |  |  |  |
-| Long-Term Visual Localization with Mobile Sensors |  |  |  |
-| Revisiting the P3P Problem |  |  |  |
-| I<sup>2</sup>-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs |  |  |  |
-| WildLight: In-the-Wild Inverse Rendering with a Flashlight |  |  |  |
-| SE-ORNet: Self-Ensembling Orientation-Aware Network for Unsupervised Point Cloud Shape Correspondence |  |  |  |
-| Teleidoscopic Imaging System for Microscale 3D Shape Reconstruction |  |  |  |
-| NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction |  |  |  |
-| PointClustering: Unsupervised Point Cloud Pre-Training using Transformation Invariance in Clustering |  |  |  |
-| PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices |  |  |  |
-| TriVol: Point Cloud Rendering via Triple Volumes |  |  |  |
-| Towards Unbiased Volume Rendering of Neural Implicit Surfaces with Geometry Priors |  |  |  |
-| Semi-Supervised Stereo-based 3D Object Detection via Cross-View Consensus |  |  |  |
-| Self-Supervised Pre-Training with Masked Shape Prediction for 3D Scene Understanding |  |  |  |
-| Octree Guided Unoriented Surface Reconstruction |  |  |  |
-| Towards Domain Generalization for Multi-View 3D Object Detection in Bird-Eye-View |  |  |  |
-| Learning Neural Volumetric Representations of Dynamic Humans in Minutes |  |  |  |
-| AnchorFormer: Point Cloud Completion from Discriminative Nodes |  |  |  |
-| Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization |  |  |  |
-| GANmouflage: 3D Object Nondetection with Texture Fields |  |  |  |
-| PEAL: Prior-embedded Explicit Attention Learning for Low-Overlap Point Cloud Registration |  |  |  |
-| NeRFLight: Fast and Light Neural Radiance Fields using a Shared Feature Grid |  |  |  |
-| TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering |  |  |  |
-| Generating Part-Aware Editable 3D Shapes without 3D Supervision |  |  |  |
-| ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction |  |  |  |
-| ORCa: Glossy Objects as Radiance-Field Cameras |  |  |  |
-| NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination |  |  |  |
-| BEV-guided Multi-Modality Fusion for Driving Perception |  |  |  |
-| <i>K</i>-Planes: Explicit Radiance Fields in Space, Time, and Appearance |  |  |  |
-| RobustNeRF: Ignoring Distractors with Robust Losses |  |  |  |
-| Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity |  |  |  |
-| ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer |  |  |  |
-| Diffusion-based Signed Distance Fields for 3D Shape Generation |  |  |  |
-| FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network |  |  |  |
-| Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields |  |  |  |
-| Neural Lens Modeling |  |  |  |
-| Multi-View Reconstruction using Signed Ray Distance Functions (SRDF) |  |  |  |
-| Masked Wavelet Representation for Compact Neural Radiance Fields |  |  |  |
-| A Rotation-Translation-Decoupled Solution for Robust and Efficient Visual-Inertial Initialization |  |  |  |
-| MACARONS: Mapping and Coverage Anticipation with RGB Online Self-Supervision |  |  |  |
-| DualRefine: Self-Supervised Depth and Pose Estimation through Iterative Epipolar Sampling and Refinement Toward Equilibrium |  |  |  |
-| CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data |  |  |  |
-| Semidefinite Relaxations for Robust Multiview Triangulation |  |  |  |
-| High-Frequency Stereo Matching Network |  |  |  |
-| CAP: Robust Point Cloud Classification via Semantic and Structural Modeling |  |  |  |
-| Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM |  |  |  |
-| Temporally Consistent Online Depth Estimation using Point-based Fusion |  |  |  |
-| Learning Neural Parametric Head Models |  |  |  |
-| PointConvFormer: Revenge of the Point-based Convolution |  |  |  |
-| Four-View Geometry with Unknown Radial Distortion |  |  |  |
-| Seeing through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container |  |  |  |
+| Panoptic Lifting for 3D Scene Understanding with Neural Fields <br /> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/nihalsid/panoptic-lifting)](https://github.com/nihalsid/panoptic-lifting) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Siddiqui_Panoptic_Lifting_for_3D_Scene_Understanding_With_Neural_Fields_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.09802-b31b1b.svg)](https://arxiv.org/abs/2212.09802) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/QtsiL-6rSuM) |
+| PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields | | | |
+| NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer | | | |
+| SegLoc: Learning Segmentation-based Representations for Privacy-Preserving Visual Localization | | | |
+| expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization | | | |
+| Neural Vector Fields: Implicit Representation by Explicit Learning | | | |
+| Unsupervised Inference of Signed Distance Functions from Single Sparse Point Clouds without Learning Priors | | | |
+| Learning to Measure the Point Cloud Reconstruction Loss in a Representation Space | | | |
+| Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions | | | |
+| TensoIR: Tensorial Inverse Rendering | | | |
+| Multi-View Inverse Rendering for Large-Scale Real-World Indoor Scenes | | | |
+| Frequency-Modulated Point Cloud Rendering with Easy Editing | | | |
+| VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking | | | |
+| RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models | | | |
+| Multi-View Stereo Representation Revist: Region-Aware MVSNet | | | |
+| AutoRecon: Automated 3D Object Discovery and Reconstruction | | | |
+| Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories | | | |
+| Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis | | | |
+| LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs | | | |
+| Learning 3D Scene Priors with 2D Supervision | | | |
+| NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds | | | |
+| NeuralPCI: Spatio-Temporal Neural Field for 3D Point Cloud Multi-Frame Non-Linear Interpolation | | | |
+| Two-View Geometry Scoring without Correspondences | | | |
+| Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration | | | |
+| RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo | | | |
+| Depth Estimation from Camera Image and mmWave Radar Point Cloud | | | |
+| Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection | | | |
+| Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis | | | |
+| PATS: Patch Area Transportation with Subdivision for Local Feature Matching | | | |
+| Depth Estimation from Indoor Panoramas with Neural Scene Representation | | | |
+| Masked Representation Learning for Domain Generalized Stereo Matching | | | |
+| GANHead: Towards Generative Animatable Neural Head Avatars | | | |
+| Visual-Tactile Sensing for In-Hand Object Reconstruction | | | |
+| IterativePFN: True Iterative Point Cloud Filtering | | | |
+| Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment | | | |
+| GarmentTracking: Category-Level Garment Pose Tracking | | | |
+| Learning Transformation-Predictive Representations for Detection and Description of Local Features | | | |
+| Local Implicit Ray Function for Generalizable Radiance Field Representation | | | |
+| Grid-guided Neural Radiance Fields for Large Urban Scenes | | | |
+| EventNeRF: Neural Radiance Fields from a Single Colour Event Camera | | | |
+| Learning Optical Expansion from Scale Matching | | | |
+| Self-Supervised 3D Scene Flow Estimation Guided by Superpoints | | | |
+| Adaptive Annealing for Robust Geometric Estimation | | | |
+| SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes | | | |
+| PlaneDepth: Self-Supervised Depth Estimation via Orthogonal Planes | | | |
+| High-Res Facial Appearance Capture from Polarized Smartphone Images | | | |
+| Tensor4D: Efficient Neural 4D Decomposition for High-Fidelity Dynamic Reconstruction and Rendering | | | |
+| Fully Self-Supervised Depth Estimation from Defocus Clue | | | |
+| Adaptive Assignment for Geometry Aware Local Feature Matching | | | |
+| Efficient Second-Order Plane Adjustment | | | |
+| Learning Adaptive Dense Event Stereo from the Image Domain | | | |
+| FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization | | | |
+| SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory | | | |
+| Cross-guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis | | | |
+| AeDet: Azimuth-Invariant Multi-View 3D Object Detection | | | |
+| Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields | | | |
+| DKM: Dense Kernelized Feature Matching for Geometry Estimation | | | |
+| DINER: Depth-Aware Image-based NEural Radiance fields | | | |
+| HGNet: Learning Hierarchical Geometry from Points, Edges, and Surfaces | | | |
+| Instant Volumetric Head Avatars | | | |
+| 3D Line Mapping Revisited | | | |
+| Learning to Fuse Monocular and Multi-View Cues for Multi-Frame Depth Estimation in Dynamic Scenes | | | |
+| ESLAM: Efficient Dense SLAM System based on Hybrid Representation of Signed Distance Fields | | | |
+| Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting | | | |
+| SparsePose: Sparse-View Camera Pose Regression and Refinement | | | |
+| Controllable Mesh Generation through Sparse Latent Point Diffusion Models | | | |
+| ARO-Net: Learning Implicit Fields from Anchored Radial Observations | | | |
+| Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention | | | |
+| Sphere-guided Training of Neural Implicit Surfaces | | | |
+| Finding Geometric Models by Clustering in the Consensus Space | | | |
+| NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions | | | |
+| Privacy-Preserving Representations are not Enough: Recovering Scene Content from Camera Poses | | | |
+| Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting | | | |
+| Neural Part Priors: Learning to Optimize Part-based Object Completion in RGB-D Scans | | | |
+| Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses | | | |
+| Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues | | | |
+| Revisiting Rotation Averaging: Uncertainties and Robust Losses | | | |
+| NeRF-Supervised Deep Stereo | | | |
+| POEM: Reconstructing Hand in a Point Embedded Multi-View Stereo | | | |
+| vMAP: Vectorised Object Mapping for Neural Field SLAM | | | |
+| PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces | | | |
+| Learnable Skeleton-Aware 3D Point Cloud Sampling | | | |
+| ObjectMatch: Robust Registration using Canonical Object Correspondences | | | |
+| DiffRF: Rendering-guided 3D Radiance Field Diffusion | | | |
+| Learning a Depth Covariance Function | | | |
+| Viewpoint Equivariance for Multi-View 3D Object Detection | | | |
+| BlendFields: Few-Shot Example-Driven Facial Modeling | | | |
+| Implicit Surface Contrastive Clustering for LiDAR Point Clouds | | | |
+| Self-Supervised Super-Plane for Neural 3D Reconstruction | | | |
+| DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models | | | |
+| AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training | | | |
+| VisFusion: Visibility-Aware Online 3D Scene Reconstruction from Videos | | | |
+| Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids | | | |
+| Semi-Weakly Supervised Object Kinematic Motion Prediction | | | |
+| OmniVidar: Omnidirectional Depth Estimation from Multi-Fisheye Images | | | |
+| ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-Real Novel View Synthesis via Contrastive Learning | | | |
+| PointVector: A Vector Representation In Point Cloud Analysis | | | |
+| Poly-PC: A Polyhedral Network for Multiple Point Cloud Tasks at Once | | | |
+| Learning Neural Duplex Radiance Fields for Real-Time View Synthesis | | | |
+| VolRecon: Volume Rendering of Signed Ray Distance Functions for Generalizable Multi-View Reconstruction | | | |
+| CompletionFormer: Depth Completion with Convolutions and Vision Transformers | | | |
+| Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields | | | |
+| Collaboration Helps Camera Overtake LiDAR in 3D Detection | | | |
+| SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields | | | |
+| GeoMVSNet: Learning Multi-View Stereo with Geometry Perception | | | |
+| 3D Shape Reconstruction of Semi-Transparent Worms | | | |
+| Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution | | | |
+| Virtual Occlusions through Implicit Depth | | | |
+| Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes | | | |
+| Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds | | | |
+| DynamicStereo: Consistent Dynamic Depth from Stereo Videos | | | |
+| Robust Outlier Rejection for 3D Registration with Variational Bayes | | | |
+| Meta Architecture for Point Cloud Analysis | | | |
+| DyLiN: Making Light Field Networks Dynamic | | | |
+| Domain Generalized Stereo Matching via Hierarchical Visual Transformation | | | |
+| Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting | | | |
+| LightedDepth: Video Depth Estimation in Light of Limited Inference View Angles | | | |
+| Long-Term Visual Localization with Mobile Sensors | | | |
+| Revisiting the P3P Problem | | | |
+| I<sup>2</sup>-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs | | | |
+| WildLight: In-the-Wild Inverse Rendering with a Flashlight | | | |
+| SE-ORNet: Self-Ensembling Orientation-Aware Network for Unsupervised Point Cloud Shape Correspondence | | | |
+| Teleidoscopic Imaging System for Microscale 3D Shape Reconstruction | | | |
+| NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction | | | |
+| PointClustering: Unsupervised Point Cloud Pre-Training using Transformation Invariance in Clustering | | | |
+| PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices | | | |
+| TriVol: Point Cloud Rendering via Triple Volumes | | | |
+| Towards Unbiased Volume Rendering of Neural Implicit Surfaces with Geometry Priors | | | |
+| Semi-Supervised Stereo-based 3D Object Detection via Cross-View Consensus | | | |
+| Self-Supervised Pre-Training with Masked Shape Prediction for 3D Scene Understanding | | | |
+| Octree Guided Unoriented Surface Reconstruction | | | |
+| Towards Domain Generalization for Multi-View 3D Object Detection in Bird-Eye-View | | | |
+| Learning Neural Volumetric Representations of Dynamic Humans in Minutes | | | |
+| AnchorFormer: Point Cloud Completion from Discriminative Nodes | | | |
+| Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization | | | |
+| GANmouflage: 3D Object Nondetection with Texture Fields | | | |
+| PEAL: Prior-embedded Explicit Attention Learning for Low-Overlap Point Cloud Registration | | | |
+| NeRFLight: Fast and Light Neural Radiance Fields using a Shared Feature Grid | | | |
+| TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering | | | |
+| Generating Part-Aware Editable 3D Shapes without 3D Supervision | | | |
+| ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction | | | |
+| ORCa: Glossy Objects as Radiance-Field Cameras | | | |
+| NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination | | | |
+| BEV-guided Multi-Modality Fusion for Driving Perception | | | |
+| <i>K</i>-Planes: Explicit Radiance Fields in Space, Time, and Appearance | | | |
+| RobustNeRF: Ignoring Distractors with Robust Losses | | | |
+| Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity | | | |
+| ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer | | | |
+| Diffusion-based Signed Distance Fields for 3D Shape Generation | | | |
+| FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network | | | |
+| Temporal Interpolation is All You Need for Dynamic Neural Radiance Fields | | | |
+| Neural Lens Modeling | | | |
+| Multi-View Reconstruction using Signed Ray Distance Functions (SRDF) | | | |
+| Masked Wavelet Representation for Compact Neural Radiance Fields | | | |
+| A Rotation-Translation-Decoupled Solution for Robust and Efficient Visual-Inertial Initialization | | | |
+| MACARONS: Mapping and Coverage Anticipation with RGB Online Self-Supervision | | | |
+| DualRefine: Self-Supervised Depth and Pose Estimation through Iterative Epipolar Sampling and Refinement Toward Equilibrium | | | |
+| CLIP<sup>2</sup>: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data | | | |
+| Semidefinite Relaxations for Robust Multiview Triangulation | | | |
+| High-Frequency Stereo Matching Network | | | |
+| CAP: Robust Point Cloud Classification via Semantic and Structural Modeling | | | |
+| Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM | | | |
+| Temporally Consistent Online Depth Estimation using Point-based Fusion | | | |
+| Learning Neural Parametric Head Models | | | |
+| PointConvFormer: Revenge of the Point-based Convolution | | | |
+| Four-View Geometry with Unknown Radial Distortion | | | |
+| Seeing through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container | | | |
