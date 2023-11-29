@@ -1,15 +1,15 @@
 # CVPR-2023-Papers
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-language-and-reasoning.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
-    </a>
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
-    </a>
+  <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-language-and-reasoning.md">
+    <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+  </a>
+  <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
+    <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+  </a>
+  <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">
+    <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+  </a>
 </div>
 
 ## Low-Level Vision
