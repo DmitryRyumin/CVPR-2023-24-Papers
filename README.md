@@ -112,7 +112,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="5" align="center"><i">Will soon be added</i></td>
+            <td colspan="4" rowspan="7" align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -127,6 +127,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
             </td>
         </tr>
     </tbody>
