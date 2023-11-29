@@ -110,13 +110,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
             <td colspan="4" rowspan="3" align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
             </td>
         </tr>
     </tbody>
