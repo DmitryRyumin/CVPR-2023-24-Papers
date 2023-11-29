@@ -112,11 +112,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="3" align="center"><i">Will soon be added</i></td>
+            <td colspan="4" rowspan="5" align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
             </td>
         </tr>
     </tbody>

@@ -4,7 +4,7 @@
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
     </a>
-    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
     </a>
 </div>

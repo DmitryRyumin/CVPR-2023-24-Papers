@@ -1,13 +1,13 @@
 # CVPR-2023-Papers
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
     </a>
-    <a href="https://github.com/DmitryRyumin/ICCV-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
     </a>
 </div>
