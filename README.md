@@ -112,7 +112,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="7" align="center"><i">Will soon be added</i></td>
+            <td colspan="4" rowspan="38" align="center"><i">Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -137,6 +137,156 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/low-level-vision.md">Low-Level Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">Segmentation, Grouping and Shape Analysis</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md">Deep Learning Architectures and Techniques</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md">Multi-Modal Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision, Cell Microscopy</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md">Video: Action and Event Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md">Autonomous Driving</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md">Self-Supervised or Unsupervised Representation Learning</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md">Datasets and Evaluation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md">Scene Analysis and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md">Adversarial Attack and Defense</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md">Efficient and Scalable Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md">Computational Imaging</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md">Video: Low-Level Analysis, Motion, and Tracking</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md">Vision Applications and Systems</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md">Vision and Graphics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md">Robotics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md">Transparency, Fairness, Accountability, Privacy, Ethics in Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-computer-vision.md">Explainable Computer Vision</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md">Embodied Vision: Active Agents, Simulation</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md">Machine Learning (other than Deep Learning)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md">Physics-based Vision and Shape-from-X</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md">Biometrics</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md">Optimization Methods (other than Deep Learning)</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md">Photogrammetry and Remote Sensing</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md">Computer Vision Theory</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md">Computer Vision for Social Good</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md">Others</a>
             </td>
         </tr>
     </tbody>
