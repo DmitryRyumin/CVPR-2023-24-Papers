@@ -1,6 +1,7 @@
 # CVPR-2023-Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Conference](http://img.shields.io/badge/CVPR-2023-7395C5.svg)](https://cvpr2023.thecvf.com)
 ![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/CVPR-2023-Papers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/LICENSE)
