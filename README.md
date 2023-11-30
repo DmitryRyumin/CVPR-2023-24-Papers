@@ -61,8 +61,8 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
       <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
-        <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" /></a></td>
+        <td>ICCV</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" /></a></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
