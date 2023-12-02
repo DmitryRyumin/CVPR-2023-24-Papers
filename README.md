@@ -56,7 +56,7 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td colspan="1" align="center"><i>2023</i></td>
-    </tr> 
+    </tr>
     <tr>
       <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
