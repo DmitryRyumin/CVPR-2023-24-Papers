@@ -113,7 +113,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="28" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="27" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -248,6 +248,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
