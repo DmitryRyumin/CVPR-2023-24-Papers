@@ -18,9 +18,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States |  |  |  |
-| TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation |  |  |  |
-| Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation using Scene Object Spectrum Grounding |  |  |  |
+| Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
+| TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://sites.google.com/view/taeyeop-lee/ttacope) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.16730-b31b1b.svg)](http://arxiv.org/abs/2303.16730) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=MUgQ0yithis) |
+| Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation using Scene Object Spectrum Grounding | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://rllab-snu.github.io/projects/Meta-Explore/doc.html) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Hwang_Meta-Explore_Exploratory_Hierarchical_Vision-and-Language_Navigation_Using_Scene_Object_Spectrum_Grounding_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.04077-b31b1b.svg)](http://arxiv.org/abs/2303.04077) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=nxWUedX5VpQ) |
 | Learning Human-to-Robot Handovers from Point Clouds |  |  |  |
 | Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence |  |  |  |
 | PartManip: Learning Cross-Category Generalizable Part Manipulation Policy from Point Cloud Observations |  |  |  |
