@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 182/2353 -->
+<!-- 214/2353 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/8?successColor=006600" />
+  <img src="https://geps.dev/progress/9?successColor=006600" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" />
 </div>
 
@@ -224,6 +224,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md">Vision and Graphics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/28-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/22-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/27-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
