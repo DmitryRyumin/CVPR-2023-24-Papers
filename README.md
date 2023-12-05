@@ -114,7 +114,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="23" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="22" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
