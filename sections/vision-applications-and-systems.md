@@ -18,11 +18,11 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Context De-confounded Emotion Recognition |  |  |  |
-| Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models |  |  |  |
-| Automatic High Resolution Wire Segmentation and Removal |  |  |  |
-| Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning |  |  |  |
-| Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network |  |  |  |
+| Context De-confounded Emotion Recognition | [![GitHub](https://img.shields.io/github/stars/ydk122024/CCIM)](https://github.com/ydk122024/CCIM) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Context_De-Confounded_Emotion_Recognition_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.11921-b31b1b.svg)](http://arxiv.org/abs/2303.11921) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=TGnI4U504Vg) |
+| Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Intrinsic_Physical_Concepts_Discovery_With_Object-Centric_Predictive_Models_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.01869-b31b1b.svg)](http://arxiv.org/abs/2303.01869) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=N3_YAcRPf38) |
+| Automatic High Resolution Wire Segmentation and Removal | [![GitHub](https://img.shields.io/github/stars/adobe-research/auto-wire-removal)](https://github.com/adobe-research/auto-wire-removal) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Chiu_Automatic_High_Resolution_Wire_Segmentation_and_Removal_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2304.00221-b31b1b.svg)](http://arxiv.org/abs/2304.00221) | :heavy_minus_sign: |
+| Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning | [![GitHub](https://img.shields.io/github/stars/minglllli/CBAFed)](https://github.com/minglllli/CBAFed) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Class_Balanced_Adaptive_Pseudo_Labeling_for_Federated_Semi-Supervised_Learning_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=f8Ekx-cnNsA) |
+| Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network | [![GitHub](https://img.shields.io/github/stars/nku-zhichengzhang/CTEN)](https://github.com/nku-zhichengzhang/CTEN) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Video_Emotion_Detection_and_Prediction_via_Cross-Modal_Temporal_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ebD_xNQLuCY) |
 | Probing Sentiment-Oriented Pre-Training Inspired by Human Sentiment Perception Mechanism |  |  |  |
 | DIP: Dual Incongruity Perceiving Network for Sarcasm Detection |  |  |  |
 | Adaptive Human Matting for Dynamic Videos |  |  |  |
@@ -41,7 +41,7 @@
 | What Can Human Sketches Do for Object Detection? |  |  |  |
 | Dynamic Conceptional Contrastive Learning for Generalized Category Discovery |  |  |  |
 | Balanced Energy Regularization Loss for Out-of-Distribution Detection |  |  |  |
-| Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR |  |  |  |
+| Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR |  |  |  |
 | CLIP for All Things Zero-Shot Sketch-based Image Retrieval, Fine-grained or Not |  |  |  |
 | PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout |  |  |  |
 | Re-Thinking Federated Active Learning based on Inter-Class Diversity |  |  |  |
