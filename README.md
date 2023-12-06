@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 214/2353 -->
+<!-- 249/2353 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/9?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/11?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -121,7 +121,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="22" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="21" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -226,6 +226,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md">Vision Applications and Systems</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/35-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/27-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/26-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/29-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
