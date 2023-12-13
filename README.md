@@ -121,7 +121,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="18" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="8" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -162,16 +162,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md">Deep Learning Architectures and Techniques</a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/92-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/67-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md">Multi-Modal Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md"><img src="https://img.shields.io/badge/89-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md"><img src="https://img.shields.io/badge/75-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md"><img src="https://img.shields.io/badge/60-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multi-modal-learning.md"><img src="https://img.shields.io/badge/50-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
             </td>
+            <td colspan="4" rowspan="8" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
