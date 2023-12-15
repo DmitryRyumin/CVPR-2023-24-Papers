@@ -196,7 +196,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
             </td>
-            <td colspan="4" rowspan="8" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -212,16 +212,41 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md">Autonomous Driving</a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md"><img src="https://img.shields.io/badge/69-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md"><img src="https://img.shields.io/badge/54-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md"><img src="https://img.shields.io/badge/46-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md"><img src="https://img.shields.io/badge/53-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md">Self-Supervised or Unsupervised Representation Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/71-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/57-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/51-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/31-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md">Datasets and Evaluation</a>
             </td>
+            <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
