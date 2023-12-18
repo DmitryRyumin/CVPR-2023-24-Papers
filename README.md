@@ -272,7 +272,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/32-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/31-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
