@@ -239,7 +239,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/53-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/40-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/41-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
