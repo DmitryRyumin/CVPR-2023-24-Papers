@@ -2,13 +2,13 @@
 
 <div align="center">
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
@@ -18,10 +18,10 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Large-Scale Training Data Search for Object Re-Identification |  |  |  |
-| Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-grained Educational Videos |  |  |  |
-| V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting |  |  |  |
-| NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation |  |  |  |
+| Large-Scale Training Data Search for Object Re-Identification | [![GitHub](https://img.shields.io/github/stars/yorkeyao/SnP)](https://github.com/yorkeyao/SnP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Large-Scale_Training_Data_Search_for_Object_Re-Identification_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.16186-b31b1b.svg)](http://arxiv.org/abs/2303.16186) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=OAZ0Pka2mKE) |
+| Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-grained Educational Videos | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Class_Prototypes_Based_Contrastive_Learning_for_Classifying_Multi-Label_and_Fine-Grained_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=EhIeZtBB8bk) |
+| V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://thudair.baai.ac.cn/index) <br /> [![GitHub](https://img.shields.io/github/stars/AIR-THU/DAIR-V2X-Seq)](https://github.com/AIR-THU/DAIR-V2X-Seq) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.05938-b31b1b.svg)](http://arxiv.org/abs/2305.05938) | :heavy_minus_sign: |
+| NewsNet: A Novel Dataset for Hierarchical Temporal Segmentation | [![GitHub](https://img.shields.io/github/stars/NewsNet-Benchmark/NewsNet)](https://github.com/NewsNet-Benchmark/NewsNet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_NewsNet_A_Novel_Dataset_for_Hierarchical_Temporal_Segmentation_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=dEGco30TBCk) |
 | CLOTH4D: A Dataset for Clothed Human Reconstruction |  |  |  |
 | Accelerating Dataset Distillation via Model Augmentation |  |  |  |
 | ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing |  |  |  |
