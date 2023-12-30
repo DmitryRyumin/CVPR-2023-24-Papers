@@ -18,9 +18,9 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| You Only Segment Once: Towards Real-Time Panoptic Segmentation |  |  |  |
-| IS-GGT: Iterative Scene Graph Generation with Generative Transformers |  |  |  |
-| Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness |  |  |  |
+| You Only Segment Once: Towards Real-Time Panoptic Segmentation | [![GitHub](https://img.shields.io/github/stars/hujiecpp/YOSO)](https://github.com/hujiecpp/YOSO) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_You_Only_Segment_Once_Towards_Real-Time_Panoptic_Segmentation_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.14651-b31b1b.svg)](http://arxiv.org/abs/2303.14651) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=wQCKerE_NmQ) |
+| IS-GGT: Iterative Scene Graph Generation with Generative Transformers | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://saakur.github.io/Projects/IS_GGT/) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Kundu_IS-GGT_Iterative_Scene_Graph_Generation_With_Generative_Transformers_CVPR_2023_paper.pdf) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CZ9aCrqgY9E) |
+| Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation with Cross-Scale Distortion Awareness | [![GitHub](https://img.shields.io/github/stars/zhijieshen-bjtu/DOPNet)](https://github.com/zhijieshen-bjtu/DOPNet) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Disentangling_Orthogonal_Planes_for_Indoor_Panoramic_Room_Layout_Estimation_With_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.00971-b31b1b.svg)](http://arxiv.org/abs/2303.00971) | :heavy_minus_sign: |
 | Panoptic Video Scene Graph Generation |  |  |  |
 | 3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud |  |  |  |
 | JacobiNeRF: NeRF Shaping with Mutual Information Gradients |  |  |  |
