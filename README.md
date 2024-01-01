@@ -13,9 +13,9 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/CVPR-2023-Papers)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/CVPR-2023-Papers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/CVPR-2023-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/CVPR-2023-Papers)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/CVPR-2023-Papers)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers)
+![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/CVPR-2023-Papers?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/CVPR-2023-Papers?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 <!-- 886/2353 -->
@@ -64,12 +64,12 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
     </tr>
     <tr>
@@ -87,17 +87,17 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center">:heavy_minus_sign:</td>
     </tr>
     <tr>
@@ -105,7 +105,7 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
     </tr>
     <tr>
         <td>EMNLP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
