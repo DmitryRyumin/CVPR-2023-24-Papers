@@ -2,13 +2,13 @@
 
 <div align="center">
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/low-level-vision.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
@@ -29,7 +29,7 @@
 | <i>EFEM</i>: Equivariant Neural Field Expectation Maximization for 3D Object Segmentation without Scene Supervision |  |  |  |
 | Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction |  |  |  |
 | LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding |  |  |  |
-| OneFormer: One Transformer To Rule Universal Image Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://praeclarumjj3.github.io/oneformer/) <br /> [![GitHub](https://img.shields.io/github/stars/SHI-Labs/OneFormer)](https://github.com/SHI-Labs/OneFormer) | [![Pdf](https://img.shields.io/badge/pdf-version-003B10.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Jain_OneFormer_One_Transformer_To_Rule_Universal_Image_Segmentation_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](http://arxiv.org/abs/2211.06220)|[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CIU3udcaoW4) |
+| OneFormer: One Transformer To Rule Universal Image Segmentation | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://praeclarumjj3.github.io/oneformer/) <br /> [![GitHub](https://img.shields.io/github/stars/SHI-Labs/OneFormer?style=flat)](https://github.com/SHI-Labs/OneFormer) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Jain_OneFormer_One_Transformer_To_Rule_Universal_Image_Segmentation_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2211.06220-b31b1b.svg)](http://arxiv.org/abs/2211.06220) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CIU3udcaoW4) |
 | Mask-Free Video Instance Segmentation |  |  |  |
 | <i>Less is More</i>: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation |  |  |  |
 | InstMove: Instance Motion for Object-Centric Video Segmentation |  |  |  |
