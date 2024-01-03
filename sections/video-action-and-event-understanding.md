@@ -2,13 +2,13 @@
 
 <div align="center">
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/autonomous-driving.md">
-        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
-| Open Set Action Recognition via Multi-Label Evidential Learning |  |  |  |
+| Open Set Action Recognition via Multi-Label Evidential Learning | [![GitHub](https://img.shields.io/github/stars/charliezhaoyinpeng/mule?style=flat)](https://github.com/charliezhaoyinpeng/mule) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Open_Set_Action_Recognition_via_Multi-Label_Evidential_Learning_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.12698-b31b1b.svg)](http://arxiv.org/abs/2303.12698) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=S185R1vT2Qk) |
 | FLAG3D: A 3D Fitness Activity Dataset with Language Instruction |  |  |  |
 | MoLo: Motion-augmented Long-Short Contrastive Learning for Few-Shot Action Recognition |  |  |  |
 | The Wisdom of Crowds: Temporal Progressive Attention for Early Action Prediction |  |  |  |
