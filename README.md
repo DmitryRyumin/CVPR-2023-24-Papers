@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 886/2353 -->
+<!-- 1072/2353 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/38?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/46?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -160,17 +160,30 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <td colspan="4" rowspan="8" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/186-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/159-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/135-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/142-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
+            <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
