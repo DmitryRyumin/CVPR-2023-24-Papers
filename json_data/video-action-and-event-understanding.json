@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Open Set Action Recognition via Multi-Label Evidential Learning",
+    "title_page": null,
+    "repo": "https://github.com/charliezhaoyinpeng/mule",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Open_Set_Action_Recognition_via_Multi-Label_Evidential_Learning_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.12698",
+    "video": "https://www.youtube.com/watch?v=S185R1vT2Qk"
+  },
+  {
+    "title": "FLAG3D: A 3D Fitness Activity Dataset with Language Instruction",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://andytang15.github.io/FLAG3D/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_FLAG3D_A_3D_Fitness_Activity_Dataset_With_Language_Instruction_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.04638",
+    "video": "https://www.youtube.com/watch?v=CgdRmk0BVvM"
+  },
+  {
+    "title": "MoLo: Motion-augmented Long-Short Contrastive Learning for Few-Shot Action Recognition",
+    "title_page": null,
+    "repo": "https://github.com/alibaba-mmai-research/MoLo",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MoLo_Motion-Augmented_Long-Short_Contrastive_Learning_for_Few-Shot_Action_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.00946",
+    "video": "https://www.youtube.com/watch?v=Ig1HGTrrA54"
+  },
+  {
+    "title": "The Wisdom of Crowds: Temporal Progressive Attention for Early Action Prediction",
+    "title_page": null,
+    "repo": "https://github.com/alexandrosstergiou/progressive-action-prediction",
+    "web_page": null,
+    "github_page": "https://alexandrosstergiou.github.io/project_pages/TemPr/index.html",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Stergiou_The_Wisdom_of_Crowds_Temporal_Progressive_Attention_for_Early_Action_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2204.13340",
+    "video": "https://www.youtube.com/watch?v=dcmd8U47BT8"
+  },
+  {
+    "title": "Use Your Head: Improving Long-Tail Video Recognition",
+    "title_page": null,
+    "repo": "https://github.com/tobyperrett/lmr",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Perrett_Use_Your_Head_Improving_Long-Tail_Video_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.01143",
+    "video": "https://www.youtube.com/watch?v=TXEMh99Ukmg"
+  },
+  {
+    "title": "Decomposed Cross-Modal Distillation for RGB-based Temporal Action Detection",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Decomposed_Cross-Modal_Distillation_for_RGB-Based_Temporal_Action_Detection_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.17285",
+    "video": "https://www.youtube.com/watch?v=2upFWX7NVqc"
+  },
+  {
+    "title": "Video Test-Time Adaptation for Action Recognition",
+    "title_page": null,
+    "repo": "https://github.com/wlin-at/ViTTA",
+    "web_page": null,
+    "github_page": "https://wlin-at.github.io/vitta",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.15393",
+    "video": "https://www.youtube.com/watch?v=RzdYgE1hN2o"
+  },
+  {
+    "title": "How Can Objects Help Action Recognition?",
+    "title_page": null,
+    "repo": "https://github.com/google-research/scenic",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_How_Can_Objects_Help_Action_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2306.11726",
+    "video": "https://www.youtube.com/watch?v=4E_X1hCj4yU"
+  },
+  {
+    "title": "Text-Visual Prompting for Efficient 2D Temporal Video Grounding",
+    "title_page": null,
+    "repo": "https://github.com/intel/TVP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Text-Visual_Prompting_for_Efficient_2D_Temporal_Video_Grounding_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.04995",
+    "video": "https://www.youtube.com/watch?v=zj2s_G3066s"
+  },
+  {
+    "title": "Enlarging Instance-Specific and Class-Specific Information for Open-Set Action Recognition",
+    "title_page": null,
+    "repo": "https://github.com/Jun-CEN/PSL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cen_Enlarging_Instance-Specific_and_Class-Specific_Information_for_Open-Set_Action_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.15467",
+    "video": "https://www.youtube.com/watch?v=SofkzNeymP4"
+  },
+  {
+    "title": "TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition",
+    "title_page": null,
+    "repo": "https://github.com/DAVEISHAN/TimeBalance",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dave_TimeBalance_Temporally-Invariant_and_Temporally-Distinctive_Video_Representations_for_Semi-Supervised_Action_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.16268",
+    "video": "https://www.youtube.com/watch?v=2c5LM6YqPKQ"
+  },
+  {
+    "title": "Learning Video Representations from Large Language Models",
+    "title_page": null,
+    "repo": "https://github.com/facebookresearch/LaViLa",
+    "web_page": null,
+    "github_page": "https://facebookresearch.github.io/LaViLa/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.04501",
+    "video": "https://www.youtube.com/watch?v=tbQaP07xQ4c"
+  },
+  {
+    "title": "Fine-tuned CLIP Models are Efficient Video Learners",
+    "title_page": null,
+    "repo": "https://github.com/muzairkhattak/ViFi-CLIP",
+    "web_page": null,
+    "github_page": "https://muzairkhattak.github.io/ViFi-CLIP/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Rasheed_Fine-Tuned_CLIP_Models_Are_Efficient_Video_Learners_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.03640",
+    "video": "https://www.youtube.com/watch?v=uqPLPIyWBb0"
+  }
+]

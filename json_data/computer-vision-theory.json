@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Neural Dependencies Emerging from Learning Massive Categories",
+    "title_page": null,
+    "repo": "https://github.com/RuiLiFeng/Neural-Dependencies",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Neural_Dependencies_Emerging_From_Learning_Massive_Categories_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.12339",
+    "video": "https://www.youtube.com/watch?v=dQup_xxcuCo"
+  },
+  {
+    "title": "Gaussian Label Distribution Learning for Spherical Image Object Detection",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Gaussian_Label_Distribution_Learning_for_Spherical_Image_Object_Detection_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=BgHCXmFep9w"
+  },
+  {
+    "title": "Unbalanced Optimal Transport: A Unified Framework for Object Detection",
+    "title_page": null,
+    "repo": "https://github.com/hdeplaen/uotod",
+    "web_page": null,
+    "github_page": "https://hdeplaen.github.io/uotod/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/De_Plaen_Unbalanced_Optimal_Transport_A_Unified_Framework_for_Object_Detection_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.02402",
+    "video": "https://www.youtube.com/watch?v=Ma3Y-TbpJNs"
+  },
+  {
+    "title": "DropKey for Vision Transformer",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DropKey_for_Vision_Transformer_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2208.02646",
+    "video": "https://www.youtube.com/watch?v=7ACKCzPg5hE"
+  },
+  {
+    "title": "SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries",
+    "title_page": null,
+    "repo": "https://github.com/AhmedImtiazPrio/SplineCAM",
+    "web_page": null,
+    "github_page": "https://imtiazhumayun.github.io/splinecam/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Humayun_SplineCam_Exact_Visualization_and_Characterization_of_Deep_Network_Geometry_and_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.12828",
+    "video": "https://www.youtube.com/watch?v=NTXEqGCUDR0"
+  }
+]

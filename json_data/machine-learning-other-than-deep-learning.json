@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Deep Incomplete Multi-View Clustering with Cross-View Partial Sample and Prototype Alignment",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.15689",
+    "video": null
+  },
+  {
+    "title": "Towards Better Decision Forests: Forest Alternating Optimization",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Carreira-Perpinan_Towards_Better_Decision_Forests_Forest_Alternating_Optimization_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Class Adaptive Network Calibration",
+    "title_page": null,
+    "repo": "https://github.com/by-liu/CALS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Class_Adaptive_Network_Calibration_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.15088",
+    "video": null
+  },
+  {
+    "title": "Defining and Quantifying the Emergence of Sparse Concepts in DNNs",
+    "title_page": null,
+    "repo": "https://github.com/sjtu-xai-lab/aog",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Defining_and_Quantifying_the_Emergence_of_Sparse_Concepts_in_DNNs_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2111.06206",
+    "video": "https://www.youtube.com/watch?v=wq7eM-fcNGg"
+  },
+  {
+    "title": "MOT: Masked Optimal Transport for Partial Domain Adaptation",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=L2zqUfzlqHo"
+  },
+  {
+    "title": "Adaptive Graph Convolutional Subspace Clustering",
+    "title_page": null,
+    "repo": "https://github.com/weilyshmtu/AGCSC",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Adaptive_Graph_Convolutional_Subspace_Clustering_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.03414",
+    "video": null
+  },
+  {
+    "title": "Reliable and Interpretable Personalized Federated Learning",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Reliable_and_Interpretable_Personalized_Federated_Learning_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=62u4Uf6uxn8"
+  },
+  {
+    "title": "Confidence-Aware Personalized Federated Learning via Variational Expectation Maximization",
+    "title_page": null,
+    "repo": "https://github.com/JunyiZhu-AI/confidence_aware_PFL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Confidence-Aware_Personalized_Federated_Learning_via_Variational_Expectation_Maximization_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.12557",
+    "video": "https://www.youtube.com/watch?v=EB1fw1SZnEU"
+  },
+  {
+    "title": "Efficient Verification of Neural Networks Against LVM-based Specifications",
+    "title_page": null,
+    "repo": "https://github.com/hh10/Efficient-Verification-of-NNs-against-LVM-based-Specifications",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hanspal_Efficient_Verification_of_Neural_Networks_Against_LVM-Based_Specifications_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=7AFTMjaYUxg"
+  },
+  {
+    "title": "You are Catching my Attention: Are Vision Transformers Bad Learners under Backdoor Attacks?",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bucarelli_Leveraging_Inter-Rater_Agreement_for_Classification_in_the_Presence_of_Noisy_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=khpOlR9u1U8"
+  },
+  {
+    "title": "Sliced Optimal Partial Transport",
+    "title_page": null,
+    "repo": "https://github.com/yikun-baio/sliced_opt",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_Sliced_Optimal_Partial_Transport_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.08049",
+    "video": "https://www.youtube.com/watch?v=HDJ0b9NJEB4"
+  },
+  {
+    "title": "A Meta-Learning Approach to Predicting Performance and Data Requirements",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_A_Meta-Learning_Approach_to_Predicting_Performance_and_Data_Requirements_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.01598",
+    "video": null
+  },
+  {
+    "title": "Towards Effective Visual Representations for Partial-Label Learning",
+    "title_page": null,
+    "repo": "https://github.com/AlphaXia/PaPi",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xia_Towards_Effective_Visual_Representations_for_Partial-Label_Learning_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.06080",
+    "video": null
+  }
+]

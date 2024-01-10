@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Instance-Aware Domain Generalization for Face Anti-Spoofing",
+    "title_page": null,
+    "repo": "https://github.com/qianyuzqy/IADG",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Instance-Aware_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.05640",
+    "video": "https://www.youtube.com/watch?v=p8IrAiEgfiE"
+  },
+  {
+    "title": "OpenGait: Revisiting Gait Recognition Toward Better Practicality",
+    "title_page": null,
+    "repo": "https://github.com/ShiqiYu/OpenGait",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_OpenGait_Revisiting_Gait_Recognition_Towards_Better_Practicality_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2211.06597",
+    "video": null
+  },
+  {
+    "title": "Recognizability Embedding Enhancement for Very Low-Resolution Face Recognition and Quality Estimation",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_Recognizability_Embedding_Enhancement_for_Very_Low-Resolution_Face_Recognition_and_Quality_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.10066",
+    "video": "https://www.youtube.com/watch?v=e8MtMhkxE7M"
+  },
+  {
+    "title": "GaitGCI: Generative Counterfactual Intervention for Gait Recognition",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dou_GaitGCI_Generative_Counterfactual_Intervention_for_Gait_Recognition_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2306.03428",
+    "video": "https://www.youtube.com/watch?v=95QcfX0Pbi0"
+  },
+  {
+    "title": "Rethinking Domain Generalization for Face Anti-Spoofing: Separability and Alignment",
+    "title_page": null,
+    "repo": "https://github.com/sunyiyou/SAFAS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Rethinking_Domain_Generalization_for_Face_Anti-Spoofing_Separability_and_Alignment_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.13662",
+    "video": "https://www.youtube.com/watch?v=u9APqG02AeQ"
+  },
+  {
+    "title": "AstroNet: When Astrocyte Meets Artificial Neural Network",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AstroNet_When_Astrocyte_Meets_Artificial_Neural_Network_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "DCFace: Synthetic Face Generation with Dual Condition Diffusion Model",
+    "title_page": null,
+    "repo": "https://github.com/mk-minchul/dcface",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DCFace_Synthetic_Face_Generation_With_Dual_Condition_Diffusion_Model_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2304.07060",
+    "video": "https://www.youtube.com/watch?v=jm1bDutCM80"
+  },
+  {
+    "title": "LidarGait: Benchmarking 3D Gait Recognition with Point Clouds",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://lidargait.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_LidarGait_Benchmarking_3D_Gait_Recognition_With_Point_Clouds_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2211.10598",
+    "video": "https://www.youtube.com/watch?v=Z_jKaETR9Rk"
+  },
+  {
+    "title": "CR-FIQA: Face Image Quality Assessment by Learning Sample Relative Classifiability",
+    "title_page": null,
+    "repo": "https://github.com/fdbtrs/CR-FIQA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Boutros_CR-FIQA_Face_Image_Quality_Assessment_by_Learning_Sample_Relative_Classifiability_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2112.06592",
+    "video": "https://www.youtube.com/watch?v=Qf_F1YLql6I"
+  },
+  {
+    "title": "Dual-Bridging with Adversarial Noise Generation for Domain Adaptive rPPG Estimation",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Dual-Bridging_With_Adversarial_Noise_Generation_for_Domain_Adaptive_rPPG_Estimation_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=n6jns55AyGw"
+  },
+  {
+    "title": "Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces",
+    "title_page": null,
+    "repo": "https://github.com/koushiksrivats/face_attribute_attack",
+    "web_page": null,
+    "github_page": "https://koushiksrivats.github.io/face_attribute_attack/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_Evading_Forensic_Classifiers_With_Attribute-Conditioned_Adversarial_Faces_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2306.13091",
+    "video": "https://www.youtube.com/watch?v=ZkPuU3lIK9U"
+  }
+]
