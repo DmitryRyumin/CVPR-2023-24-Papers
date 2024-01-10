@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Pose Synchronization under Multiple Pair-Wise Relative Poses",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Pose_Synchronization_Under_Multiple_Pair-Wise_Relative_Poses_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=vo0DGKuyoKk"
+  },
+  {
+    "title": "Adaptive Global Decay Process for Event Cameras",
+    "title_page": null,
+    "repo": "https://github.com/neuromorphic-paris/event_batch",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Wide-Angle Rectification via Content-Aware Conformal Mapping",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Wide-Angle_Rectification_via_Content-Aware_Conformal_Mapping_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=NninwkQJVQ4"
+  },
+  {
+    "title": "On the Convergence of IRLS and its Variants in Outlier-Robust Estimation",
+    "title_page": null,
+    "repo": "https://github.com/liangzu/IRLS-CVPR2023",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=eGsksvd13vU"
+  },
+  {
+    "title": "A General Regret Bound of Preconditioned Gradient Method for DNN Training",
+    "title_page": null,
+    "repo": "https://github.com/Yonghongwei/AdaBK",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yong_A_General_Regret_Bound_of_Preconditioned_Gradient_Method_for_DNN_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Robust and Scalable Gaussian Process Regression and its Applications",
+    "title_page": null,
+    "repo": "https://github.com/YifanLu2000/Robust-Scalable-GPR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Robust_and_Scalable_Gaussian_Process_Regression_and_Its_Applications_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=mYGugBSJugk"
+  },
+  {
+    "title": "EMT-NAS: Transferring Architectural Knowledge between Tasks from Different Datasets",
+    "title_page": null,
+    "repo": "https://github.com/PengLiao12/EMT-NAS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_EMT-NASTransferring_Architectural_Knowledge_Between_Tasks_From_Different_Datasets_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Transformer-based Learned Optimization",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gartner_Transformer-Based_Learned_Optimization_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2212.01055",
+    "video": "https://www.youtube.com/watch?v=jt_B5nN4CO8"
+  },
+  {
+    "title": "Efficient Robust Principal Component Analysis via Block Krylov Iteration and CUR Decomposition",
+    "title_page": null,
+    "repo": "https://github.com/Crrrrrayon/efficient_RPCA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_Efficient_Robust_Principal_Component_Analysis_via_Block_Krylov_Iteration_and_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=m5_YV3cqHbk"
+  },
+  {
+    "title": "Solving Relaxations of MAP-MRF Problems: Combinatorial In-Face Frank-Wolfe Directions",
+    "title_page": null,
+    "repo": null,
+    "web_page": "https://pub.ista.ac.at/~vnk/papers/IN-FACE-FW.html",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kolmogorov_Solving_Relaxations_of_MAP-MRF_Problems_Combinatorial_In-Face_Frank-Wolfe_Directions_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2010.09567",
+    "video": null
+  },
+  {
+    "title": "Robust Generalization Against Photon-Limited Corruptions via Worst-Case Sharpness Minimization",
+    "title_page": null,
+    "repo": "https://github.com/zhuohuangai/SharpDRO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Robust_Generalization_Against_Photon-Limited_Corruptions_via_Worst-Case_Sharpness_Minimization_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.13087",
+    "video": "https://www.youtube.com/watch?v=dlKW_IMAKfE"
+  },
+  {
+    "title": "Elastic Aggregation for Federated Optimization",
+    "title_page": null,
+    "repo": "https://github.com/alibaba/Elastic-Federated-Learning-Solution",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Elastic_Aggregation_for_Federated_Optimization_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=UacxoH1tF0k"
+  }
+]

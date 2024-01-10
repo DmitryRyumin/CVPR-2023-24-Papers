@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://antoyang.github.io/vid2seq.html",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yang_Vid2Seq_Large-Scale_Pretraining_of_a_Visual_Language_Model_for_Dense_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.14115",
+    "video": "https://www.youtube.com/watch?v=hXP-2fYzq4g"
+  },
+  {
+    "title": "Open-Vocabulary Panoptic Segmentation With Text-to-Image Diffusion Models",
+    "title_page": null,
+    "repo": "https://github.com/NVlabs/ODISE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_Open-Vocabulary_Panoptic_Segmentation_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.04803",
+    "video": "https://www.youtube.com/watch?v=eW2vF8o_7p0"
+  },
+  {
+    "title": "Iterative Proposal Refinement for Weakly-Supervised Video Grounding",
+    "title_page": null,
+    "repo": "https://github.com/ttengwang/Awesome_Long_Term_Video_Understanding",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Cao_Iterative_Proposal_Refinement_for_Weakly-Supervised_Video_Grounding_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=BbGvHI_pVXk"
+  },
+  {
+    "title": "MetaCLUE: Towards Comprehensive Visual Metaphors Research",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://metaclue.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Akula_MetaCLUE_Towards_Comprehensive_Visual_Metaphors_Research_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.09898",
+    "video": "https://www.youtube.com/watch?v=V3TmeNETL-o"
+  },
+  {
+    "title": "PolyFormer: Referring Image Segmentation As Sequential Polygon Generation",
+    "title_page": null,
+    "repo": "https://github.com/amazon-science/polygon-transformer",
+    "web_page": null,
+    "github_page": "https://polyformer.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_PolyFormer_Referring_Image_Segmentation_As_Sequential_Polygon_Generation_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.07387",
+    "video": "https://www.youtube.com/watch?v=6LNrqoxQR1M"
+  },
+  {
+    "title": "GeneCIS: A Benchmark for General Conditional Image Similarity",
+    "title_page": null,
+    "repo": "https://github.com/facebookresearch/genecis",
+    "web_page": null,
+    "github_page": "https://sgvaze.github.io/genecis/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Vaze_GeneCIS_A_Benchmark_for_General_Conditional_Image_Similarity_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2306.07969",
+    "video": "https://www.youtube.com/watch?v=wu3U2iNGIUw"
+  },
+  {
+    "title": "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks",
+    "title_page": null,
+    "repo": "https://github.com/BrandonHanx/FAME-ViL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Han_FAME-ViL_Multi-Tasking_Vision-Language_Model_for_Heterogeneous_Fashion_Tasks_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.02483",
+    "video": null
+  },
+  {
+    "title": "Generative Bias for Robust Visual Question Answering",
+    "title_page": null,
+    "repo": "https://github.com/chojw/genb",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Cho_Generative_Bias_for_Robust_Visual_Question_Answering_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2208.00690",
+    "video": null
+  },
+  {
+    "title": "Advancing Visual Grounding With Scene Knowledge: Benchmark and Method",
+    "title_page": null,
+    "repo": "https://github.com/zhjohnchan/SK-VG",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Song_Advancing_Visual_Grounding_With_Scene_Knowledge_Benchmark_and_Method_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.11558",
+    "video": "https://www.youtube.com/watch?v=DmmPiseO59o"
+  },
+  {
+    "title": "Gloss Attention for Gloss-Free Sign Language Translation",
+    "title_page": null,
+    "repo": "https://github.com/YinAoXiong/GASLT",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2307.07361",
+    "video": "https://www.youtube.com/watch?v=NEoWvxkJXfU"
+  },
+  {
+    "title": "You Can Ground Earlier Than See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in Compressed Videos",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Fang_You_Can_Ground_Earlier_Than_See_An_Effective_and_Efficient_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.07863",
+    "video": null
+  },
+  {
+    "title": "Generalized Decoding for Pixel, Image, and Language",
+    "title_page": null,
+    "repo": "https://github.com/microsoft/X-Decoder",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zou_Generalized_Decoding_for_Pixel_Image_and_Language_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.11270",
+    "video": "https://www.youtube.com/watch?v=wYp6vmyolqE"
+  },
+  {
+    "title": "Accelerating Vision-Language Pretraining With Free Language Modeling",
+    "title_page": null,
+    "repo": "https://github.com/TencentARC/FLM",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_Accelerating_Vision-Language_Pretraining_With_Free_Language_Modeling_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.14038",
+    "video": "https://www.youtube.com/watch?v=WbH_5DH_jfY"
+  },
+  {
+    "title": "GRES: Generalized Referring Expression Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/henghuiding/ReLA",
+    "web_page": null,
+    "github_page": "https://henghuiding.github.io/GRES/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_GRES_Generalized_Referring_Expression_Segmentation_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2306.00968",
+    "video": "https://www.youtube.com/watch?v=eWjAgYUU6Do"
+  },
+  {
+    "title": "BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration",
+    "title_page": null,
+    "repo": "https://github.com/The-Learning-And-Vision-Atelier-LAVA/BUFFER",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ao_BUFFER_Balancing_Accuracy_Efficiency_and_Generalizability_in_Point_Cloud_Registration_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=STmAkRWuSiY"
+  },
+  {
+    "title": "RGB No More: Minimally-Decoded JPEG Vision Transformers",
+    "title_page": null,
+    "repo": "https://github.com/JeongsooP/RGB-no-more",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Park_RGB_No_More_Minimally-Decoded_JPEG_Vision_Transformers_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.16421",
+    "video": null
+  }
+]
