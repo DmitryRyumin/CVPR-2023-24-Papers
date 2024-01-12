@@ -44,12 +44,12 @@
   <tr>
     <td><strong>GitHub Actions</strong></td>
     <td>
-      <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
-        <img src="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
-      </a>
-      <br />
       <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
         <img src="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg" alt="Copy Parse Markdown and Generate JSON from Source Repo">
+      </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
+        <img src="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
       </a>
     </td>
   </tr>
