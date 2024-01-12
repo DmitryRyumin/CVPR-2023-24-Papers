@@ -1,23 +1,59 @@
 # CVPR-2023-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Conference](http://img.shields.io/badge/CVPR-2023-7395C5.svg)](https://cvpr2023.thecvf.com)
-![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/CVPR-2023-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/CVPR-2023-Papers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/CVPR-2023-Papers)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/CVPR-2023-Papers)
-![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/CVPR-2023-Papers)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/CVPR-2023-Papers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/CVPR-2023-Papers)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/CVPR-2023-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/CVPR-2023-Papers?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/CVPR-2023-Papers?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers?style=flat)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat)
-[![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg)](https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml)
+<table>
+  <tr>
+    <td><strong>General Information</strong></td>
+    <td>
+      <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+      </a>
+      <a href="https://cvpr2023.thecvf.com">
+        <img src="http://img.shields.io/badge/CVPR-2023-7395C5.svg" alt="Conference">
+      </a>
+      <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Repository Size and Activity</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/DmitryRyumin/CVPR-2023-Papers" alt="GitHub repo size">
+      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/CVPR-2023-Papers" alt="GitHub commit activity (branch)">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Contribution Statistics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/contributors/dmitryryumin/CVPR-2023-Papers" alt="GitHub contributors">
+      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/CVPR-2023-Papers" alt="GitHub closed issues">
+      <img src="https://img.shields.io/github/issues/DmitryRyumin/CVPR-2023-Papers" alt="GitHub issues">
+      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/CVPR-2023-Papers" alt="GitHub closed pull requests">
+      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/CVPR-2023-Papers" alt="GitHub pull requests">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Metrics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/DmitryRyumin/CVPR-2023-Papers" alt="GitHub last commit">
+      <img src="https://img.shields.io/github/watchers/dmitryryumin/CVPR-2023-Papers?style=flat" alt="GitHub watchers">
+      <img src="https://img.shields.io/github/forks/dmitryryumin/CVPR-2023-Papers?style=flat" alt="GitHub forks">
+      <img src="https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-Papers?style=flat" alt="GitHub Repo stars">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GitHub Actions</strong></td>
+    <td>
+      <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
+        <img src="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
+      </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
+        <img src="https://github.com/DmitryRyumin/CVPR-2023-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg" alt="Copy Parse Markdown and Generate JSON from Source Repo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 1072/2353 -->
 <div style="float:left;">
