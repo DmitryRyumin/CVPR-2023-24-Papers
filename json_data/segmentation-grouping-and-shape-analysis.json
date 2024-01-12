@@ -691,5 +691,126 @@
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ding_HGFormer_Hierarchical_Grouping_Transformer_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf",
     "paper_arxiv": "http://arxiv.org/abs/2305.13031",
     "video": "https://www.youtube.com/watch?v=tKMTUZAH0q0"
+  },
+  {
+    "title": "Marching-Primitives: Shape Abstraction From Signed Distance Function",
+    "title_page": "",
+    "repo": "https://github.com/ChirikjianLab/Marching-Primitives",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_Marching-Primitives_Shape_Abstraction_From_Signed_Distance_Function_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2303.13190",
+    "video": "https://www.youtube.com/watch?v=SeiGaEcbOUA"
+  },
+  {
+    "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion",
+    "title_page": null,
+    "repo": "https://github.com/nomewang/M3DM",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.00601",
+    "video": "https://www.youtube.com/watch?v=byZznDijY0U"
+  },
+  {
+    "title": "CLIP Is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/linyq2117/CLIP-ES",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.09506",
+    "video": "https://www.youtube.com/watch?v=a0mm9irbeoQ"
+  },
+  {
+    "title": "Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor",
+    "title_page": null,
+    "repo": "https://github.com/sangrockEG/ACR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Kweon_Weakly_Supervised_Semantic_Segmentation_via_Adversarial_Learning_of_Classifier_and_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching",
+    "title_page": null,
+    "repo": "https://github.com/paul0noah/sm-2D3D",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Roetzer_Conjugate_Product_Graphs_for_Globally_Optimal_2D-3D_Shape_Matching_CVPR_2023_paper.pdf",
+    "paper_arxiv": "https://arxiv.org/abs/2211.11589",
+    "video": "https://www.youtube.com/watch?v=qr_-n8NHWC4"
+  },
+  {
+    "title": "Interactive Segmentation of Radiance Fields",
+    "title_page": null,
+    "repo": "https://github.com/rahul-goel/isrf_code",
+    "web_page": null,
+    "github_page": "https://rahul-goel.github.io/isrf",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Goel_Interactive_Segmentation_of_Radiance_Fields_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.13545",
+    "video": "https://www.youtube.com/watch?v=fPW-fPRiW24"
+  },
+  {
+    "title": "Boundary-Enhanced Co-Training for Weakly Supervised Semantic Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/ShenghaiRong/BECO",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=q3kJ532lbdc"
+  },
+  {
+    "title": "Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Quantum Multi-Model Fitting",
+    "title_page": "",
+    "repo": "https://github.com/FarinaMatteo/qmmf",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Farina_Quantum_Multi-Model_Fitting_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.15444",
+    "video": "https://www.youtube.com/watch?v=m0QMGM-Awj8"
+  },
+  {
+    "title": "Two-Shot Video Object Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/yk-pku/Two-shot-Video-Object-Segmentation",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yan_Two-Shot_Video_Object_Segmentation_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.12078",
+    "video": "https://www.youtube.com/watch?v=UMNUONtqRD0"
+  },
+  {
+    "title": "End-to-End Video Matting With Trimap Propagation",
+    "title_page": null,
+    "repo": "https://github.com/csvt32745/FTP-VM",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_End-to-End_Video_Matting_With_Trimap_Propagation_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=3jjA4nvUc8c"
   }
 ]
