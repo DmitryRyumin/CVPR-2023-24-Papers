@@ -812,5 +812,126 @@
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_End-to-End_Video_Matting_With_Trimap_Propagation_CVPR_2023_paper.pdf",
     "paper_arxiv": null,
     "video": "https://www.youtube.com/watch?v=3jjA4nvUc8c"
+  },
+  {
+    "title": "ISBNet: A 3D Point Cloud Instance Segmentation Network With Instance-Aware Sampling and Box-Aware Dynamic Convolution",
+    "title_page": null,
+    "repo": "https://github.com/VinAIResearch/ISBNet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ngo_ISBNet_A_3D_Point_Cloud_Instance_Segmentation_Network_With_Instance-Aware_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.00246",
+    "video": "https://www.youtube.com/watch?v=uoOApyX-NUY"
+  },
+  {
+    "title": "On Calibrating Semantic Segmentation Models: Analyses and an Algorithm",
+    "title_page": null,
+    "repo": "https://github.com/dwang181/selectivecal",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_On_Calibrating_Semantic_Segmentation_Models_Analyses_and_an_Algorithm_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.12053",
+    "video": null
+  },
+  {
+    "title": "Explicit Visual Prompting for Low-Level Structure Segmentations",
+    "title_page": null,
+    "repo": "https://github.com/NiFangBaAGe/Explicit-Visual-Prompt",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.10883",
+    "video": "https://www.youtube.com/watch?v=9DdnQz4Y16E"
+  },
+  {
+    "title": "Neural Intrinsic Embedding for Non-Rigid Point Cloud Matching",
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Jiang_Neural_Intrinsic_Embedding_for_Non-Rigid_Point_Cloud_Matching_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.01038",
+    "video": "https://www.youtube.com/watch?v=O6mhyFw3HLQ"
+  },
+  {
+    "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class",
+    "title_page": "",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=yV7XO-G-dto"
+  },
+  {
+    "title": "Camouflaged Instance Segmentation via Explicit De-Camouflaging",
+    "title_page": "",
+    "repo": "https://github.com/USTCL/DCNet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Luo_Camouflaged_Instance_Segmentation_via_Explicit_De-Camouflaging_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=hUaBKw-coiM"
+  },
+  {
+    "title": "Leveraging Hidden Positives for Unsupervised Semantic Segmentation",
+    "title_page": null,
+    "repo": "https://github.com/hynnsk/HP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Seong_Leveraging_Hidden_Positives_for_Unsupervised_Semantic_Segmentation_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.15014",
+    "video": "https://www.youtube.com/watch?v=4wFyPEhYTxE"
+  },
+  {
+    "title": "Rethinking the Correlation in Few-Shot Segmentation: A Buoys View",
+    "title_page": null,
+    "repo": "https://github.com/mrkshllr/FewTURE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wang_Rethinking_the_Correlation_in_Few-Shot_Segmentation_A_Buoys_View_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=DYGAG-Ga2FI"
+  },
+  {
+    "title": "Sparsely Annotated Semantic Segmentation With Adaptive Gaussian Mixtures",
+    "title_page": null,
+    "repo": "https://github.com/Luffy03/AGMM-SASS",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Wu_Sparsely_Annotated_Semantic_Segmentation_With_Adaptive_Gaussian_Mixtures_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=XNvGrh5BNgA"
+  },
+  {
+    "title": "Mask-Guided Matting in the Wild",
+    "title_page": null,
+    "repo": "https://github.com/yucornetto/MGMatting",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Park_Mask-Guided_Matting_in_the_Wild_CVPR_2023_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Visual Dependency Transformers: Dependency Tree Emerges From Reversed Attention",
+    "title_page": null,
+    "repo": "https://github.com/dingmyu/DependencyViT",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ding_Visual_Dependency_Transformers_Dependency_Tree_Emerges_From_Reversed_Attention_CVPR_2023_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.03282",
+    "video": "https://www.youtube.com/watch?v=IBZiMgsex1c"
   }
 ]
