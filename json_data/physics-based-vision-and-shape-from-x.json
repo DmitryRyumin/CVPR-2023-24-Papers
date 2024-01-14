@@ -1,134 +1,158 @@
 [
   {
     "title": "Learning Anchor Transformations for 3D Garment Animation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://semanticdh.github.io/AnchorDEF/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Zhao_Learning_Anchor_Transformations_for_3D_Garment_Animation_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.00761",
-    "video": null
+    "paper_arxiv_id": "2304.00761",
+    "youtube_id": null,
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "High-Fidelity Event-Radiance Recovery via Transient Event Frequency",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/hjynwa/TEF",
+    "repo": "hjynwa/TEF",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Han_High-Fidelity_Event-Radiance_Recovery_via_Transient_Event_Frequency_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=wf138eAoazE"
+    "paper_arxiv_id": null,
+    "youtube_id": "wf138eAoazE",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Complementary Intrinsics from Neural Radiance Fields and CNNs for Outdoor Scene Relighting",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yang_Complementary_Intrinsics_From_Neural_Radiance_Fields_and_CNNs_for_Outdoor_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=88DIFRZlPDE"
+    "paper_arxiv_id": null,
+    "youtube_id": "88DIFRZlPDE",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Fresnel Microfacet BRDF: Unification of Polari-Radiometric Surface-Body Reflection",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Ichikawa_Fresnel_Microfacet_BRDF_Unification_of_Polari-Radiometric_Surface-Body_Reflection_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2212.04483",
-    "video": "https://www.youtube.com/watch?v=BYyDM-6s3Jc"
+    "paper_arxiv_id": "2212.04483",
+    "youtube_id": "BYyDM-6s3Jc",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Event-based Shape from Polarization",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/uzh-rpg/esfp",
+    "repo": "uzh-rpg/esfp",
     "web_page": "https://rpg.ifi.uzh.ch/esfp.html",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2301.06855",
-    "video": "https://m.youtube.com/watch?v=sF3Ue2Zkpec&pp=ygUJI2N2cHIyMDI0"
+    "paper_arxiv_id": "2301.06855",
+    "youtube_id": "sF3Ue2Zkpec",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Weakly-Supervised Single-View Image Relighting",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/renjiaoyi/imagerelighting",
+    "repo": "renjiaoyi/imagerelighting",
     "web_page": null,
     "github_page": "https://renjiaoyi.github.io/relighting/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yi_Weakly-Supervised_Single-View_Image_Relighting_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.13852",
-    "video": "https://www.youtube.com/watch?v=LetskpBfOjM"
+    "paper_arxiv_id": "2303.13852",
+    "youtube_id": "LetskpBfOjM",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "DANI-Net: Uncalibrated Photometric Stereo by Differentiable Shadow Handling, Anisotropic Reflectance Modeling, and Neural Inverse Rendering",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/LMozart/CVPR2023-DANI-Net",
+    "repo": "LMozart/CVPR2023-DANI-Net",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_DANI-Net_Uncalibrated_Photometric_Stereo_by_Differentiable_Shadow_Handling_Anisotropic_Reflectance_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.15101",
-    "video": "https://www.youtube.com/watch?v=4HSLZi7bfPA"
+    "paper_arxiv_id": "2303.15101",
+    "youtube_id": "4HSLZi7bfPA",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Learning Accurate 3D Shape based on Stereo Polarimetric Imaging",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://tyhuang98.github.io/learn_stereo_sfp/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_Learning_Accurate_3D_Shape_Based_on_Stereo_Polarimetric_Imaging_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Visibility Constrained Wide-Band Illumination Spectrum Design for Seeing-in-the-Dark",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/MyNiuuu/VCSD",
+    "repo": "MyNiuuu/VCSD",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Niu_Visibility_Constrained_Wide-Band_Illumination_Spectrum_Design_for_Seeing-in-the-Dark_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.11642",
-    "video": "https://www.youtube.com/watch?v=M91Ag6vW9nw"
+    "paper_arxiv_id": "2303.11642",
+    "youtube_id": "M91Ag6vW9nw",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Light Source Separation and Intrinsic Image Decomposition Under AC Illumination",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Yoshida_Light_Source_Separation_and_Intrinsic_Image_Decomposition_Under_AC_Illumination_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=v8TjCzoI97s"
+    "paper_arxiv_id": null,
+    "youtube_id": "v8TjCzoI97s",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "OReX: Object Reconstruction from Planar Cross-Sections using Neural Fields",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/haimsaw/OReX",
+    "repo": "haimsaw/OReX",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sawdayee_OReX_Object_Reconstruction_From_Planar_Cross-Sections_Using_Neural_Fields_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2211.12886",
-    "video": "https://www.youtube.com/watch?v=2IZKlqUZK4Q"
+    "paper_arxiv_id": "2211.12886",
+    "youtube_id": "2IZKlqUZK4Q",
+    "section": "Physics-based Vision and Shape-from-X"
   },
   {
     "title": "Unsupervised Intrinsic Image Decomposition with LiDAR Intensity",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/ntthilab-cv/NTT-intrinsic-dataset",
+    "repo": "ntthilab-cv/NTT-intrinsic-dataset",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sato_Unsupervised_Intrinsic_Image_Decomposition_With_LiDAR_Intensity_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.10820",
-    "video": "https://www.youtube.com/watch?v=AoNh79glieU"
+    "paper_arxiv_id": "2303.10820",
+    "youtube_id": "AoNh79glieU",
+    "section": "Physics-based Vision and Shape-from-X"
   }
 ]

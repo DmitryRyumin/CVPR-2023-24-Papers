@@ -1,134 +1,158 @@
 [
   {
     "title": "A Bag-of-Prototypes Representation for Dataset-Level Applications",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Klaus-Tu/Bag-of-Prototypes",
+    "repo": "Klaus-Tu/Bag-of-Prototypes",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_A_Bag-of-Prototypes_Representation_for_Dataset-Level_Applications_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.13251",
-    "video": "https://www.youtube.com/watch?v=kSB0GO9pEYE"
+    "paper_arxiv_id": "2303.13251",
+    "youtube_id": "kSB0GO9pEYE",
+    "section": "Others"
   },
   {
     "title": "Learning to Retain While Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Patel_Learning_To_Retain_While_Acquiring_Combating_Distribution-Shift_in_Adversarial_Data-Free_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2302.14290",
-    "video": "https://www.youtube.com/watch?v=VwEKrqMym4k"
+    "paper_arxiv_id": "2302.14290",
+    "youtube_id": "VwEKrqMym4k",
+    "section": "Others"
   },
   {
     "title": "Label Information Bottleneck for Label Enhancement",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/qinghai-zheng/LIBLE",
+    "repo": "qinghai-zheng/LIBLE",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Label_Information_Bottleneck_for_Label_Enhancement_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.06836",
-    "video": "https://www.youtube.com/watch?v=YGWGU3m4whc"
+    "paper_arxiv_id": "2303.06836",
+    "youtube_id": "YGWGU3m4whc",
+    "section": "Others"
   },
   {
     "title": "DISC: Learning from Noisy Labels via Dynamic Instance-Specific Selection and Correction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/JackYFL/DISC",
+    "repo": "JackYFL/DISC",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=YGWGU3m4whc"
+    "paper_arxiv_id": null,
+    "youtube_id": "YGWGU3m4whc",
+    "section": "Others"
   },
   {
     "title": "Restoration of Hand-Drawn Architectural Drawings using Latent Space Mapping with Degradation Generator",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Nakkwan/pytorch-Restoration-Floorplan",
+    "repo": "Nakkwan/pytorch-Restoration-Floorplan",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Restoration_of_Hand-Drawn_Architectural_Drawings_Using_Latent_Space_Mapping_With_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Others"
   },
   {
     "title": "DaFKD: Domain-Aware Federated Knowledge Distillation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/haozhaowang/DaFKD2023",
+    "repo": "haozhaowang/DaFKD2023",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=NxmLN6uWUBA"
+    "paper_arxiv_id": null,
+    "youtube_id": "NxmLN6uWUBA",
+    "section": "Others"
   },
   {
     "title": "Enhanced Stable View Synthesis",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://suryanshkumar.github.io/Enhanced_Stable_View_Synthesis/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_Enhanced_Stable_View_Synthesis_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.17094",
-    "video": "https://www.youtube.com/watch?v=CZW6HLDQRD4"
+    "paper_arxiv_id": "2303.17094",
+    "youtube_id": "CZW6HLDQRD4",
+    "section": "Others"
   },
   {
     "title": "ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/git-disl/scale-fl",
+    "repo": "git-disl/scale-fl",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ilhan_ScaleFL_Resource-Adaptive_Federated_Learning_With_Heterogeneous_Clients_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Others"
   },
   {
     "title": "GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/lkyddd/GradMA",
+    "repo": "lkyddd/GradMA",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_GradMA_A_Gradient-Memory-Based_Accelerated_Federated_Learning_With_Alleviated_Catastrophic_Forgetting_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2302.14307",
-    "video": "https://www.youtube.com/watch?v=kzZH_5eSsZ4"
+    "paper_arxiv_id": "2302.14307",
+    "youtube_id": "kzZH_5eSsZ4",
+    "section": "Others"
   },
   {
     "title": "High-Resolution Image Reconstruction with Latent Diffusion Models from Human Brain Activity",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/yu-takagi/StableDiffusionReconstruction",
+    "repo": "yu-takagi/StableDiffusionReconstruction",
     "web_page": "https://sites.google.com/view/stablediffusion-with-brain/",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Takagi_High-Resolution_Image_Reconstruction_With_Latent_Diffusion_Models_From_Human_Brain_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Others"
   },
   {
     "title": "A Unified Knowledge Distillation Framework for Deep Directed Graphical Models",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/YizhuoChen99/KD4DGM-CVPR",
+    "repo": "YizhuoChen99/KD4DGM-CVPR",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_A_Unified_Knowledge_Distillation_Framework_for_Deep_Directed_Graphical_Models_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Others"
   },
   {
     "title": "How to Prevent the Poor Performance Clients for Personalized Federated Learning?",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_How_To_Prevent_the_Poor_Performance_Clients_for_Personalized_Federated_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Others"
   }
 ]

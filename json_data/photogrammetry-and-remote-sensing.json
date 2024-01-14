@@ -1,90 +1,106 @@
 [
   {
     "title": "MethaneMapper: Spectral Absorption Aware Hyperspectral Transformer for Methane Detection",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection",
+    "repo": "UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kumar_MethaneMapper_Spectral_Absorption_Aware_Hyperspectral_Transformer_for_Methane_Detection_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.02767",
-    "video": "https://www.youtube.com/watch?v=N_faP8AWhBQ"
+    "paper_arxiv_id": "2304.02767",
+    "youtube_id": "N_faP8AWhBQ",
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "Probability-based Global Cross-Modal Upsampling for Pansharpening",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Zeyu-Zhu/PGCU",
+    "repo": "Zeyu-Zhu/PGCU",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Probability-Based_Global_Cross-Modal_Upsampling_for_Pansharpening_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.13659",
-    "video": null
+    "paper_arxiv_id": "2303.13659",
+    "youtube_id": null,
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/DominikMuhle/dnls_covs",
+    "repo": "DominikMuhle/dnls_covs",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Muhle_Learning_Correspondence_Uncertainty_via_Differentiable_Nonlinear_Least_Squares_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2305.09527",
-    "video": "https://www.youtube.com/watch?v=_wDUresP6v8"
+    "paper_arxiv_id": "2305.09527",
+    "youtube_id": "_wDUresP6v8",
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Chasel-Tsui/mmrotate-dcfl",
+    "repo": "Chasel-Tsui/mmrotate-dcfl",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dynamic_Coarse-To-Fine_Learning_for_Oriented_Tiny_Object_Detection_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.08876",
-    "video": "https://www.youtube.com/watch?v=diic4cEKbtw"
+    "paper_arxiv_id": "2304.08876",
+    "youtube_id": "diic4cEKbtw",
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "ViTs for SITS: Vision Transformers for Satellite Image Time Series",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/michaeltrs/DeepSatModels",
+    "repo": "michaeltrs/DeepSatModels",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tarasiou_ViTs_for_SITS_Vision_Transformers_for_Satellite_Image_Time_Series_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2301.04944",
-    "video": "https://www.youtube.com/watch?v=u1bjplvB7Vk"
+    "paper_arxiv_id": "2301.04944",
+    "youtube_id": "u1bjplvB7Vk",
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "Quantum-Inspired Spectral-Spatial Pyramid Network for Hyperspectral Image Classification",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Quantum-Inspired_Spectral-Spatial_Pyramid_Network_for_Hyperspectral_Image_Classification_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "TopDiG: Class-Agnostic Topological Directional Graph Extraction from Remote Sensing Images",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_TopDiG_Class-Agnostic_Topological_Directional_Graph_Extraction_From_Remote_Sensing_Images_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=B2lJcBjaJAA"
+    "paper_arxiv_id": null,
+    "youtube_id": "B2lJcBjaJAA",
+    "section": "Photogrammetry and Remote Sensing"
   },
   {
     "title": "OmniCity: Omnipotent City Understanding with Multi-Level and Multi-View Images",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/sysu-lwj-lab/OmniCity-v1.0",
+    "repo": "sysu-lwj-lab/OmniCity-v1.0",
     "web_page": null,
     "github_page": "https://city-super.github.io/omnicity/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_OmniCity_Omnipotent_City_Understanding_With_Multi-Level_and_Multi-View_Images_CVPR_2023_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2208.00928",
-    "video": "https://www.youtube.com/watch?v=-lrFgcyyCHQ"
+    "paper_arxiv_id": "2208.00928",
+    "youtube_id": "-lrFgcyyCHQ",
+    "section": "Photogrammetry and Remote Sensing"
   }
 ]

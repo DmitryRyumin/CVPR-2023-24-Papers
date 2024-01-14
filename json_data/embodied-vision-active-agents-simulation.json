@@ -1,156 +1,184 @@
 [
   {
     "title": "Open-World Multi-Task Control through Goal-Aware Representation Learning and Adaptive Horizon Prediction",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/CraftJarvis/MC-Controller",
+    "repo": "CraftJarvis/MC-Controller",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Open-World_Multi-Task_Control_Through_Goal-Aware_Representation_Learning_and_Adaptive_Horizon_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2301.10034",
-    "video": "https://www.youtube.com/watch?v=MRjBzRVTGAs"
+    "paper_arxiv_id": "2301.10034",
+    "youtube_id": "MRjBzRVTGAs",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Layout-based Causal Inference for Object Navigation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/sx-zhang/Layout-based-sTDE",
+    "repo": "sx-zhang/Layout-based-sTDE",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Layout-Based_Causal_Inference_for_Object_Navigation_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=LrWJnxjt1go"
+    "paper_arxiv_id": null,
+    "youtube_id": "LrWJnxjt1go",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "EC2: Emergent Communication for Embodied Control",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2304.09448",
-    "video": "https://www.youtube.com/watch?v=tiUvQnQtJh8"
+    "paper_arxiv_id": "2304.09448",
+    "youtube_id": "tiUvQnQtJh8",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/PKU-EPIC/GAPartNet",
+    "repo": "PKU-EPIC/GAPartNet",
     "web_page": null,
     "github_page": "https://pku-epic.github.io/GAPartNet/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Geng_GAPartNet_Cross-Category_Domain-Generalizable_Object_Perception_and_Manipulation_via_Generalizable_and_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2211.05272",
-    "video": "https://www.youtube.com/watch?v=cgVFAydWpdk"
+    "paper_arxiv_id": "2211.05272",
+    "youtube_id": "cgVFAydWpdk",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Phone2Proc: Bringing Robust Robots into Our Chaotic World",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/allenai/phone2proc",
+    "repo": "allenai/phone2proc",
     "web_page": "https://allenai.org/project/phone2proc/home",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Deitke_Phone2Proc_Bringing_Robust_Robots_Into_Our_Chaotic_World_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.04819",
-    "video": null
+    "paper_arxiv_id": "2212.04819",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "PIRLNav: Pretraining with Imitation and RL Finetuning for ObjectNav",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/Ram81/pirlnav",
+    "repo": "Ram81/pirlnav",
     "web_page": null,
     "github_page": "https://ram81.github.io/projects/pirlnav",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ramrakhya_PIRLNav_Pretraining_With_Imitation_and_RL_Finetuning_for_ObjectNav_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2301.07302",
-    "video": "https://www.youtube.com/watch?v=63C9wpnFrCg"
+    "paper_arxiv_id": "2301.07302",
+    "youtube_id": "63C9wpnFrCg",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "CoWs on PASTURE: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/real-stanford/cow",
+    "repo": "real-stanford/cow",
     "web_page": "https://cow.cs.columbia.edu/",
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2203.10421",
-    "video": null
+    "paper_arxiv_id": "2203.10421",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/jzhzhang/3DAwareNav",
+    "repo": "jzhzhang/3DAwareNav",
     "web_page": null,
     "github_page": "https://pku-epic.github.io/3D-Aware-ObjectNav/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D-Aware_Object_Goal_Navigation_via_Simultaneous_Exploration_and_Identification_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2212.00338",
-    "video": "https://www.youtube.com/watch?v=-50kIfOYTBM"
+    "paper_arxiv_id": "2212.00338",
+    "youtube_id": "-50kIfOYTBM",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Modality-Invariant Visual Odometry for Embodied Vision",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/memmelma/VO-Transformer",
+    "repo": "memmelma/VO-Transformer",
     "web_page": null,
     "github_page": "https://memmelma.github.io/vot/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Memmel_Modality-Invariant_Visual_Odometry_for_Embodied_Vision_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2305.00348",
-    "video": "https://www.youtube.com/watch?v=kZCmdHhLkP4"
+    "paper_arxiv_id": "2305.00348",
+    "youtube_id": "kZCmdHhLkP4",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/PKU-EPIC/UniDexGrasp",
+    "repo": "PKU-EPIC/UniDexGrasp",
     "web_page": null,
     "github_page": "https://pku-epic.github.io/UniDexGrasp/",
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.00938",
-    "video": "https://www.youtube.com/watch?v=HR2JqApZKBs"
+    "paper_arxiv_id": "2303.00938",
+    "youtube_id": "HR2JqApZKBs",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "EXCALIBUR: Encouraging and Evaluating Embodied Exploration",
+    "base_url": null,
     "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": "https://www.youtube.com/watch?v=SboNjVuIUJA"
+    "paper_arxiv_id": null,
+    "youtube_id": "SboNjVuIUJA",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Leverage Interactive Affinity for Affordance Learning",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/lhc1224/PIAL-Net",
+    "repo": "lhc1224/PIAL-Net",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Leverage_Interactive_Affinity_for_Affordance_Learning_CVPR_2023_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "LANA: A Language-Capable Navigator for Instruction Following and Generation",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/wxh1996/LANA-VLN",
+    "repo": "wxh1996/LANA-VLN",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LANA_A_Language-Capable_Navigator_for_Instruction_Following_and_Generation_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2303.08409",
-    "video": "https://www.youtube.com/watch?v=BurKOFn-78g"
+    "paper_arxiv_id": "2303.08409",
+    "youtube_id": "BurKOFn-78g",
+    "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
     "title": "Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-per-Second",
+    "base_url": null,
     "title_page": null,
-    "repo": "https://github.com/facebookresearch/galactic",
+    "repo": "facebookresearch/galactic",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/CVPR2023/papers/Berges_Galactic_Scaling_End-to-End_Reinforcement_Learning_for_Rearrangement_at_100k_Steps-per-Second_CVPR_2023_paper.pdf",
-    "paper_arxiv": "https://arxiv.org/abs/2306.07552",
-    "video": null
+    "paper_arxiv_id": "2306.07552",
+    "youtube_id": null,
+    "section": "Embodied Vision: Active Agents, Simulation"
   }
 ]
