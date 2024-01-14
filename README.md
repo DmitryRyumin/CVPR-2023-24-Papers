@@ -55,9 +55,9 @@
   </tr>
 </table>
 
-<!-- 1072/2353 -->
+<!-- 1183/2353 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/46?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/50?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -225,7 +225,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
-            <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -250,6 +250,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">Segmentation, Grouping and Shape Analysis</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/111-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/79-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/84-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/81-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
