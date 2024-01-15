@@ -167,5 +167,44 @@
     "paper_arxiv_id": "2212.03640",
     "youtube_id": "uqPLPIyWBb0",
     "section": "Video: Action and Event Understanding"
+  },
+  {
+    "title": "Efficient Movie Scene Detection Using State-Space Transformers",
+    "base_url": null,
+    "title_page": null,
+    "repo": "md-mohaiminul/TranS4mer",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Islam_Efficient_Movie_Scene_Detection_Using_State-Space_Transformers_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2212.14427",
+    "youtube_id": "EOmVAByPQbE",
+    "section": "Video: Action and Event Understanding"
+  },
+  {
+    "title": "AdamsFormer for Spatial Action Localization in the Future",
+    "base_url": null,
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Chi_AdamsFormer_for_Spatial_Action_Localization_in_the_Future_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": "PK0O-ynPgr0",
+    "section": "Video: Action and Event Understanding"
+  },
+  {
+    "title": "A Light Weight Model for Active Speaker Detection",
+    "base_url": null,
+    "title_page": null,
+    "repo": "Junhua-Liao/Light-ASD",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Liao_A_Light_Weight_Model_for_Active_Speaker_Detection_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2303.04439",
+    "youtube_id": "spGacmYdvYs",
+    "section": "Video: Action and Event Understanding"
   }
 ]
