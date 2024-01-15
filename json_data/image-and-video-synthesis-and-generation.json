@@ -93,7 +93,7 @@
   {
     "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://dreambooth.github.io/",
@@ -158,7 +158,7 @@
   {
     "title": "SceneComposer: Any-Level Semantic Image Synthesis",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "zengxianyu/scenec",
     "web_page": null,
     "github_page": "https://zengyu.me/scenec/",
@@ -353,7 +353,7 @@
   {
     "title": "Towards Accurate Image Coding: Improved Autoregressive Image Generation With Dynamic Vector Quantization",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "CrossmodalGroup/DynamicVectorQuantization",
     "web_page": null,
     "github_page": null,
@@ -691,7 +691,7 @@
   {
     "title": "SPARF: Neural Radiance Fields From Sparse and Noisy Poses",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "google-research/sparf",
     "web_page": null,
     "github_page": null,
@@ -743,7 +743,7 @@
   {
     "title": "MaskSketch: Unpaired Structure-Guided Masked Image Generation",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -925,7 +925,7 @@
   {
     "title": "Scaling Up GANs for Text-to-Image Synthesis",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://mingukkang.github.io/GigaGAN/",
@@ -1185,7 +1185,7 @@
   {
     "title": "PixHt-Lab: Pixel Height Based Light Effect Generation for Image Compositing",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -1328,7 +1328,7 @@
   {
     "title": "Polynomial Implicit Neural Representations for Large Diverse Datasets",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "Rajhans0/Poly_INR",
     "web_page": null,
     "github_page": null,
@@ -1380,7 +1380,7 @@
   {
     "title": "Private Image Generation With Dual-Purpose Auxiliary Classifier",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -1393,7 +1393,7 @@
   {
     "title": "MAGVIT: Masked Generative Video Transformer",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "google-research/magvit",
     "web_page": "https://magvit.cs.cmu.edu/",
     "github_page": null,
@@ -1705,7 +1705,7 @@
   {
     "title": "Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "MrTornado24/Next3D",
     "web_page": null,
     "github_page": "https://mrtornado24.github.io/Next3D/",
@@ -1965,7 +1965,7 @@
   {
     "title": "StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "CVI-SZU/StyleGene",
     "web_page": null,
     "github_page": "https://wmpscc.github.io/stylegene/",
@@ -2069,7 +2069,7 @@
   {
     "title": "InstructPix2Pix: Learning To Follow Image Editing Instructions",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "timothybrooks/instruct-pix2pix",
     "web_page": "https://www.timothybrooks.com/instruct-pix2pix/",
     "github_page": null,
@@ -2095,7 +2095,7 @@
   {
     "title": "Freestyle Layout-to-Image Synthesis",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "essunny310/FreestyleNet",
     "web_page": null,
     "github_page": null,
@@ -2108,7 +2108,7 @@
   {
     "title": "On Distillation of Guided Diffusion Models",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -2225,7 +2225,7 @@
   {
     "title": "ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://wenxin.baidu.com/ernie-vilg",
@@ -2303,7 +2303,7 @@
   {
     "title": "Attribute-Preserving Face Dataset Anonymization via Latent Code Optimization",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "chi0tzp/FALCO",
     "web_page": null,
     "github_page": null,
@@ -2329,7 +2329,7 @@
   {
     "title": "HandsOff: Labeled Dataset Generation With No Additional Human Annotations",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "austinxu87/handsoff",
     "web_page": null,
     "github_page": "https://austinxu87.github.io/handsoff/",
@@ -2355,7 +2355,7 @@
   {
     "title": "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": "https://imagen.research.google/editor/",
     "github_page": null,
