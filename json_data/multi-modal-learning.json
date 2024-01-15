@@ -405,7 +405,7 @@
   {
     "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "cfeng16/audio-visual-forensics",
     "web_page": null,
     "github_page": "https://cfeng16.github.io/audio-visual-forensics/",
@@ -483,7 +483,7 @@
   {
     "title": "EXIF As Language: Learning Cross-Modal Associations Between Images and Camera Metadata",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "hellomuffin/exif-as-language",
     "web_page": null,
     "github_page": "https://hellomuffin.github.io/exif-as-language/",
@@ -652,7 +652,7 @@
   {
     "title": "Improving Cross-Modal Retrieval With Set of Diverse Embeddings",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": "https://cvlab.postech.ac.kr/research/DivE/",
     "github_page": null,
@@ -795,7 +795,7 @@
   {
     "title": "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "pleaseconnectwifi/DANCE",
     "web_page": null,
     "github_page": null,
@@ -834,7 +834,7 @@
   {
     "title": "DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "IDEA-Research/DisCo-CLIP",
     "web_page": null,
     "github_page": null,
@@ -912,7 +912,7 @@
   {
     "title": "On the Effects of Self-Supervision and Contrastive Alignment in Deep Multi-View Clustering",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "DanielTrosten/DeepMVC",
     "web_page": null,
     "github_page": null,
@@ -990,7 +990,7 @@
   {
     "title": "Language-Guided Music Recommendation for Video via Prompt Analogies",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": "https://www.danielbmckee.com/language-guided-music-for-video/",
     "github_page": null,
@@ -1029,7 +1029,7 @@
   {
     "title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -1042,7 +1042,7 @@
   {
     "title": "PRISE: Demystifying Deep Lucas-Kanade With Strongly Star-Convex Constraints for Multimodel Image Alignment",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "Zhang-VISLab/CVPR2023-PRISE",
     "web_page": null,
     "github_page": null,
@@ -1094,7 +1094,7 @@
   {
     "title": "Critical Learning Periods for Multisensory Integration in Deep Networks",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,

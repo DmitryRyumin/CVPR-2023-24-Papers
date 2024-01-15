@@ -223,7 +223,7 @@
   {
     "title": "Interactive Segmentation As Gaussion Process Classification",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "zmhhmz/GPCIS_CVPR2023",
     "web_page": null,
     "github_page": null,
@@ -340,7 +340,7 @@
   {
     "title": "Generalizable Local Feature Pre-Training for Deformable Shape Analysis",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "pvnieo/vader",
     "web_page": null,
     "github_page": null,
@@ -353,7 +353,7 @@
   {
     "title": "Understanding and Improving Features Learned in Deep Functional Maps",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "pvnieo/clover",
     "web_page": null,
     "github_page": null,
@@ -494,9 +494,9 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation",
+    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation[",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": "https://lkhl.github.io/ACSeg/",
@@ -522,7 +522,7 @@
   {
     "title": "Hierarchical Dense Correlation Distillation for Few-Shot Segmentation",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "Pbihao/HDMNet",
     "web_page": null,
     "github_page": null,
@@ -730,7 +730,7 @@
   {
     "title": "Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "dongliangcao/Self-Supervised-Multimodal-Shape-Matching",
     "web_page": null,
     "github_page": null,
@@ -821,7 +821,7 @@
   {
     "title": "Marching-Primitives: Shape Abstraction From Signed Distance Function",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "ChirikjianLab/Marching-Primitives",
     "web_page": null,
     "github_page": null,
@@ -925,7 +925,7 @@
   {
     "title": "Quantum Multi-Model Fitting",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "FarinaMatteo/qmmf",
     "web_page": null,
     "github_page": null,
@@ -1016,7 +1016,7 @@
   {
     "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -1029,7 +1029,7 @@
   {
     "title": "Camouflaged Instance Segmentation via Explicit De-Camouflaging",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "USTCL/DCNet",
     "web_page": null,
     "github_page": null,
@@ -1133,7 +1133,7 @@
   {
     "title": "Attention-Based Point Cloud Edge Sampling",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
@@ -1250,7 +1250,7 @@
   {
     "title": "Side Adapter Network for Open-Vocabulary Semantic Segmentation",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": "MendelXu/SAN",
     "web_page": null,
     "github_page": "https://mendelxu.github.io/SAN/",
@@ -1302,7 +1302,7 @@
   {
     "title": "Beyond mAP: Towards Better Evaluation of Instance Segmentation",
     "base_url": null,
-    "title_page": "",
+    "title_page": null,
     "repo": null,
     "web_page": null,
     "github_page": null,
