@@ -1,5 +1,16 @@
 # CVPR-2023-Papers
 
+<table>
+    <tr>
+        <td><strong>Application</strong></td>
+        <td>
+            <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+                <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 <div align="center">
     <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
@@ -39,7 +50,7 @@
 | Revisiting Temporal Modeling for CLIP-Based Image-to-Video Knowledge Transferring | [![GitHub](https://img.shields.io/github/stars/farewellthree/STAN?style=flat)](https://github.com/farewellthree/STAN) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Liu_Revisiting_Temporal_Modeling_for_CLIP-Based_Image-to-Video_Knowledge_Transferring_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2301.11116-b31b1b.svg)](http://arxiv.org/abs/2301.11116) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=kaDItcB1iFw) |
 | Distilling Vision-Language Pre-Training To Collaborate With Weakly-Supervised Temporal Action Localization | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://voide1220.github.io/distillation_collaboration/) <br /> [![GitHub](https://img.shields.io/github/stars/ju-chen/Efficient-Prompt?style=flat)](https://github.com/ju-chen/Efficient-Prompt) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Ju_Distilling_Vision-Language_Pre-Training_To_Collaborate_With_Weakly-Supervised_Temporal_Action_Localization_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.09335-b31b1b.svg)](http://arxiv.org/abs/2212.09335) | :heavy_minus_sign: |
 | Real-Time Multi-Person Eyeblink Detection in the Wild for Untrimmed Video | [![GitHub](https://img.shields.io/github/stars/wenzhengzeng/MPEblink?style=flat)](https://github.com/wenzhengzeng/MPEblink) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Zeng_Real-Time_Multi-Person_Eyeblink_Detection_in_the_Wild_for_Untrimmed_Video_CVPR_2023_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2303.16053-b31b1b.svg)](http://arxiv.org/abs/2303.16053) |[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ngME7dym0Uk) |
-| Modeling Video As Stochastic Processes for Fine-Grained Video Representation Learning <br/> [![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00)]() | [![GitHub](https://img.shields.io/github/stars/hengRUC/VSP?style=flat)](https://github.com/hengRUC/VSP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
+| Modeling Video As Stochastic Processes for Fine-Grained Video Representation Learning <br/> ![CVPR - Highlight](https://img.shields.io/badge/CVPR-Highlight-FFFF00) | [![GitHub](https://img.shields.io/github/stars/hengRUC/VSP?style=flat)](https://github.com/hengRUC/VSP) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com//content/CVPR2023/papers/Zhang_Modeling_Video_As_Stochastic_Processes_for_Fine-Grained_Video_Representation_Learning_CVPR_2023_paper.pdf) | :heavy_minus_sign: |
 | Re<sup>2</sup>TAL: <u>Re</u>wiring Pretrained Video Backbones for <u>Re</u>versible <u>T</u>emporal <u>A</u>ction <u>L</u>ocalization |  |  |  |
 | Learning Discriminative Representations for Skeleton based Action Recognition |  |  |  |
 | Learning Procedure-Aware Video Representation from Instructional Videos and Their Narrations |  |  |  |
