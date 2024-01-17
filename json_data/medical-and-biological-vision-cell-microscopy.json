@@ -154,5 +154,83 @@
     "paper_arxiv_id": null,
     "youtube_id": null,
     "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "Image Quality-Aware Diagnosis via Meta-Knowledge Co-Embedding",
+    "base_url": null,
+    "title_page": null,
+    "repo": "chehx/MKCNet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Che_Image_Quality-Aware_Diagnosis_via_Meta-Knowledge_Co-Embedding_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2303.15038",
+    "youtube_id": null,
+    "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "Iterative Next Boundary Detection for Instance Segmentation of Tree Rings in Microscopy Images of Shrub Cross Sections",
+    "base_url": null,
+    "title_page": null,
+    "repo": "alexander-g/INBD",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Gillert_Iterative_Next_Boundary_Detection_for_Instance_Segmentation_of_Tree_Rings_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2212.03022",
+    "youtube_id": "HciQxL2K8_E",
+    "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "Dynamic Graph Enhanced Contrastive Learning for Chest X-Ray Report Generation",
+    "base_url": null,
+    "title_page": null,
+    "repo": "mlii0117/DCL",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2303.10323",
+    "youtube_id": "aBUQbYmcp-k",
+    "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "Seeing Beyond the Brain: Conditional Diffusion Model With Sparse Masked Modeling for Vision Decoding",
+    "base_url": null,
+    "title_page": null,
+    "repo": "zjc062/mind-vis",
+    "web_page": null,
+    "github_page": "https://mind-vis.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Chen_Seeing_Beyond_the_Brain_Conditional_Diffusion_Model_With_Sparse_Masked_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2211.06956",
+    "youtube_id": "Oh7XG_hoX34",
+    "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "Bi-Directional Feature Fusion Generative Adversarial Network for Ultra-High Resolution Pathological Image Virtual Re-Staining",
+    "base_url": null,
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Sun_Bi-Directional_Feature_Fusion_Generative_Adversarial_Network_for_Ultra-High_Resolution_Pathological_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Medical and Biological Vision, Cell Microscopy"
+  },
+  {
+    "title": "KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation",
+    "base_url": null,
+    "title_page": null,
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com//content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf",
+    "paper_arxiv_id": "2306.11345",
+    "youtube_id": null,
+    "section": "Medical and Biological Vision, Cell Microscopy"
   }
 ]
