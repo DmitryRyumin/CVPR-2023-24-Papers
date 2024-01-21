@@ -175,7 +175,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Devil Is in the Queries: Advancing Mask Transformers for Real-World Medical Image Segmentation and Out-of-Distribution Localization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Devil Is in the Queries: Advancing Mask Transformers for Real-World Medical Image Segmentation and Out-of-Distribution Localization",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -675,7 +675,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "RepMode: Learning to Re-Parameterize Diverse Experts for Subcellular Structure Prediction <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "RepMode: Learning to Re-Parameterize Diverse Experts for Subcellular Structure Prediction",
     "base_url": null,
     "title_page": null,
     "repo": "Correr-Zhou/RepMode",
@@ -1075,7 +1075,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Interventional Bag Multi-Instance Learning on Whole-Slide Pathological Images <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Interventional Bag Multi-Instance Learning on Whole-Slide Pathological Images",
     "base_url": null,
     "title_page": null,
     "repo": "HHHedo/IBMIL",
@@ -1100,7 +1100,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition",
     "base_url": null,
     "title_page": null,
     "repo": "bowang-lab/MAESTER",
@@ -1200,7 +1200,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "PEFAT: Boosting Semi-Supervised Medical Image Classification via Pseudo-Loss Estimation and Feature Adversarial Training <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "PEFAT: Boosting Semi-Supervised Medical Image Classification via Pseudo-Loss Estimation and Feature Adversarial Training",
     "base_url": null,
     "title_page": null,
     "repo": "maxwell0027/PEFAT",
@@ -1275,7 +1275,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy",
     "base_url": null,
     "title_page": null,
     "repo": "MLNeurosurg/hidisc",

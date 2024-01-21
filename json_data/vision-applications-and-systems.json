@@ -500,7 +500,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "What Can Human Sketches Do for Object Detection? <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "What Can Human Sketches Do for Object Detection?",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -675,7 +675,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection",
     "base_url": null,
     "title_page": null,
     "repo": "Adamdad/ConsistentTeacher",
@@ -725,7 +725,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection",
+    "title": "Bridging Precision and Confidence: A Train-Time Loss for Cali",
     "base_url": null,
     "title_page": null,
     "repo": "akhtarvision/bpc_calibration",
@@ -775,7 +775,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "Multiclass Confidence and Localization Calibration for Object Detection",
+    "title": "Multiclass Confidence and Localization Cali",
     "base_url": null,
     "title_page": null,
     "repo": "bimsarapathiraja/MCCL",
@@ -850,7 +850,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "SIEDOB: Semantic Image Editing by Disentangling Object and Background <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "SIEDOB: Semantic Image Editing by Disentangling Object and Background",
     "base_url": null,
     "title_page": null,
     "repo": "WuyangLuo/SIEDOB",

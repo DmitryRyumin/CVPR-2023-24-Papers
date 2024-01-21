@@ -75,7 +75,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "Magic3D: High-Resolution Text-to-3D Content Creation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -425,7 +425,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "Multiplicative Fourier Level of Detail <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Multiplicative Fourier Level of Detail",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -525,7 +525,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions",
     "base_url": null,
     "title_page": null,
     "repo": "threedle/3DHighlighter",
@@ -725,7 +725,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation",
     "base_url": null,
     "title_page": null,
     "repo": "DrZiji/VecFloorSeg",

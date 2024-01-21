@@ -75,7 +75,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "TarViS: A Unified Approach for Target-based Video Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "TarViS: A Unified Approach for Target-based Video Segmentation",
     "base_url": null,
     "title_page": null,
     "repo": "Ali2500/TarViS",
@@ -150,7 +150,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "A Dynamic Multi-Scale Voxel Flow Network for Video Prediction <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "A Dynamic Multi-Scale Voxel Flow Network for Video Prediction",
     "base_url": null,
     "title_page": null,
     "repo": "megvii-research/CVPR2023-DMVFN",
@@ -525,7 +525,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "TransFlow: Transformer as Flow Learner <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "TransFlow: Transformer as Flow Learner",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -575,7 +575,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "Autoregressive Visual Tracking <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Autoregressive Visual Tracking",
     "base_url": null,
     "title_page": null,
     "repo": "MIV-XJTU/ARTrack",
@@ -675,7 +675,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "Efficient RGB-T Tracking via Cross-Modality Distillation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Efficient RGB-T Tracking via Cross-Modality Distillation",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -900,7 +900,7 @@
     "section": "Video: Low-Level Analysis, Motion, and Tracking"
   },
   {
-    "title": "Unsupervised Space-Time Network for Temporally-Consistent Segmentation of Multiple Motions <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Unsupervised Space-Time Network for Temporally-Consistent Segmentation of Multiple Motions",
     "base_url": null,
     "title_page": null,
     "repo": "Etienne-Meunier-Inria/ST-Space-Time-Flow-Segmentation",

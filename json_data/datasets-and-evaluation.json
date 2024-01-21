@@ -125,7 +125,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "Accelerating Dataset Distillation via Model Augmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Accelerating Dataset Distillation via Model Augmentation",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -275,7 +275,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "Connecting Vision and Language with Video Localized Narratives <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Connecting Vision and Language with Video Localized Narratives",
     "base_url": null,
     "title_page": null,
     "repo": "google/video-localized-narratives",
@@ -400,7 +400,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "Habitat-Matterport 3D Semantics Dataset <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Habitat-Matterport 3D Semantics Dataset",
     "base_url": null,
     "title_page": null,
     "repo": "matterport/habitat-matterport-3dresearch",
@@ -575,7 +575,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "PACO: Parts and Attributes of Common Objects <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "PACO: Parts and Attributes of Common Objects",
     "base_url": null,
     "title_page": null,
     "repo": "facebookresearch/paco",
@@ -600,7 +600,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "Understanding Deep Generative Models with Generalized Empirical Likelihoods <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Understanding Deep Generative Models with Generalized Empirical Likelihoods",
     "base_url": null,
     "title_page": null,
     "repo": "google-deepmind/understanding_deep_generative_models_with_generalized_empirical_likelihood",
@@ -625,7 +625,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion",
     "base_url": null,
     "title_page": null,
     "repo": "pixelite1201/BEDLAM",
@@ -850,7 +850,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1025,7 +1025,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Positive-Augmented Contrastive Learning for Image and Video Captioning Evaluation",
     "base_url": null,
     "title_page": null,
     "repo": "aimagelab/pacscore",
@@ -1300,7 +1300,7 @@
     "section": "Datasets and Evaluation"
   },
   {
-    "title": "RealImpact: A Dataset of Impact Sound Fields for Real Objects <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "RealImpact: A Dataset of Impact Sound Fields for Real Objects",
     "base_url": null,
     "title_page": null,
     "repo": "samuel-clarke/RealImpact",

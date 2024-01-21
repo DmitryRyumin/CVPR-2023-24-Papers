@@ -150,7 +150,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "LaserMix for Semi-Supervised LiDAR Semantic Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "LaserMix for Semi-Supervised LiDAR Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "repo": "ldkong1205/LaserMix",
@@ -250,7 +250,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Planning-Oriented Autonomous Driving <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "Planning-Oriented Autonomous Driving",
     "base_url": null,
     "title_page": null,
     "repo": "OpenDriveLab/UniAD",
@@ -400,7 +400,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -425,7 +425,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Coaching a Teachable Student <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Coaching a Teachable Student",
     "base_url": null,
     "title_page": null,
     "repo": "h2xlab/CaT",
@@ -825,7 +825,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "UniSim: A Neural Closed-Loop Sensor Simulator <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "UniSim: A Neural Closed-Loop Sensor Simulator",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1475,7 +1475,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1525,7 +1525,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion",
     "base_url": null,
     "title_page": null,
     "repo": "NVlabs/VoxFormer",
@@ -1550,7 +1550,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Hidden Gems: 4D Radar Scene Flow Learning using Cross-Modal Supervision <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Hidden Gems: 4D Radar Scene Flow Learning using Cross-Modal Supervision",
     "base_url": null,
     "title_page": null,
     "repo": "Toytiny/CMFlow",
@@ -1675,7 +1675,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion",
     "base_url": null,
     "title_page": null,
     "repo": null,

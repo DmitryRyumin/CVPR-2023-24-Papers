@@ -100,7 +100,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "ImageBind: One Embedding Space To Bind Them All <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "ImageBind: One Embedding Space To Bind Them All",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -775,7 +775,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
     "base_url": null,
     "title_page": null,
     "repo": "cfeng16/audio-visual-forensics",
@@ -925,7 +925,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "EXIF As Language: Learning Cross-Modal Associations Between Images and Camera Metadata <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "EXIF As Language: Learning Cross-Modal Associations Between Images and Camera Metadata",
     "base_url": null,
     "title_page": null,
     "repo": "hellomuffin/exif-as-language",
@@ -1250,7 +1250,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Improving Cross-Modal Retrieval With Set of Diverse Embeddings <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Improving Cross-Modal Retrieval With Set of Diverse Embeddings",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1525,7 +1525,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles",
     "base_url": null,
     "title_page": null,
     "repo": "pleaseconnectwifi/DANCE",
@@ -1600,7 +1600,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training",
     "base_url": null,
     "title_page": null,
     "repo": "IDEA-Research/DisCo-CLIP",
@@ -1750,7 +1750,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "On the Effects of Self-Supervision and Contrastive Alignment in Deep Multi-View Clustering <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "On the Effects of Self-Supervision and Contrastive Alignment in Deep Multi-View Clustering",
     "base_url": null,
     "title_page": null,
     "repo": "DanielTrosten/DeepMVC",
@@ -1900,7 +1900,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Language-Guided Music Recommendation for Video via Prompt Analogies <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Language-Guided Music Recommendation for Video via Prompt Analogies",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1975,7 +1975,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -2000,7 +2000,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "PRISE: Demystifying Deep Lucas-Kanade With Strongly Star-Convex Constraints for Multimodel Image Alignment <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "PRISE: Demystifying Deep Lucas-Kanade With Strongly Star-Convex Constraints for Multimodel Image Alignment",
     "base_url": null,
     "title_page": null,
     "repo": "Zhang-VISLab/CVPR2023-PRISE",
@@ -2100,7 +2100,7 @@
     "section": "Multi-Modal Learning"
   },
   {
-    "title": "Critical Learning Periods for Multisensory Integration in Deep Networks <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Critical Learning Periods for Multisensory Integration in Deep Networks",
     "base_url": null,
     "title_page": null,
     "repo": null,

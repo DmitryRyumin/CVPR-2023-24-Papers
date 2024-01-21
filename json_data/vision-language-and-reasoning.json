@@ -25,7 +25,7 @@
     "section": "Vision, Language, and Reasoning"
   },
   {
-    "title": "Open-Vocabulary Panoptic Segmentation With Text-to-Image Diffusion Models <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Open-Vocabulary Panoptic Segmentation With Text-to-Image Diffusion Models",
     "base_url": null,
     "title_page": null,
     "repo": "NVlabs/ODISE",
@@ -125,7 +125,7 @@
     "section": "Vision, Language, and Reasoning"
   },
   {
-    "title": "GeneCIS: A Benchmark for General Conditional Image Similarity <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "GeneCIS: A Benchmark for General Conditional Image Similarity",
     "base_url": null,
     "title_page": null,
     "repo": "facebookresearch/genecis",
@@ -150,7 +150,7 @@
     "section": "Vision, Language, and Reasoning"
   },
   {
-    "title": "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks",
     "base_url": null,
     "title_page": null,
     "repo": "BrandonHanx/FAME-ViL",
@@ -325,7 +325,7 @@
     "section": "Vision, Language, and Reasoning"
   },
   {
-    "title": "GRES: Generalized Referring Expression Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "GRES: Generalized Referring Expression Segmentation",
     "base_url": null,
     "title_page": null,
     "repo": "henghuiding/ReLA",
