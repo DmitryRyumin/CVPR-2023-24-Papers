@@ -359,6 +359,17 @@ def extract_paper_data(paper_section, columns):
     title = re.sub(r"<(?:br\s*/?>|img[^>]*>)", "", title)
     title = title.strip()
 
+    html_entities = {
+        "&amp;": "&",
+        "&lt;": "<",
+        "&gt;": ">",
+        "&quot;": '"',
+        "&apos;": "'",
+    }
+    title = re.sub(
+        r"(&\w+;)", lambda x: html_entities.get(x.group(0), x.group(0)), title
+    )
+
     title_link = title_column.find("a")
     title_page = title_link["href"] if title_link else None
 
