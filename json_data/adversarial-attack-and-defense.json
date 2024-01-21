@@ -175,7 +175,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "Feature Separation and Recalibration for Adversarial Robustness",
+    "title": "Feature Separation and Recalibration for Adversarial Robustness <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "wkim97/FSR",
@@ -425,7 +425,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization",
+    "title": "Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -625,7 +625,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition",
+    "title": "Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "thu-ml/AT3D",
@@ -1400,7 +1400,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "Generalist: Decoupling Natural and Robust Generalization",
+    "title": "Generalist: Decoupling Natural and Robust Generalization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "PKU-ML/Generalist",

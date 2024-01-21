@@ -1,6 +1,6 @@
 [
   {
-    "title": "Towards Flexible Multi-Modal Document Models",
+    "title": "Towards Flexible Multi-Modal Document Models <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "CyberAgentAILab/flex-dm",
@@ -125,7 +125,7 @@
     "section": "Document Analysis and Understanding"
   },
   {
-    "title": "Unifying Vision, Text, and Layout for Universal Document Processing",
+    "title": "Unifying Vision, Text, and Layout for Universal Document Processing <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "microsoft/i-Code",
@@ -175,7 +175,7 @@
     "section": "Document Analysis and Understanding"
   },
   {
-    "title": "GeoLayoutLM: Geometric Pre-Training for Visual Information Extraction",
+    "title": "GeoLayoutLM: Geometric Pre-Training for Visual Information Extraction <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "AlibabaResearch/AdvancedLiterateMachinery",
@@ -250,7 +250,7 @@
     "section": "Document Analysis and Understanding"
   },
   {
-    "title": "M6Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis",
+    "title": "M<sup>6</sup>Doc: A Large-Scale Multi-Format, Multi-Type, Multi-Layout, Multi-Language, Multi-Annotation Category Dataset for Modern Document Layout Analysis",
     "base_url": null,
     "title_page": null,
     "repo": "HCIILAB/M6Doc",

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media",
+    "title": "Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -300,7 +300,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Text2Scene: Text-Driven Indoor Scene Stylization with Part-Aware Details",
+    "title": "Text2Scene: Text-Driven Indoor Scene Stylization with Part-Aware Details <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -475,7 +475,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "DC2: Dual-Camera Defocus Control by Learning to Refocus",
+    "title": "DC<sup>2</sup>: Dual-Camera Defocus Control by Learning to Refocus",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -775,7 +775,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "SeeingElectric Network Frequency from Events",
+    "title": "<code>Seeing</code> Electric Network Frequency from Events",
     "base_url": null,
     "title_page": null,
     "repo": "xlx-creater/E-ENF",
@@ -825,7 +825,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Learned Image Compression with Mixed Transformer-CNN Architectures",
+    "title": "Learned Image Compression with Mixed Transformer-CNN Architectures <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "jmliu206/LIC_TCM",
@@ -1250,7 +1250,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Passive Micron-Scale Time-of-Flight with Sunlight Interferometry",
+    "title": "Passive Micron-Scale Time-of-Flight with Sunlight Interferometry <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,

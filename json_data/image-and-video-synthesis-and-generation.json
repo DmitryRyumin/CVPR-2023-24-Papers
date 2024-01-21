@@ -175,7 +175,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -300,7 +300,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "SceneComposer: Any-Level Semantic Image Synthesis",
+    "title": "SceneComposer: Any-Level Semantic Image Synthesis <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "zengxianyu/scenec",
@@ -675,7 +675,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Towards Accurate Image Coding: Improved Autoregressive Image Generation With Dynamic Vector Quantization",
+    "title": "Towards Accurate Image Coding: Improved Autoregressive Image Generation With Dynamic Vector Quantization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "CrossmodalGroup/DynamicVectorQuantization",
@@ -1325,7 +1325,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "SPARF: Neural Radiance Fields From Sparse and Noisy Poses",
+    "title": "SPARF: Neural Radiance Fields From Sparse and Noisy Poses <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "google-research/sparf",
@@ -1425,7 +1425,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "MaskSketch: Unpaired Structure-Guided Masked Image Generation",
+    "title": "MaskSketch: Unpaired Structure-Guided Masked Image Generation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1775,7 +1775,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Scaling Up GANs for Text-to-Image Synthesis",
+    "title": "Scaling Up GANs for Text-to-Image Synthesis <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -2275,7 +2275,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "PixHt-Lab: Pixel Height Based Light Effect Generation for Image Compositing",
+    "title": "PixHt-Lab: Pixel Height Based Light Effect Generation for Image Compositing <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -2550,7 +2550,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Polynomial Implicit Neural Representations for Large Diverse Datasets",
+    "title": "Polynomial Implicit Neural Representations for Large Diverse Datasets <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "Rajhans0/Poly_INR",
@@ -2650,7 +2650,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Private Image Generation With Dual-Purpose Auxiliary Classifier",
+    "title": "Private Image Generation With Dual-Purpose Auxiliary Classifier <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -2675,7 +2675,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "MAGVIT: Masked Generative Video Transformer",
+    "title": "MAGVIT: Masked Generative Video Transformer <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "google-research/magvit",
@@ -3275,7 +3275,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars",
+    "title": "Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "MrTornado24/Next3D",
@@ -3775,7 +3775,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis",
+    "title": "StyleGene: Crossover and Mutation of Region-Level Facial Genes for Kinship Face Synthesis <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "CVI-SZU/StyleGene",
@@ -3975,7 +3975,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "InstructPix2Pix: Learning To Follow Image Editing Instructions",
+    "title": "InstructPix2Pix: Learning To Follow Image Editing Instructions <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "timothybrooks/instruct-pix2pix",
@@ -4025,7 +4025,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Freestyle Layout-to-Image Synthesis",
+    "title": "Freestyle Layout-to-Image Synthesis <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "essunny310/FreestyleNet",
@@ -4050,7 +4050,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "On Distillation of Guided Diffusion Models",
+    "title": "On Distillation of Guided Diffusion Models <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -4275,7 +4275,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts",
+    "title": "ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -4400,7 +4400,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Sequential Training of GANs Against GAN-Classifiers Reveals CorrelatedKnowledge GapsPresent Among Independently Trained GAN Instances",
+    "title": "Sequential Training of GANs Against GAN-Classifiers Reveals Correlated <code>Knowledge Gaps</code> Present Among Independently Trained GAN Instances",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -4425,7 +4425,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Attribute-Preserving Face Dataset Anonymization via Latent Code Optimization",
+    "title": "Attribute-Preserving Face Dataset Anonymization via Latent Code Optimization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "chi0tzp/FALCO",
@@ -4475,7 +4475,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "HandsOff: Labeled Dataset Generation With No Additional Human Annotations",
+    "title": "HandsOff: Labeled Dataset Generation With No Additional Human Annotations <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "austinxu87/handsoff",
@@ -4525,7 +4525,7 @@
     "section": "Image and Video Synthesis and Generation"
   },
   {
-    "title": "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting",
+    "title": "Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,

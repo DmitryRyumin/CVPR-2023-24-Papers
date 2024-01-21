@@ -1,6 +1,6 @@
 [
   {
-    "title": "PA&DA: Jointly Sampling PAth and DAta for Consistent NAS",
+    "title": "PA&amp;DA: Jointly Sampling PAth and DAta for Consistent NAS",
     "base_url": null,
     "title_page": null,
     "repo": "ShunLu91/PA-DA",
@@ -175,7 +175,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization",
+    "title": "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "xxgege/GAM",
@@ -350,7 +350,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Deep Graph Reprogramming",
+    "title": "Deep Graph Reprogramming <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -750,7 +750,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution",
+    "title": "B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "ByeongHyunPak/btc",
@@ -1225,7 +1225,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Integral Neural Networks",
+    "title": "Integral Neural Networks <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "TheStageAI/TorchIntegral",
@@ -1550,7 +1550,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Co-Training 2LSubmodels for Visual Recognition",
+    "title": "Co-Training 2<sup>L</sup> Submodels for Visual Recognition",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1925,7 +1925,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data",
+    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "lyn1874/fedpvr",

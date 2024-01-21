@@ -425,7 +425,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Interactive Segmentation As Gaussion Process Classification",
+    "title": "Interactive Segmentation As Gaussion Process Classification <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "zmhhmz/GPCIS_CVPR2023",
@@ -650,7 +650,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Generalizable Local Feature Pre-Training for Deformable Shape Analysis",
+    "title": "Generalizable Local Feature Pre-Training for Deformable Shape Analysis <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "pvnieo/vader",
@@ -675,7 +675,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Understanding and Improving Features Learned in Deep Functional Maps",
+    "title": "Understanding and Improving Features Learned in Deep Functional Maps <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "pvnieo/clover",
@@ -950,7 +950,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation[",
+    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation <br/> [<img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1000,7 +1000,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Hierarchical Dense Correlation Distillation for Few-Shot Segmentation",
+    "title": "Hierarchical Dense Correlation Distillation for Few-Shot Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "Pbihao/HDMNet",
@@ -1400,7 +1400,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching",
+    "title": "Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "dongliangcao/Self-Supervised-Multimodal-Shape-Matching",
@@ -1575,7 +1575,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Marching-Primitives: Shape Abstraction From Signed Distance Function",
+    "title": "Marching-Primitives: Shape Abstraction From Signed Distance Function <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "ChirikjianLab/Marching-Primitives",
@@ -1775,7 +1775,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Quantum Multi-Model Fitting",
+    "title": "Quantum Multi-Model Fitting <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "FarinaMatteo/qmmf",
@@ -1950,7 +1950,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class",
+    "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1975,7 +1975,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Camouflaged Instance Segmentation via Explicit De-Camouflaging",
+    "title": "Camouflaged Instance Segmentation via Explicit De-Camouflaging <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "USTCL/DCNet",
@@ -2175,7 +2175,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Attention-Based Point Cloud Edge Sampling",
+    "title": "Attention-Based Point Cloud Edge Sampling <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -2400,7 +2400,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Side Adapter Network for Open-Vocabulary Semantic Segmentation",
+    "title": "Side Adapter Network for Open-Vocabulary Semantic Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "MendelXu/SAN",
@@ -2500,7 +2500,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Beyond mAP: Towards Better Evaluation of Instance Segmentation",
+    "title": "Beyond mAP: Towards Better Evaluation of Instance Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
