@@ -150,7 +150,7 @@
     "section": "Physics-based Vision and Shape-from-X"
   },
   {
-    "title": "DANI-Net: Uncali",
+    "title": "DANI-Net: Uncalibrated Photometric Stereo by Differentiable Shadow Handling, Anisotropic Reflectance Modeling, and Neural Inverse Rendering",
     "base_url": null,
     "title_page": null,
     "repo": "LMozart/CVPR2023-DANI-Net",

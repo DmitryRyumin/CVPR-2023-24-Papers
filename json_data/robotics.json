@@ -175,7 +175,7 @@
     "section": "Robotics"
   },
   {
-    "title": "PyPose: A Li",
+    "title": "PyPose: A Library for Robot Learning with Physics-based Optimization",
     "base_url": null,
     "title_page": null,
     "repo": "pypose/pypose",

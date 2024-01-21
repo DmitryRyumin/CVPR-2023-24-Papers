@@ -75,7 +75,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Propagate and Cali",
+    "title": "Propagate and Calibrate: Real-Time Passive Non-Line-of-Sight Tracking",
     "base_url": null,
     "title_page": null,
     "repo": "AgainstEntropy/NLOS-Track",
@@ -550,7 +550,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "1000 FPS HDR Video with a Spike-RGB Hy",
+    "title": "1000 FPS HDR Video with a Spike-RGB Hybrid Camera",
     "base_url": null,
     "title_page": null,
     "repo": null,

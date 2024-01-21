@@ -950,7 +950,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation",
+    "title": "ACSeg: Adaptive Conceptualization for Unsupervised Semantic Segmentation  [",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -975,7 +975,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "CCuantuMM: Cycle-Consistent Quantum-Hy",
+    "title": "CCuantuMM: Cycle-Consistent Quantum-Hybrid Matching of Multiple Shapes",
     "base_url": null,
     "title_page": null,
     "repo": "HarshilBhatia/CCuantuMM",
@@ -1025,7 +1025,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Cali",
+    "title": "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1600,7 +1600,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Multimodal Industrial Anomaly Detection via Hy",
+    "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion",
     "base_url": null,
     "title_page": null,
     "repo": "nomewang/M3DM",
@@ -1875,7 +1875,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "On Cali",
+    "title": "On Calibrating Semantic Segmentation Models: Analyses and an Algorithm",
     "base_url": null,
     "title_page": null,
     "repo": "dwang181/selectivecal",

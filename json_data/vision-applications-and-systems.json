@@ -725,7 +725,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "Bridging Precision and Confidence: A Train-Time Loss for Cali",
+    "title": "Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection",
     "base_url": null,
     "title_page": null,
     "repo": "akhtarvision/bpc_calibration",
@@ -775,7 +775,7 @@
     "section": "Vision Applications and Systems"
   },
   {
-    "title": "Multiclass Confidence and Localization Cali",
+    "title": "Multiclass Confidence and Localization Calibration for Object Detection",
     "base_url": null,
     "title_page": null,
     "repo": "bimsarapathiraja/MCCL",

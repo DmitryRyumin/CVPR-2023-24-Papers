@@ -175,7 +175,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "Feature Separation and Recali",
+    "title": "Feature Separation and Recalibration for Adversarial Robustness",
     "base_url": null,
     "title_page": null,
     "repo": "wkim97/FSR",
@@ -450,7 +450,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "AGAIN: Adversarial Training with Attribution Span Enlargement and Hy",
+    "title": "AGAIN: Adversarial Training with Attribution Span Enlargement and Hybrid Feature Fusion",
     "base_url": null,
     "title_page": null,
     "repo": "InsLin/AGAIN",
@@ -1025,7 +1025,7 @@
     "section": "Adversarial Attack and Defense"
   },
   {
-    "title": "CFA: Class-Wise Cali",
+    "title": "CFA: Class-Wise Calibrated Fair Adversarial Training",
     "base_url": null,
     "title_page": null,
     "repo": "PKU-ML/CFA",

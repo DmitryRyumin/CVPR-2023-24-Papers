@@ -850,7 +850,7 @@
     "section": "Scene Analysis and Understanding"
   },
   {
-    "title": "Perspective Fields for Single Image Camera Cali",
+    "title": "Perspective Fields for Single Image Camera Calibration",
     "base_url": null,
     "title_page": null,
     "repo": "jinlinyi/PerspectiveFields",

@@ -875,7 +875,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "On the Pitfall of Mixup for Uncertainty Cali",
+    "title": "On the Pitfall of Mixup for Uncertainty Calibration",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1750,7 +1750,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Perception and Semantic Aware Regularization for Sequential Confidence Cali",
+    "title": "Perception and Semantic Aware Regularization for Sequential Confidence Calibration",
     "base_url": null,
     "title_page": null,
     "repo": "husterpzh/PSSR",
@@ -1850,7 +1850,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Generalization Matters: Loss Minima Flattening via Parameter Hy",
+    "title": "Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation",
     "base_url": null,
     "title_page": null,
     "repo": "tianlizhang/OKDPH",
@@ -2150,7 +2150,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "HNeRV: A Hy",
+    "title": "HNeRV: A Hybrid Neural Representation for Videos",
     "base_url": null,
     "title_page": null,
     "repo": "haochen-rye/HNeRV",
