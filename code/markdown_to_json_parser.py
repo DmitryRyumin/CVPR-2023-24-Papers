@@ -349,7 +349,11 @@ def extract_paper_data(paper_section, columns):
     title = (
         title_column.a.encode_contents().decode("utf-8")
         if title_column.a is not None
-        else None
+        else (
+            title_column.encode_contents().decode("utf-8")
+            if title_column.get_text(strip=True) is not None
+            else None
+        )
     )
 
     title_link = title_column.find("a")
