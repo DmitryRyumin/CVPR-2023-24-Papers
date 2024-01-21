@@ -1,6 +1,6 @@
 [
   {
-    "title": "Decoupled Semantic Prototypes Enable Learning From Diverse Annotation Types for Semi-Weakly Segmentation in Expert-Driven Domains",
+    "title": "Decoupled Semantic Prototypes Enable Learning from Diverse Annotation Types for Semi-Weakly Segmentation in Expert-Driven Domains",
     "base_url": null,
     "title_page": null,
     "repo": "Simael/DSP",
@@ -30,7 +30,7 @@
     "title_page": null,
     "repo": "YutingHe-list/GVSL",
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://x-ark.github.io/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -175,7 +175,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Devil Is in the Queries: Advancing Mask Transformers for Real-World Medical Image Segmentation and Out-of-Distribution Localization",
+    "title": "Devil is in the Queries: Advancing Mask Transformers for Real-World Medical Image Segmentation and Out-of-Distribution Localization",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -375,7 +375,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Seeing Beyond the Brain: Conditional Diffusion Model With Sparse Masked Modeling for Vision Decoding",
+    "title": "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding",
     "base_url": null,
     "title_page": null,
     "repo": "zjc062/mind-vis",
@@ -450,7 +450,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Weakly Supervised Segmentation With Point Annotations for Histopathology Images via Contrast-Based Variational Model",
+    "title": "Weakly Supervised Segmentation with Point Annotations for Histopathology Images via Contrast-based Variational Model",
     "base_url": null,
     "title_page": null,
     "repo": "huiqu18/WeaklySegPointAnno",
@@ -475,12 +475,12 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Ambiguous Medical Image Segmentation Using Diffusion Models",
+    "title": "Ambiguous Medical Image Segmentation using Diffusion Models",
     "base_url": null,
     "title_page": null,
     "repo": "aimansnigdha/Ambiguous-Medical-Image-Segmentation-using-Diffusion-Models",
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://aimansnigdha.github.io/cimd/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -503,7 +503,7 @@
     "title": "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
     "base_url": null,
     "title_page": null,
-    "repo": null,
+    "repo": "ChrisXLi/CaDAG",
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -525,7 +525,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Best of Both Worlds: Multimodal Contrastive Learning With Tabular and Imaging Data",
+    "title": "Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data",
     "base_url": null,
     "title_page": null,
     "repo": "paulhager/MMCL-Tabular-Imaging",
@@ -600,7 +600,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Histopathology Whole Slide Image Analysis With Heterogeneous Graph Representation Learning",
+    "title": "Histopathology whole Slide Image Analysis with Heterogeneous Graph Representation Learning",
     "base_url": null,
     "title_page": null,
     "repo": "HKU-MedAI/WSI-HGNN",
@@ -630,7 +630,7 @@
     "title_page": null,
     "repo": "JunbongJang/contour-tracking",
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://junbongjang.github.io/projects/contour-tracking/index.html",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -650,7 +650,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Learning To Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization",
+    "title": "Learning to Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -725,7 +725,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology Whole Slide Image Classification",
+    "title": "Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology whole Slide Image Classification",
     "base_url": null,
     "title_page": null,
     "repo": "invoker-LL/WSI-finetuning",
@@ -800,7 +800,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Directional Connectivity-Based Segmentation of Medical Images",
+    "title": "Directional Connectivity-based Segmentation of Medical Images",
     "base_url": null,
     "title_page": null,
     "repo": "Zyun-Y/DconnNet",
@@ -900,7 +900,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "DualRel: Semi-Supervised Mitochondria Segmentation From a Prototype Perspective",
+    "title": "DualRel: Semi-Supervised Mitochondria Segmentation from a Prototype Perspective",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1125,7 +1125,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Neuralizer: General Neuroimage Analysis Without Re-Training",
+    "title": "Neuralizer: General Neuroimage Analysis without Re-Training",
     "base_url": null,
     "title_page": null,
     "repo": "SteffenCzolbe/neuralizer",
@@ -1150,7 +1150,7 @@
     "section": "Medical and Biological Vision, Cell Microscopy"
   },
   {
-    "title": "Why Is the Winner the Best?",
+    "title": "Why is the Winner the Best?",
     "base_url": null,
     "title_page": null,
     "repo": null,
