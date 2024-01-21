@@ -275,7 +275,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "Learning Video Representations from Large Language Models <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Learning Video Representations from Large Language Models",
     "base_url": null,
     "title_page": null,
     "repo": "facebookresearch/LaViLa",
@@ -525,7 +525,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "Modeling Video As Stochastic Processes for Fine-Grained Video Representation Learning <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Modeling Video As Stochastic Processes for Fine-Grained Video Representation Learning",
     "base_url": null,
     "title_page": null,
     "repo": "hengRUC/VSP",
@@ -750,7 +750,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "AutoAD: Movie Description in Context <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "AutoAD: Movie Description in Context",
     "base_url": null,
     "title_page": null,
     "repo": null,

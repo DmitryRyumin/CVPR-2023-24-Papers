@@ -25,7 +25,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation",
     "base_url": null,
     "title_page": null,
     "repo": "NVlabs/ConformalKeypoint",
@@ -375,7 +375,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "Neural Kernel Surface Reconstruction <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Neural Kernel Surface Reconstruction",
     "base_url": null,
     "title_page": null,
     "repo": "nv-tlabs/nksr",
@@ -1075,7 +1075,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View",
     "base_url": null,
     "title_page": null,
     "repo": "megvii-research/CVPR2023-UniDistill",
@@ -1125,7 +1125,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "RUST: Latent Neural Scene Representations from Unposed Imagery <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "RUST: Latent Neural Scene Representations from Unposed Imagery",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1175,7 +1175,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "F<sup>2</sup>-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "F<sup>2</sup>-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories",
     "base_url": null,
     "title_page": null,
     "repo": "totoro97/f2-nerf",
@@ -1200,7 +1200,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud",
     "base_url": null,
     "title_page": null,
     "repo": "wz7in/CVPR2023-VLSAT",
@@ -1325,7 +1325,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures",
     "base_url": null,
     "title_page": null,
     "repo": "google-research/jax3d",
@@ -1350,7 +1350,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "DynIBaR: Neural Dynamic Image-based Rendering <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "DynIBaR: Neural Dynamic Image-based Rendering",
     "base_url": null,
     "title_page": null,
     "repo": "google/dynibar",
@@ -1550,7 +1550,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "3D Registration with Maximal Cliques <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "3D Registration with Maximal Cliques",
     "base_url": null,
     "title_page": null,
     "repo": "zhangxy0517/3D-Registration-with-Maximal-Cliques",
@@ -1575,7 +1575,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation",
     "base_url": null,
     "title_page": null,
     "repo": "omniobject3d/OmniObject3D",
@@ -1650,7 +1650,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior",
     "base_url": null,
     "title_page": null,
     "repo": "ActiveVisionLab/nope-nerf",
@@ -1875,7 +1875,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "HyperReel: High-Fidelity 6-DoF Video With Ray-Conditioned Sampling <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "HyperReel: High-Fidelity 6-DoF Video With Ray-Conditioned Sampling",
     "base_url": null,
     "title_page": null,
     "repo": "facebookresearch/hyperreel",
@@ -1975,7 +1975,7 @@
     "section": "3D from Multi-View and Sensors"
   },
   {
-    "title": "Panoptic Lifting for 3D Scene Understanding with Neural Fields <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Panoptic Lifting for 3D Scene Understanding with Neural Fields",
     "base_url": null,
     "title_page": null,
     "repo": "nihalsid/panoptic-lifting",

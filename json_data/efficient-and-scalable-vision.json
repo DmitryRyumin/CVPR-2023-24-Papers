@@ -25,7 +25,7 @@
     "section": "Efficient and Scalable Vision"
   },
   {
-    "title": "Stitchable Neural Networks <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Stitchable Neural Networks",
     "base_url": null,
     "title_page": null,
     "repo": "ziplab/SN-Net",
@@ -350,7 +350,7 @@
     "section": "Efficient and Scalable Vision"
   },
   {
-    "title": "Slimmable Dataset Condensation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Slimmable Dataset Condensation",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -925,7 +925,7 @@
     "section": "Efficient and Scalable Vision"
   },
   {
-    "title": "Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting",
     "base_url": null,
     "title_page": null,
     "repo": "coulsonlee/STDO-CVPR2023",

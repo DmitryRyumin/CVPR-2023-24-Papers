@@ -1,6 +1,6 @@
 [
   {
-    "title": "Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -75,7 +75,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Propagate and Calibrate: Real-Time Passive Non-Line-of-Sight Tracking",
+    "title": "Propagate and Cali",
     "base_url": null,
     "title_page": null,
     "repo": "AgainstEntropy/NLOS-Track",
@@ -300,7 +300,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Text2Scene: Text-Driven Indoor Scene Stylization with Part-Aware Details <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Text2Scene: Text-Driven Indoor Scene Stylization with Part-Aware Details",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -550,7 +550,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "1000 FPS HDR Video with a Spike-RGB Hybrid Camera",
+    "title": "1000 FPS HDR Video with a Spike-RGB Hy",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -825,7 +825,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Learned Image Compression with Mixed Transformer-CNN Architectures <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Learned Image Compression with Mixed Transformer-CNN Architectures",
     "base_url": null,
     "title_page": null,
     "repo": "jmliu206/LIC_TCM",
@@ -1250,7 +1250,7 @@
     "section": "Computational Imaging"
   },
   {
-    "title": "Passive Micron-Scale Time-of-Flight with Sunlight Interferometry <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Passive Micron-Scale Time-of-Flight with Sunlight Interferometry",
     "base_url": null,
     "title_page": null,
     "repo": null,

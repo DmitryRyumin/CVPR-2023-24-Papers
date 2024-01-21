@@ -100,7 +100,7 @@
     "section": "Computer Vision Theory"
   },
   {
-    "title": "SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "SplineCam: Exact Visualization and Characterization of Deep Network Geometry and Decision Boundaries",
     "base_url": null,
     "title_page": null,
     "repo": "AhmedImtiazPrio/SplineCAM",

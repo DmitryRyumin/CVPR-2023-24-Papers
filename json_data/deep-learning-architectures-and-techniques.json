@@ -175,7 +175,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization",
     "base_url": null,
     "title_page": null,
     "repo": "xxgege/GAM",
@@ -350,7 +350,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Deep Graph Reprogramming <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Deep Graph Reprogramming",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -750,7 +750,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "B-Spline Texture Coefficients Estimator for Screen Content Image Super-Resolution",
     "base_url": null,
     "title_page": null,
     "repo": "ByeongHyunPak/btc",
@@ -875,7 +875,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "On the Pitfall of Mixup for Uncertainty Calibration",
+    "title": "On the Pitfall of Mixup for Uncertainty Cali",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1225,7 +1225,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Integral Neural Networks <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
+    "title": "Integral Neural Networks",
     "base_url": null,
     "title_page": null,
     "repo": "TheStageAI/TorchIntegral",
@@ -1750,7 +1750,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Perception and Semantic Aware Regularization for Sequential Confidence Calibration",
+    "title": "Perception and Semantic Aware Regularization for Sequential Confidence Cali",
     "base_url": null,
     "title_page": null,
     "repo": "husterpzh/PSSR",
@@ -1850,7 +1850,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation",
+    "title": "Generalization Matters: Loss Minima Flattening via Parameter Hy",
     "base_url": null,
     "title_page": null,
     "repo": "tianlizhang/OKDPH",
@@ -1925,7 +1925,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data",
     "base_url": null,
     "title_page": null,
     "repo": "lyn1874/fedpvr",
@@ -2150,7 +2150,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "HNeRV: A Hybrid Neural Representation for Videos",
+    "title": "HNeRV: A Hy",
     "base_url": null,
     "title_page": null,
     "repo": "haochen-rye/HNeRV",

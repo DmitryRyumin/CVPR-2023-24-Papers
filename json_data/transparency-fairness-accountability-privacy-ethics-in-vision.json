@@ -150,7 +150,7 @@
     "section": "Transparency, Fairness, Accountability, Privacy, Ethics in Vision"
   },
   {
-    "title": "Uncurated Image-Text Datasets: Shedding Light on Demographic Bias <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Uncurated Image-Text Datasets: Shedding Light on Demographic Bias",
     "base_url": null,
     "title_page": null,
     "repo": "noagarcia/phase",
@@ -175,7 +175,7 @@
     "section": "Transparency, Fairness, Accountability, Privacy, Ethics in Vision"
   },
   {
-    "title": "AltFreezing for more General Video Face Forgery Detection <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "AltFreezing for more General Video Face Forgery Detection",
     "base_url": null,
     "title_page": null,
     "repo": "ZhendongWang6/AltFreezing",
@@ -550,7 +550,7 @@
     "section": "Transparency, Fairness, Accountability, Privacy, Ethics in Vision"
   },
   {
-    "title": "Deep Deterministic Uncertainty: A New Simple Baseline <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
+    "title": "Deep Deterministic Uncertainty: A New Simple Baseline",
     "base_url": null,
     "title_page": null,
     "repo": "omegafragger/DDU",
