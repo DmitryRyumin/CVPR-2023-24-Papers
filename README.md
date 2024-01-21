@@ -63,9 +63,9 @@
   </tr>
 </table>
 
-<!-- 1183/2353 -->
+<!-- 1235/2353 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/50?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/53?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -321,17 +321,30 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
             </td>
-            <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision, Cell Microscopy</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/39-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/35-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md">Video: Action and Event Understanding</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
