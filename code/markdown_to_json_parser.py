@@ -356,15 +356,8 @@ def extract_paper_data(paper_section, columns):
         )
     )
 
-    br_tag = title.find("br")
-
-    if br_tag != -1:
-        title = title[:br_tag]
-    else:
-        img_tag = title.find("img")
-        if img_tag != -1:
-            title = str(title.replace(str(title[img_tag:]), ""))
-    title = title.rstrip("<").strip()
+    title = re.sub(r"<(?:br\s*/?>|img[^>]*>)", "", title)
+    title = title.strip()
 
     title_link = title_column.find("a")
     title_page = title_link["href"] if title_link else None
