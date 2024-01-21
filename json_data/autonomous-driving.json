@@ -150,7 +150,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "LaserMix for Semi-Supervised LiDAR Semantic Segmentation",
+    "title": "LaserMix for Semi-Supervised LiDAR Semantic Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "ldkong1205/LaserMix",
@@ -250,7 +250,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Planning-Oriented Autonomous Driving",
+    "title": "Planning-Oriented Autonomous Driving <br/> <img alt=\"CVPR - Award\" src=\"https://img.shields.io/badge/CVPR-Award-294A7C\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "OpenDriveLab/UniAD",
@@ -400,7 +400,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving",
+    "title": "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -425,7 +425,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Coaching a Teachable Student",
+    "title": "Coaching a Teachable Student <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "h2xlab/CaT",
@@ -825,7 +825,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "UniSim: A Neural Closed-Loop Sensor Simulator",
+    "title": "UniSim: A Neural Closed-Loop Sensor Simulator <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -950,7 +950,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection",
+    "title": "X<sup>3</sup>KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1475,7 +1475,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals",
+    "title": "ProphNet: Efficient Agent-Centric Motion Forecasting with Anchor-Informed Proposals <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1525,7 +1525,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion",
+    "title": "VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "NVlabs/VoxFormer",
@@ -1550,7 +1550,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "Hidden Gems: 4D Radar Scene Flow Learning using Cross-Modal Supervision",
+    "title": "Hidden Gems: 4D Radar Scene Flow Learning using Cross-Modal Supervision <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "Toytiny/CMFlow",
@@ -1675,7 +1675,7 @@
     "section": "Autonomous Driving"
   },
   {
-    "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion",
+    "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,

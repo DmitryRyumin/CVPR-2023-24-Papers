@@ -50,7 +50,7 @@
     "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
-    "title": "EC2: Emergent Communication for Embodied Control",
+    "title": "EC<sup>2</sup>: Emergent Communication for Embodied Control",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -75,7 +75,7 @@
     "section": "Embodied Vision: Active Agents, Simulation"
   },
   {
-    "title": "GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts",
+    "title": "GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "PKU-EPIC/GAPartNet",

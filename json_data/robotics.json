@@ -75,7 +75,7 @@
     "section": "Robotics"
   },
   {
-    "title": "Learning Human-to-Robot Handovers from Point Clouds",
+    "title": "Learning Human-to-Robot Handovers from Point Clouds <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "NVlabs/handover-sim2real",
@@ -250,7 +250,7 @@
     "section": "Robotics"
   },
   {
-    "title": "Renderable Neural Radiance Map for Visual Navigation",
+    "title": "Renderable Neural Radiance Map for Visual Navigation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "rllab-snu/RNR-Map",
@@ -450,7 +450,7 @@
     "section": "Robotics"
   },
   {
-    "title": "Neural Volumetric Memory for Visual Locomotion Control",
+    "title": "Neural Volumetric Memory for Visual Locomotion Control <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,

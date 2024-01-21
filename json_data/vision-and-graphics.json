@@ -25,7 +25,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "RaBit: Parametric Modeling of 3DBiped Cartoon Characters with a Topological-Consistent Dataset",
+    "title": "<i>RaBit</i>: Pa<i>ra</i>metric Modeling of 3D <i>Bi</i>ped Car<i>t</i>oon Characters with a Topological-Consistent Dataset",
     "base_url": null,
     "title_page": null,
     "repo": "zhongjinluo/RaBit",
@@ -75,7 +75,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+    "title": "Magic3D: High-Resolution Text-to-3D Content Creation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -425,7 +425,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "Multiplicative Fourier Level of Detail",
+    "title": "Multiplicative Fourier Level of Detail <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -525,7 +525,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions",
+    "title": "3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "threedle/3DHighlighter",
@@ -725,7 +725,7 @@
     "section": "Vision and Graphics"
   },
   {
-    "title": "VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation",
+    "title": "VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "DrZiji/VecFloorSeg",

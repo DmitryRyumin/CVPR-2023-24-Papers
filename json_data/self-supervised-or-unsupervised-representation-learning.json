@@ -25,7 +25,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Masked Image Modeling with Local Multi-Scale Reconstruction",
+    "title": "Masked Image Modeling with Local Multi-Scale Reconstruction <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "Haoqing-Wang/LocalMIM",
@@ -50,7 +50,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders",
+    "title": "<i>Ada</i>MAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders",
     "base_url": null,
     "title_page": null,
     "repo": "wgcban/adamae",
@@ -300,7 +300,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale",
+    "title": "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "baaivision/EVA",
@@ -900,7 +900,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Non-Contrastive Unsupervised Learning of Physiological Signals from Video",
+    "title": "Non-Contrastive Unsupervised Learning of Physiological Signals from Video <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "CVRL/SiNC-rPPG",
@@ -1100,7 +1100,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Understanding Masked Autoencoders via Hierarchical Latent Variable Models",
+    "title": "Understanding Masked Autoencoders via Hierarchical Latent Variable Models <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "martinmamql/mae_understand",
@@ -1175,7 +1175,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Generalizable Implicit Neural Representations via Instance Pattern Composers",
+    "title": "Generalizable Implicit Neural Representations via Instance Pattern Composers <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "kakaobrain/ginr-ipc",
@@ -1700,7 +1700,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Understanding Masked Image Modeling via Learning Occlusion Invariant Feature",
+    "title": "Understanding Masked Image Modeling via Learning Occlusion Invariant Feature <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": null,
@@ -1750,7 +1750,7 @@
     "section": "Self-Supervised or Unsupervised Representation Learning"
   },
   {
-    "title": "Regularize Implicit Neural Representation by Itself",
+    "title": "Regularize Implicit Neural Representation by Itself <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "YannickStruempler/inr_based_compression",

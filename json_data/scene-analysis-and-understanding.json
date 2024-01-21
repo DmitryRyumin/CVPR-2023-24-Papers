@@ -450,7 +450,7 @@
     "section": "Scene Analysis and Understanding"
   },
   {
-    "title": "Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting",
+    "title": "Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "Elin24/OT-M",
@@ -575,7 +575,7 @@
     "section": "Scene Analysis and Understanding"
   },
   {
-    "title": "SCPNet: Semantic Scene Completion on Point Cloud",
+    "title": "SCPNet: Semantic Scene Completion on Point Cloud <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "SCPNet/Codes-for-SCPNet",
@@ -850,7 +850,7 @@
     "section": "Scene Analysis and Understanding"
   },
   {
-    "title": "Perspective Fields for Single Image Camera Calibration",
+    "title": "Perspective Fields for Single Image Camera Calibration <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "jinlinyi/PerspectiveFields",
@@ -1150,7 +1150,7 @@
     "section": "Scene Analysis and Understanding"
   },
   {
-    "title": "Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields",
+    "title": "Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields <br/> <img alt=\"CVPR - Highlight\" src=\"https://img.shields.io/badge/CVPR-Highlight-FFFF00\"/>",
     "base_url": null,
     "title_page": null,
     "repo": "brown-ivl/Cafi-Net",
