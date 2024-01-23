@@ -368,7 +368,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md">Video: Action and Event Understanding</a>
             </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/82-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/64-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/54-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/61-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
