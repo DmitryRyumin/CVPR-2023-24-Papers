@@ -378,7 +378,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/54-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/61-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/62-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
