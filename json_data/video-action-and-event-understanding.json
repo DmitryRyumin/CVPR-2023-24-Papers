@@ -575,7 +575,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "Learning Discriminative Representations for Skeleton Based Action Recognition",
+    "title": "Learning Discriminative Representations for Skeleton based Action Recognition",
     "base_url": null,
     "title_page": null,
     "repo": "zhysora/FR-Head",
@@ -600,7 +600,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "Learning Procedure-Aware Video Representation From Instructional Videos and Their Narrations",
+    "title": "Learning Procedure-Aware Video Representation from Instructional Videos and their Narrations",
     "base_url": null,
     "title_page": null,
     "repo": "facebookresearch/ProcedureVRL",
