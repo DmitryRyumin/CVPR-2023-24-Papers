@@ -50,7 +50,7 @@
     "section": "Video: Action and Event Understanding"
   },
   {
-    "title": "MoLo: Motion-augmented Long-Short Contrastive Learning for Few-Shot Action Recognition",
+    "title": "MoLo: Motion-Augmented Long-Short Contrastive Learning for Few-Shot Action Recognition",
     "base_url": null,
     "title_page": null,
     "repo": "alibaba-mmai-research/MoLo",
@@ -105,7 +105,7 @@
     "title_page": null,
     "repo": "tobyperrett/lmr",
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://tobyperrett.github.io/lmr/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
@@ -542,7 +542,7 @@
     "paper_hal_science": null,
     "paper_researchgate": null,
     "paper_amazon": null,
-    "youtube_id": null,
+    "youtube_id": "ANfWcISTPK8",
     "drive_google": null,
     "dropbox": null,
     "onedrive": null,
