@@ -23,7 +23,7 @@
     </a>
 </div>
 
-## Medical and Biological Vision, Cell Microscopy
+## Medical and Biological Vision; Cell Microscopy
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-52-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-39-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-37-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-36-FF0000)
 

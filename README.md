@@ -349,7 +349,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision, Cell Microscopy</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision; Cell Microscopy</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
