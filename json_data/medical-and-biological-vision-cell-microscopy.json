@@ -22,7 +22,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Geometric Visual Similarity Learning in 3D Medical Image Self-Supervised Pre-Training",
@@ -47,7 +47,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Flexible-C<sup>m</sup> GAN: Towards Precise 3D Dose Prediction in Radiotherapy",
@@ -72,7 +72,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation",
@@ -97,7 +97,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "<i>MagicNet</i>: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery",
@@ -122,7 +122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images",
@@ -147,7 +147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Label-Free Liver Tumor Segmentation",
@@ -172,7 +172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Devil is in the Queries: Advancing Mask Transformers for Real-World Medical Image Segmentation and Out-of-Distribution Localization",
@@ -197,7 +197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "DoNet: Deep De-Overlapping Network for Cytology Instance Segmentation",
@@ -222,7 +222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection",
@@ -247,7 +247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Learning Federated Visual Prompt in Null Space for MRI Reconstruction",
@@ -272,7 +272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Pseudo-Label Guided Contrastive Learning for Semi-Supervised Medical Image Segmentation",
@@ -297,7 +297,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Image Quality-Aware Diagnosis via Meta-Knowledge Co-Embedding",
@@ -322,7 +322,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Iterative Next Boundary Detection for Instance Segmentation of Tree Rings in Microscopy Images of Shrub Cross Sections",
@@ -347,7 +347,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Dynamic Graph Enhanced Contrastive Learning for Chest X-Ray Report Generation",
@@ -372,7 +372,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding",
@@ -397,7 +397,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Bi-Directional Feature Fusion Generative Adversarial Network for Ultra-High Resolution Pathological Image Virtual Re-Staining",
@@ -422,7 +422,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation",
@@ -447,7 +447,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Weakly Supervised Segmentation with Point Annotations for Histopathology Images via Contrast-based Variational Model",
@@ -472,7 +472,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Ambiguous Medical Image Segmentation using Diffusion Models",
@@ -497,7 +497,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction",
@@ -522,7 +522,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data",
@@ -547,7 +547,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency",
@@ -572,7 +572,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Fair Federated Medical Image Segmentation via Client Contribution Estimation",
@@ -597,7 +597,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Histopathology whole Slide Image Analysis with Heterogeneous Graph Representation Learning",
@@ -622,7 +622,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Unsupervised Contour Tracking of Live Cells by Mechanical and Cycle Consistency Losses",
@@ -647,7 +647,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Learning to Exploit the Sequence-Specific Prior Knowledge for Image Processing Pipelines Optimization",
@@ -672,7 +672,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "RepMode: Learning to Re-Parameterize Diverse Experts for Subcellular Structure Prediction",
@@ -697,7 +697,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision",
@@ -722,7 +722,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology whole Slide Image Classification",
@@ -747,7 +747,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "TINC: Tree-Structured Implicit Neural Compression",
@@ -772,7 +772,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Topology-Guided Multi-Class Cell Context Generation for Digital Pathology",
@@ -797,7 +797,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Directional Connectivity-based Segmentation of Medical Images",
@@ -822,7 +822,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "A Soma Segmentation Benchmark in Full Adult Fly Brain",
@@ -847,7 +847,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Constrained Evolutionary Diffusion Filter for Monocular Endoscope Tracking",
@@ -872,7 +872,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Benchmarking Self-Supervised Learning on Diverse Pathology Datasets",
@@ -897,7 +897,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "DualRel: Semi-Supervised Mitochondria Segmentation from a Prototype Perspective",
@@ -922,7 +922,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation",
@@ -947,7 +947,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "OCELOT: Overlapped Cell on Tissue Dataset for Histopathology",
@@ -972,7 +972,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Orthogonal Annotation Benefits Barely-Supervised Medical Image Segmentation",
@@ -997,7 +997,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "DeGPR: Deep Guided Posterior Regularization for Multi-Class Cell Detection and Counting",
@@ -1022,7 +1022,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Interactive and Explainable Region-Guided Radiology Report Generation",
@@ -1047,7 +1047,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "A Loopback Network for Explainable Microvascular Invasion Classification",
@@ -1072,7 +1072,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Interventional Bag Multi-Instance Learning on Whole-Slide Pathological Images",
@@ -1097,7 +1097,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "MAESTER: Masked Autoencoder Guided Segmentation at Pixel Resolution for Accurate, Self-Supervised Subcellular Structure Recognition",
@@ -1122,7 +1122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Neuralizer: General Neuroimage Analysis without Re-Training",
@@ -1147,7 +1147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Why is the Winner the Best?",
@@ -1172,7 +1172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Rethinking Few-Shot Medical Segmentation: A Vector Quantization View",
@@ -1197,7 +1197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "PEFAT: Boosting Semi-Supervised Medical Image Classification via Pseudo-Loss Estimation and Feature Adversarial Training",
@@ -1222,7 +1222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Indescribable Multi-Modal Spatial Evaluator",
@@ -1247,7 +1247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning",
@@ -1272,7 +1272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   },
   {
     "title": "Hierarchical Discriminative Learning Improves Visual Representations of Biomedical Microscopy",
@@ -1297,6 +1297,6 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Medical and Biological Vision, Cell Microscopy"
+    "section": "Medical and Biological Vision; Cell Microscopy"
   }
 ]
