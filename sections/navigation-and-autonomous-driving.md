@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## Autonomous Driving
+## Navigation and Autonomous Driving
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-69-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-54-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-48-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-54-FF0000)
 
