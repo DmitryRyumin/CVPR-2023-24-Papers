@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-computer-vision.md">
+  <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md">
     <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
   </a>
   <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/">

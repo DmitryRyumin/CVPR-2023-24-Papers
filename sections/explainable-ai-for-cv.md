@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## Explainable Computer Vision
+## Explainable AI for CV
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-24-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-21-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-18-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-19-FF0000)
 
