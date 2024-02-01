@@ -245,8 +245,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
-            <!--80 /246-->
-            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/33?successColor=006600" alt="" /></td>
+            <!--83 /246-->
+            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/34?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
@@ -346,8 +346,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
             </td>
-            <!--38/91-->
-            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/42?successColor=006600" alt="" /></td>
+            <!--44/91-->
+            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/48?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
