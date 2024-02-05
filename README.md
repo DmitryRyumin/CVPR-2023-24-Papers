@@ -85,13 +85,20 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Progress Status</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>
+      <!-- 1317/2353 -->
+      <div style="float:left;">
+        <img src="https://geps.dev/progress/56?successColor=006600" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-<!-- 1317/2353 -->
-<div style="float:left;">
-  <img src="https://geps.dev/progress/56?successColor=006600" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
-</div>
 
 ---
 
@@ -243,535 +250,535 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
             </td>
             <!--83 /246-->
             <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/34?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md">Image and Video Synthesis and Generation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/186-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/186-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/159-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/159-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/135-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/135-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/142-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/142-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
             <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/low-level-vision.md">Low-Level Vision</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md">Low-Level Vision</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md">Segmentation, Grouping and Shape Analysis</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/segmentation-grouping-and-shape-analysis.md">Segmentation, Grouping and Shape Analysis</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/111-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/111-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/79-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/79-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/84-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/84-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/81-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md">Deep Learning Architectures and Techniques</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/92-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/67-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/segmentation-grouping-and-shape-analysis.md"><img src="https://img.shields.io/badge/81-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multimodal-learning.md">Multimodal Learning</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md">Deep Learning Architectures and Techniques</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multimodal-learning.md"><img src="https://img.shields.io/badge/89-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/92-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multimodal-learning.md"><img src="https://img.shields.io/badge/75-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multimodal-learning.md"><img src="https://img.shields.io/badge/60-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/67-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/multimodal-learning.md"><img src="https://img.shields.io/badge/50-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/3d-from-single-images.md">3D from Single Images</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/multimodal-learning.md">Multimodal Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/multimodal-learning.md"><img src="https://img.shields.io/badge/89-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/multimodal-learning.md"><img src="https://img.shields.io/badge/75-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/multimodal-learning.md"><img src="https://img.shields.io/badge/60-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/multimodal-learning.md"><img src="https://img.shields.io/badge/50-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/3d-from-single-images.md">3D from Single Images</a>
             </td>
             <!--78/91-->
             <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/86?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision; Cell Microscopy</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/medical-and-biological-vision-cell-microscopy.md">Medical and Biological Vision; Cell Microscopy</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/52-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/39-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/39-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/37-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/37-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md">Video: Action and Event Understanding</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/82-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/64-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/54-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/63-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/medical-and-biological-vision-cell-microscopy.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md">Navigation and Autonomous Driving</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-action-and-event-understanding.md">Video: Action and Event Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/69-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/82-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/54-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/64-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/48-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/54-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/54-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md">Self-Supervised or Unsupervised Representation Learning</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/71-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/58-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/57-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/48-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-action-and-event-understanding.md"><img src="https://img.shields.io/badge/63-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md">Datasets and Evaluation</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/navigation-and-autonomous-driving.md">Navigation and Autonomous Driving</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/69-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/39-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/54-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/43-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/48-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md">Scene Analysis and Understanding</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/42-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/45-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/42-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/navigation-and-autonomous-driving.md"><img src="https://img.shields.io/badge/54-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md">Adversarial Attack and Defense</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/self-supervised-or-unsupervised-representation-learning.md">Self-Supervised or Unsupervised Representation Learning</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/61-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/71-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/47-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/58-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/44-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/57-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/40-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md">Efficient and Scalable Vision</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/48-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/32-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/31-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/self-supervised-or-unsupervised-representation-learning.md"><img src="https://img.shields.io/badge/48-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md">Computational Imaging</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/datasets-and-evaluation.md">Datasets and Evaluation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/53-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/29-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/39-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/31-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/43-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computational-imaging.md"><img src="https://img.shields.io/badge/43-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md">Video: Low-Level Analysis, Motion, and Tracking</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/46-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/33-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/35-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/datasets-and-evaluation.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md">Vision Applications and Systems</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/scene-analysis-and-understanding.md">Scene Analysis and Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/35-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/27-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/42-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/26-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/45-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/29-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md">Vision and Graphics</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/28-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/22-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/vision-and-graphics.md"><img src="https://img.shields.io/badge/27-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/scene-analysis-and-understanding.md"><img src="https://img.shields.io/badge/42-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md">Robotics</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md">Adversarial Attack and Defense</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/23-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/61-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/18-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/47-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/44-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/18-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md">Transparency, Fairness, Accountability, Privacy, Ethics in Vision</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/22-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/24-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/adversarial-attack-and-defense.md"><img src="https://img.shields.io/badge/40-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md">Explainable AI for CV</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/efficient-and-scalable-vision.md">Efficient and Scalable Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/48-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/21-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/18-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/32-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/19-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md">Embodied Vision: Active Agents, Simulation</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/efficient-and-scalable-vision.md"><img src="https://img.shields.io/badge/31-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computational-imaging.md">Computational Imaging</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computational-imaging.md"><img src="https://img.shields.io/badge/53-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computational-imaging.md"><img src="https://img.shields.io/badge/29-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computational-imaging.md"><img src="https://img.shields.io/badge/31-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md">Machine Learning (other than Deep Learning)</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computational-imaging.md"><img src="https://img.shields.io/badge/43-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md">Physics-based Vision and Shape-from-X</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-low-level-analysis-motion-and-tracking.md">Video: Low-Level Analysis, Motion, and Tracking</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/46-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/33-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/35-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md">Biometrics</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/biometrics.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/video-low-level-analysis-motion-and-tracking.md"><img src="https://img.shields.io/badge/36-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md">Optimization Methods (other than Deep Learning)</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-applications-and-systems.md">Vision Applications and Systems</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/35-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/27-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/26-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md">Photogrammetry and Remote Sensing</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-applications-and-systems.md"><img src="https://img.shields.io/badge/29-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md">Computer Vision Theory</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-and-graphics.md">Vision and Graphics</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-and-graphics.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-and-graphics.md"><img src="https://img.shields.io/badge/28-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-and-graphics.md"><img src="https://img.shields.io/badge/22-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-theory.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md">Computer Vision for Social Good</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-and-graphics.md"><img src="https://img.shields.io/badge/27-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md">Others</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/robotics.md">Robotics</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/robotics.md"><img src="https://img.shields.io/badge/23-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/robotics.md"><img src="https://img.shields.io/badge/18-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/robotics.md"><img src="https://img.shields.io/badge/13-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/others.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/robotics.md"><img src="https://img.shields.io/badge/18-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transparency-fairness-accountability-privacy-ethics-in-vision.md">Transparency, Fairness, Accountability, Privacy, Ethics in Vision</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/30-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/22-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/24-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transparency-fairness-accountability-privacy-ethics-in-vision.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/explainable-ai-for-cv.md">Explainable AI for CV</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/24-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/21-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/18-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/explainable-ai-for-cv.md"><img src="https://img.shields.io/badge/19-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/embodied-vision-active-agents-simulation.md">Embodied Vision: Active Agents, Simulation</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/embodied-vision-active-agents-simulation.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/document-analysis-and-understanding.md">Document Analysis and Understanding</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/document-analysis-and-understanding.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/machine-learning-other-than-deep-learning.md">Machine Learning (other than Deep Learning)</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/machine-learning-other-than-deep-learning.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md">Physics-based Vision and Shape-from-X</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/8-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/7-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/physics-based-vision-and-shape-from-x.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/biometrics.md">Biometrics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/biometrics.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/biometrics.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/biometrics.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/biometrics.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/optimization-methods-other-than-deep-learning.md">Optimization Methods (other than Deep Learning)</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/optimization-methods-other-than-deep-learning.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/photogrammetry-and-remote-sensing.md">Photogrammetry and Remote Sensing</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/photogrammetry-and-remote-sensing.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-theory.md">Computer Vision Theory</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-theory.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-theory.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-theory.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-theory.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-for-social-good.md">Computer Vision for Social Good</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/5-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/computer-vision-for-social-good.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/others.md">Others</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/others.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/others.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/others.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/others.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
             </td>
         </tr>
     </tbody>
