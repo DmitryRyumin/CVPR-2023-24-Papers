@@ -353,8 +353,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/3d-from-single-images.md">3D from Single Images</a>
             </td>
-            <!--78/91-->
-            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/86?successColor=006600" alt="" /></td>
+            <!--84/91-->
+            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/92?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
