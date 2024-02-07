@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1317/2353 -->
+      <!-- 1408/2353 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/56?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/60?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
