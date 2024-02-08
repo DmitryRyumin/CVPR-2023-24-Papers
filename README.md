@@ -276,7 +276,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
-            <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="4" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -297,6 +297,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md">Low-Level Vision</a>
             </td>
+            <!--6/126-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/5?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
