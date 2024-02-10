@@ -999,7 +999,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Learning To Predict Scene-Level Implicit 3D From Posed RGBD Data",
+    "title": "Learning to Predict Scene-Level Implicit 3D from Posed RGBD Data",
     "base_url": null,
     "title_page": null,
     "github": "nileshkulkarni/d2drdf",
@@ -1026,7 +1026,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "DPF: Learning Dense Prediction Fields With Weak Supervision",
+    "title": "DPF: Learning Dense Prediction Fields with Weak Supervision",
     "base_url": null,
     "title_page": null,
     "github": "cxx226/DPF",
@@ -1080,7 +1080,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "OrienterNet: Visual Localization in 2D Public Maps With Neural Matching",
+    "title": "OrienterNet: Visual Localization in 2D Public Maps with Neural Matching",
     "base_url": null,
     "title_page": null,
     "github": "facebookresearch/OrienterNet",
@@ -1188,7 +1188,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "High-Fidelity 3D Human Digitization From Single 2K Resolution Images  []",
+    "title": "High-Fidelity 3D Human Digitization from Single 2K Resolution Images  []",
     "base_url": null,
     "title_page": null,
     "github": "SangHunHan92/2K2K",
@@ -1215,7 +1215,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Learning 3D-Aware Image Synthesis With Unknown Pose Distribution",
+    "title": "Learning 3D-Aware Image Synthesis with Unknown Pose Distribution",
     "base_url": null,
     "title_page": null,
     "github": "VivianSZF/pof3d",
@@ -1242,7 +1242,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "DP-NeRF: Deblurred Neural Radiance Field With Physical Scene Priors",
+    "title": "DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors",
     "base_url": null,
     "title_page": null,
     "github": "dogyoonlee/DP-NeRF",
@@ -1296,7 +1296,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Visibility Aware Human-Object Interaction Tracking From Single RGB Camera",
+    "title": "Visibility Aware Human-Object Interaction Tracking from Single RGB Camera",
     "base_url": null,
     "title_page": null,
     "github": "xiexh20/VisTracker",
@@ -1350,7 +1350,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Curricular Object Manipulation in LiDAR-Based Object Detection",
+    "title": "Curricular Object Manipulation in LiDAR-based Object Detection",
     "base_url": null,
     "title_page": null,
     "github": "ZZY816/COM",
@@ -1404,7 +1404,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "MonoATT: Online Monocular 3D Object Detection With Adaptive Token Transformer",
+    "title": "MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer",
     "base_url": null,
     "title_page": null,
     "github": "BigTeacher-777/Awesome-Monocular-3D-detection",
@@ -1431,7 +1431,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Shape, Pose, and Appearance From a Single Image via Bootstrapped Radiance Field Inversion",
+    "title": "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion",
     "base_url": null,
     "title_page": null,
     "github": "google-research/nerf-from-image",
@@ -1485,7 +1485,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "NeRDi: Single-View NeRF Synthesis With Language-Guided Diffusion As General Image Priors",
+    "title": "NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1539,7 +1539,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Self-Positioning Point-Based Transformer for Point Cloud Understanding",
+    "title": "Self-Positioning Point-based Transformer for Point Cloud Understanding",
     "base_url": null,
     "title_page": null,
     "github": "mlvlab/SPoTr",
@@ -1593,7 +1593,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "A Probabilistic Attention Model With Occlusion-Aware Texture Regression for 3D Hand Reconstruction From a Single RGB Image",
+    "title": "A Probabilistic Attention Model with Occlusion-Aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image",
     "base_url": null,
     "title_page": null,
     "github": "ZhehengJiangLancaster/AMVUR",
@@ -1728,7 +1728,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "What You Can Reconstruct From a Shadow",
+    "title": "What You Can Reconstruct from a Shadow",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1782,7 +1782,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Diverse 3D Hand Gesture Prediction From Body Dynamics by Bilateral Hand Disentanglement",
+    "title": "Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement",
     "base_url": null,
     "title_page": null,
     "github": "XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction",
@@ -1809,7 +1809,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Trap Attention: Monocular Depth Estimation With Manual Traps",
+    "title": "Trap Attention: Monocular Depth Estimation with Manual Traps",
     "base_url": null,
     "title_page": null,
     "github": "ICSResearch/TrapAttention",
@@ -1836,7 +1836,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Crowd3D: Towards Hundreds of People Reconstruction From a Single Image",
+    "title": "Crowd3D: Towards Hundreds of People Reconstruction from a Single Image",
     "base_url": null,
     "title_page": null,
     "github": "1020244018/Crowd3D",
@@ -1863,7 +1863,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "PAniC-3D: Stylized Single-View 3D Reconstruction From Portraits of Anime Characters",
+    "title": "PAniC-3D: Stylized Single-View 3D Reconstruction from Portraits of Anime Characters",
     "base_url": null,
     "title_page": null,
     "github": "ShuhongChen/panic3d-anime-reconstruction",
@@ -1917,7 +1917,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction From In-the-Wild Images",
+    "title": "A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-the-Wild Images",
     "base_url": null,
     "title_page": null,
     "github": "youngLBW/HRN",
@@ -1971,7 +1971,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "SfM-TTR: Using Structure From Motion for Test-Time Refinement of Single-View Depth Networks",
+    "title": "SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks",
     "base_url": null,
     "title_page": null,
     "github": "serizba/SfM-TTR",
@@ -2160,7 +2160,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "CP<sup>3</sup>: Channel Pruning Plug-In for Point-Based Networks",
+    "title": "CP<sup>3</sup>: Channel Pruning Plug-In for Point-based Networks",
     "base_url": null,
     "title_page": null,
     "github": "midea-ai/CP3",
@@ -2241,7 +2241,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Cross-Domain 3D Hand Pose Estimation With Dual Modalities",
+    "title": "Cross-Domain 3D Hand Pose Estimation with Dual Modalities",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2349,7 +2349,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "BAAM: Monocular 3D Pose and Shape Reconstruction With Bi-Contextual Attention Module and Attention-Guided Modeling",
+    "title": "BAAM: Monocular 3D Pose and Shape Reconstruction with Bi-Contextual Attention Module and Attention-Guided Modeling",
     "base_url": null,
     "title_page": null,
     "github": "gywns6287/BAAM",
@@ -2376,7 +2376,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Single View Scene Scale Estimation Using Scale Field",
+    "title": "Single View Scene Scale Estimation using Scale Field",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2403,7 +2403,7 @@
     "section": "3D from Single Images"
   },
   {
-    "title": "Learning Articulated Shape With Keypoint Pseudo-Labels From Web Images",
+    "title": "Learning Articulated Shape with Keypoint Pseudo-Labels from Web Images",
     "base_url": null,
     "title_page": null,
     "github": "statho/animals3d",
