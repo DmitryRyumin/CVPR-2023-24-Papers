@@ -1,6 +1,6 @@
 [
   {
-    "title": "Pix2map: Cross-Modal Retrieval for Inferring Street Maps From Images",
+    "title": "Pix2map: Cross-Modal Retrieval for Inferring Street Maps from Images",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -27,7 +27,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Audio-Visual Grouping Network for Sound Localization From Mixtures",
+    "title": "Audio-Visual Grouping Network for Sound Localization from Mixtures",
     "base_url": null,
     "title_page": null,
     "github": "stoneMo/AVGN",
@@ -81,7 +81,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Identity-Preserving Talking Face Generation With Landmark and Appearance Priors",
+    "title": "Identity-Preserving Talking Face Generation with Landmark and Appearance Priors",
     "base_url": null,
     "title_page": null,
     "github": "Weizhi-Zhong/IP_LAP",
@@ -108,7 +108,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "ImageBind: One Embedding Space To Bind Them All",
+    "title": "ImageBind: One Embedding Space to Bind them All",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -135,7 +135,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Learning To Dub Movies via Hierarchical Prosody Models",
+    "title": "Learning to Dub Movies via Hierarchical Prosody Models",
     "base_url": null,
     "title_page": null,
     "github": "GalaxyCong/HPMDubbing",
@@ -270,7 +270,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Unite and Conquer: Plug & Play Multi-Modal Synthesis Using Diffusion Models",
+    "title": "Unite and Conquer: Plug and Play Multi-Modal Synthesis using Diffusion Models",
     "base_url": null,
     "title_page": null,
     "github": "Nithin-GK/UniteandConquer",
@@ -378,7 +378,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Prompt, Generate, Then Cache: Cascade of Foundation Models Makes Strong Few-Shot Learners",
+    "title": "Prompt, Generate, then Cache: Cascade of Foundation Models Makes Strong Few-Shot Learners",
     "base_url": null,
     "title_page": null,
     "github": "ZrrSkywalker/CaFo",
@@ -432,7 +432,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-View Clustering",
+    "title": "Highly Confident Local Structure based Consensus Graph Learning for Incomplete Multi-View Clustering",
     "base_url": null,
     "title_page": null,
     "github": "ckghostwj/cvpr2023_code",
@@ -459,7 +459,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Vision Transformers Are Parameter-Efficient Audio-Visual Learners",
+    "title": "Vision Transformers are Parameter-Efficient Audio-Visual Learners",
     "base_url": null,
     "title_page": null,
     "github": "GenjiB/LAVISH",
@@ -486,7 +486,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Teaching Structured Vision & Language Concepts to Vision & Language Models",
+    "title": "Teaching Structured Vision and Language Concepts to Vision and Language Models",
     "base_url": null,
     "title_page": null,
     "github": "SivanDoveh/TSVLC",
@@ -513,7 +513,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Data-Free Sketch-Based Image Retrieval",
+    "title": "Data-Free Sketch-based Image Retrieval",
     "base_url": null,
     "title_page": null,
     "github": "abhrac/data-free-sbir",
@@ -540,7 +540,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Align and Attend: Multimodal Summarization With Dual Contrastive Losses",
+    "title": "Align and Attend: Multimodal Summarization with Dual Contrastive Losses",
     "base_url": null,
     "title_page": null,
     "github": "boheumd/A2Summ",
@@ -594,7 +594,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Multimodal Prompting With Missing Modalities for Visual Recognition",
+    "title": "Multimodal Prompting with Missing Modalities for Visual Recognition",
     "base_url": null,
     "title_page": null,
     "github": "YiLunLee/missing_aware_prompts",
@@ -648,7 +648,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "What Happened 3 Seconds Ago? Inferring the Past With Thermal Imaging",
+    "title": "What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging",
     "base_url": null,
     "title_page": null,
     "github": "ZitianTang/Thermal-IM",
@@ -702,7 +702,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Multi-Modal Learning With Missing Modality via Shared-Specific Feature Modelling",
+    "title": "Multi-Modal Learning with Missing Modality via Shared-Specific Feature Modelling",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -729,7 +729,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "The ObjectFolder Benchmark: Multisensory Learning With Neural and Real Objects",
+    "title": "The ObjectFolder Benchmark: Multisensory Learning with Neural and Real Objects",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -783,7 +783,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Conditional Generation of Audio From Video via Foley Analogies",
+    "title": "Conditional Generation of Audio from Video via Foley Analogies",
     "base_url": null,
     "title_page": null,
     "github": "XYPB/CondFoleyGen",
@@ -810,7 +810,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "OSAN: A One-Stage Alignment Network To Unify Multimodal Alignment and Unsupervised Domain Adaptation",
+    "title": "OSAN: A One-Stage Alignment Network to Unify Multimodal Alignment and Unsupervised Domain Adaptation",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -891,7 +891,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "AVFormer: Injecting Vision Into Frozen Speech Models for Zero-Shot AV-ASR",
+    "title": "AVFormer: Injecting Vision into Frozen Speech Models for Zero-Shot AV-ASR",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -918,7 +918,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Watch or Listen: Robust Audio-Visual Speech Recognition With Visual Corruption Modeling and Reliability Scoring",
+    "title": "Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring",
     "base_url": null,
     "title_page": null,
     "github": "joannahong/AV-RelScore",
@@ -945,7 +945,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "SceneTrilogy: On Human Scene-Sketch and Its Complementarity With Photo and Text",
+    "title": "SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -999,7 +999,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "EXIF As Language: Learning Cross-Modal Associations Between Images and Camera Metadata",
+    "title": "EXIF as Language: Learning Cross-Modal Associations between Images and Camera Metadata",
     "base_url": null,
     "title_page": null,
     "github": "hellomuffin/exif-as-language",
@@ -1053,7 +1053,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "RONO: Robust Discriminative Learning With Noisy Labels for 2D-3D Cross-Modal Retrieval",
+    "title": "RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval",
     "base_url": null,
     "title_page": null,
     "github": "penghu-cs/RONO",
@@ -1080,7 +1080,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "CASP-Net: Rethinking Video Saliency Prediction From an Audio-Visual Consistency Perceptual Perspective",
+    "title": "CASP-Net: Rethinking Video Saliency Prediction from an Audio-Visual Consistency Perceptual Perspective",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1134,7 +1134,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "ReVISE: Self-Supervised Speech Resynthesis With Visual Input for Universal and Generalized Speech Regeneration",
+    "title": "ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Regeneration",
     "base_url": null,
     "title_page": null,
     "github": "facebookresearch/av_hubert",
@@ -1188,7 +1188,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Learning Emotion Representations From Verbal and Nonverbal Communication",
+    "title": "Learning Emotion Representations from Verbal and Nonverbal Communication",
     "base_url": null,
     "title_page": null,
     "github": "Xeaver/EmotionCLIP",
@@ -1215,7 +1215,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Enhanced Multimodal Representation Learning With Cross-Modal KD",
+    "title": "Enhanced Multimodal Representation Learning with Cross-Modal KD",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1242,7 +1242,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "MELTR: Meta Loss Transformer for Learning To Fine-Tune Video Foundation Models",
+    "title": "MELTR: Meta Loss Transformer for Learning to Fine-Tune Video Foundation Models",
     "base_url": null,
     "title_page": null,
     "github": "mlvlab/MELTR",
@@ -1296,7 +1296,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "GeoVLN: Learning Geometry-Enhanced Visual Representation With Slot Attention for Vision-and-Language Navigation",
+    "title": "GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation",
     "base_url": null,
     "title_page": null,
     "github": "jingyanghuo/GeoVLN",
@@ -1323,7 +1323,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Noisy Correspondence Learning With Meta Similarity Correction",
+    "title": "Noisy Correspondence Learning with Meta Similarity Correction",
     "base_url": null,
     "title_page": null,
     "github": "hhc1997/MSCN",
@@ -1350,7 +1350,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Improving Cross-Modal Retrieval With Set of Diverse Embeddings",
+    "title": "Improving Cross-Modal Retrieval with Set of Diverse Embeddings",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1458,7 +1458,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Towards Modality-Agnostic Person Re-Identification With Descriptive Query",
+    "title": "Towards Modality-Agnostic Person Re-Identification with Descriptive Query",
     "base_url": null,
     "title_page": null,
     "github": "ccq195/UNIReID",
@@ -1485,7 +1485,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Physics-Driven Diffusion Models for Impact Sound Synthesis From Videos",
+    "title": "Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos",
     "base_url": null,
     "title_page": null,
     "github": "sukun1045/video-physics-sound-diffusion",
@@ -1809,7 +1809,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Seeing What You Miss: Vision-Language Pre-Training With Semantic Completion Learning",
+    "title": "Seeing what You Miss: Vision-Language Pre-Training with Semantic Completion Learning",
     "base_url": null,
     "title_page": null,
     "github": "iigroup/scl",
@@ -1863,7 +1863,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "SmallCap: Lightweight Image Captioning Prompted With Retrieval Augmentation",
+    "title": "SmallCap: Lightweight Image Captioning Prompted with Retrieval Augmentation",
     "base_url": null,
     "title_page": null,
     "github": "RitaRamo/smallcap",
@@ -1917,7 +1917,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model",
+    "title": "SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2133,7 +2133,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning",
+    "title": "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2160,7 +2160,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "PRISE: Demystifying Deep Lucas-Kanade With Strongly Star-Convex Constraints for Multimodel Image Alignment",
+    "title": "PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment",
     "base_url": null,
     "title_page": null,
     "github": "Zhang-VISLab/CVPR2023-PRISE",
@@ -2187,7 +2187,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Masked Autoencoding Does Not Help Natural Language Supervision at Scale",
+    "title": "Masked Autoencoding does not Help Natural Language Supervision at Scale",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2214,7 +2214,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "CLIPPO: Image-and-Language Understanding From Pixels Only",
+    "title": "CLIPPO: Image-and-Language Understanding from Pixels Only",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2241,7 +2241,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "Chat2Map: Efficient Scene Mapping From Multi-Ego Conversations",
+    "title": "Chat2Map: Efficient Scene Mapping from Multi-Ego Conversations",
     "base_url": null,
     "title_page": null,
     "github": "facebookresearch/chat2map-official",
@@ -2295,7 +2295,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "CLIPPING: Distilling CLIP-Based Models With a Student Base for Video-Language Retrieval",
+    "title": "CLIPPING: Distilling CLIP-based Models with a Student Base for Video-Language Retrieval",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2322,7 +2322,7 @@
     "section": "Multimodal Learning"
   },
   {
-    "title": "NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN",
+    "title": "NUWA-LIP: Language-Guided Image Inpainting with Defect-Free VQGAN",
     "base_url": null,
     "title_page": null,
     "github": "kodenii/NUWA-LIP",
