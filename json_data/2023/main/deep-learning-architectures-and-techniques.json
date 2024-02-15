@@ -405,7 +405,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "ConvNeXt V2: Co-Designing and Scaling ConvNets With Masked Autoencoders",
+    "title": "ConvNeXt V2: Co-Designing and Scaling ConvNets with Masked Autoencoders",
     "base_url": null,
     "title_page": null,
     "github": "facebookresearch/ConvNeXt-V2",
@@ -432,7 +432,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning",
+    "title": "Frustratingly Easy Regularization on Representation can Boost Deep Reinforcement Learning",
     "base_url": null,
     "title_page": null,
     "github": "sweetice/PEER-CVPR23",
@@ -567,7 +567,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "AutoFocusFormer: Image Segmentation off the Grid",
+    "title": "AutoFocusFormer: Image Segmentation Off the Grid",
     "base_url": null,
     "title_page": null,
     "github": "apple/ml-autofocusformer",
@@ -675,7 +675,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Decompose, Adjust, Compose: Effective Normalization by Playing With Frequency for Domain Generalization",
+    "title": "Decompose, Adjust, Compose: Effective Normalization by Playing with Frequency for Domain Generalization",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -891,7 +891,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "From Node Interaction To Hop Interaction: New Effective and Scalable Graph Learning Paradigm",
+    "title": "From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm",
     "base_url": null,
     "title_page": null,
     "github": "JC-202/HopGNN",
@@ -918,7 +918,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Slide-Transformer: Hierarchical Vision Transformer With Local Self-Attention",
+    "title": "Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention",
     "base_url": null,
     "title_page": null,
     "github": "LeapLabTHU/Slide-Transformer",
@@ -999,7 +999,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners",
+    "title": "Mod-Squad: Designing Mixtures of Experts as Modular Multi-Task Learners",
     "base_url": null,
     "title_page": null,
     "github": "UMass-Foundation-Model/Mod-Squad",
@@ -1080,7 +1080,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "BiFormer: Vision Transformer With Bi-Level Routing Attention",
+    "title": "BiFormer: Vision Transformer with Bi-Level Routing Attention",
     "base_url": null,
     "title_page": null,
     "github": "rayleizhu/BiFormer",
@@ -1161,7 +1161,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Block Selection Method for Using Feature Norm in Out-of-Distribution Detection",
+    "title": "Block Selection Method for using Feature Norm in Out-of-Distribution Detection",
     "base_url": null,
     "title_page": null,
     "github": "gist-ailab/block-selection-for-OOD-detection",
@@ -1296,7 +1296,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Making Vision Transformers Efficient From a Token Sparsification View",
+    "title": "Making Vision Transformers Efficient from a Token Sparsification View",
     "base_url": null,
     "title_page": null,
     "github": "changsn/STViT-R",
@@ -1485,7 +1485,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "How To Prevent the Continuous Damage of Noises To Model Training?",
+    "title": "How to Prevent the Continuous Damage of Noises to Model Training?",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1539,7 +1539,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Differentiable Architecture Search With Random Features",
+    "title": "Differentiable Architecture Search with Random Features",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1728,7 +1728,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "SLACK: Stable Learning of Augmentations With Cold-Start and KL Regularization",
+    "title": "SLACK: Stable Learning of Augmentations with Cold-Start and KL Regularization",
     "base_url": null,
     "title_page": null,
     "github": "naver/slack",
@@ -1809,7 +1809,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Detection of Out-of-Distribution Samples Using Binary Neuron Activation Patterns",
+    "title": "Detection of Out-of-Distribution Samples using Binary Neuron Activation Patterns",
     "base_url": null,
     "title_page": null,
     "github": "safednn-group/nap-ood",
@@ -1836,7 +1836,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing With Non-Learnable Primitives",
+    "title": "Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing with Non-Learnable Primitives",
     "base_url": null,
     "title_page": null,
     "github": "zhichao-lu/etr-nlp-mtl",
@@ -1863,7 +1863,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Superclass Learning With Representation Enhancement",
+    "title": "Superclass Learning with Representation Enhancement",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -1944,7 +1944,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Improving Robustness of Vision Transformers by Reducing Sensitivity To Patch Corruptions",
+    "title": "Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions",
     "base_url": null,
     "title_page": null,
     "github": "guoyongcs/RSPC",
@@ -2079,7 +2079,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning With Heterogeneous Data",
+    "title": "On the Effectiveness of Partial Variance Reduction in Federated Learning with Heterogeneous Data",
     "base_url": null,
     "title_page": null,
     "github": "lyn1874/fedpvr",
@@ -2241,7 +2241,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection",
+    "title": "GEN: Pushing the Limits of Softmax-based Out-of-Distribution Detection",
     "base_url": null,
     "title_page": null,
     "github": "XixiLiu95/GEN",
@@ -2268,7 +2268,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Zero-Shot Noise2Noise: Efficient Image Denoising Without Any Data",
+    "title": "Zero-Shot Noise2Noise: Efficient Image Denoising without Any Data",
     "base_url": null,
     "title_page": null,
     "github": null,
@@ -2376,7 +2376,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Bayesian Posterior Approximation With Stochastic Ensembles",
+    "title": "Bayesian Posterior Approximation with Stochastic Ensembles",
     "base_url": null,
     "title_page": null,
     "github": "oleksandr-balabanov/stochastic-ensembles",
@@ -2457,7 +2457,7 @@
     "section": "Deep Learning Architectures and Techniques"
   },
   {
-    "title": "Federated Learning With Data-Agnostic Distribution Fusion",
+    "title": "Federated Learning with Data-Agnostic Distribution Fusion",
     "base_url": null,
     "title_page": null,
     "github": "LiruichenSpace/FedFusion",
