@@ -297,8 +297,8 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md">Low-Level Vision</a>
             </td>
-            <!--93/126-->
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/74?successColor=006600" alt="" /></td>
+            <!--99/126-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/79?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
