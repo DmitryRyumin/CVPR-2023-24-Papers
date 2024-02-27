@@ -1,4 +1,4 @@
-# CVPR-2023-Papers
+# ![CVPR-2023-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=CVPR-2023-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
 
 <table>
   <tr>
@@ -112,7 +112,8 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ---
 
-Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/CVPR2023?day=all) with a comprehensive collection of accepted papers. Access additional resources such as PDFs, Supplementary Material, arXiv links and BibTeX citations for in-depth exploration of the research presented.
+> [!TIP]
+> Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/CVPR2023?day=all) with a comprehensive collection of accepted papers. Access additional resources such as PDFs, Supplementary Material, arXiv links and BibTeX citations for in-depth exploration of the research presented.
 
 ---
 
@@ -131,7 +132,8 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -227,7 +229,8 @@ Explore the [*CVPR 2023 online conference list*](https://openaccess.thecvf.com/C
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/CVPR-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/CVPR-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/CVPR-2023-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/CVPR-2023-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
