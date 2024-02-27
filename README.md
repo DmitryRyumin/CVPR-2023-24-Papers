@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1408/2353 -->
+      <!-- 1534/2353 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/60?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/65?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -292,13 +292,25 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
             </td>
+             <!--X/XXX-->
+             <!--<td colspan="4" align="center"><img src="https://geps.dev/progress/0?successColor=006600" alt="" /></td>-->
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md">Low-Level Vision</a>
             </td>
-            <!--118/126-->
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/94?successColor=006600" alt="" /></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md"><img src="https://img.shields.io/badge/126-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md"><img src="https://img.shields.io/badge/84-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md"><img src="https://img.shields.io/badge/104-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/low-level-vision.md"><img src="https://img.shields.io/badge/97-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
