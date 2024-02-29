@@ -295,8 +295,8 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
             </td>
-             <!--20/118-->
-             <td colspan="4" align="center"><img src="https://geps.dev/progress/17?successColor=006600" alt="" /></td>
+             <!--28/118-->
+             <td colspan="4" align="center"><img src="https://geps.dev/progress/24?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
