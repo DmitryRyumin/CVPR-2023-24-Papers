@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1534/2353 -->
+      <!-- 1652/2353 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/65?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/70?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -290,13 +290,25 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
             </td>
+            <!--0/139-->
+            <!--<td colspan="4" align="center"><img src="https://geps.dev/progress/92?successColor=006600" alt="" /></td> -->
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md">Vision, Language, and Reasoning</a>
             </td>
-             <!--109/118-->
-             <td colspan="4" align="center"><img src="https://geps.dev/progress/92?successColor=006600" alt="" /></td>
+              <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md"><img src="https://img.shields.io/badge/118-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md"><img src="https://img.shields.io/badge/94-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md"><img src="https://img.shields.io/badge/85-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/vision-language-and-reasoning.md"><img src="https://img.shields.io/badge/90-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
