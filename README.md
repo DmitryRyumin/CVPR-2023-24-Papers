@@ -279,7 +279,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
-            <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -290,8 +290,8 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
             </td>
-            <!--0/139-->
-            <!--<td colspan="4" align="center"><img src="https://geps.dev/progress/92?successColor=006600" alt="" /></td> -->
+            <!--11/139-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/8?successColor=006600" alt="" /></td> 
         </tr>
         <tr>
             <td>
