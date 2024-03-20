@@ -290,8 +290,8 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
             </td>
-            <!--70/139-->
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/50?successColor=006600" alt="" /></td> 
+            <!--80/139-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/58?successColor=006600" alt="" /></td> 
         </tr>
         <tr>
             <td>
