@@ -172,8 +172,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
@@ -291,7 +290,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/recognition-categorization-detection-retrieval.md">Recognition: Categorization, Detection, Retrieval</a>
             </td>
             <!--80/139-->
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/58?successColor=006600" alt="" /></td> 
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/58?successColor=006600" alt="" /></td>
         </tr>
         <tr>
             <td>
