@@ -278,14 +278,14 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
             </td>
-            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
             </td>
-            <!--0/0-->
-            <!-- <td colspan="4" align="center"><img src="https://geps.dev/progress/94?successColor=006600" alt="" /></td> -->
+            <!--10/153-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/6?successColor=006600" alt="" /></td> 
         </tr>
         <tr>
             <td>
