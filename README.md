@@ -284,8 +284,8 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/transfer-meta-low-shot-continual-or-long-tail-learning.md">Transfer, Meta, Low-Shot, Continual, or Long-Tail Learning</a>
             </td>
-            <!--50/153-->
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/33?successColor=006600" alt="" /></td> 
+            <!--60/153-->
+            <td colspan="4" align="center"><img src="https://geps.dev/progress/39?successColor=006600" alt="" /></td> 
         </tr>
         <tr>
             <td>
