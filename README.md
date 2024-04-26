@@ -91,9 +91,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 1944/2353 -->
+      <!-- 2110/2353 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/83?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/90?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -277,9 +277,19 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
+            </td> 
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md"><img src="https://img.shields.io/badge/166-42BA16" alt="Papers"></a>
             </td>
-            <!--156/166--> 
-            <td colspan="4" align="center"><img src="https://geps.dev/progress/94?successColor=006600" alt="" /></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md"><img src="https://img.shields.io/badge/123-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md"><img src="https://img.shields.io/badge/114-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md"><img src="https://img.shields.io/badge/139-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
