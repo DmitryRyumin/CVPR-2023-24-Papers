@@ -93,9 +93,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 2110/2353 -->
+      <!-- 2353/2353 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/90?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -258,9 +258,19 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
+            </td> 
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/246-42BA16" alt="Papers"></a>
             </td>
-            <!--176 /246-->
-            <td colspan="4" rowspan="1" align="center"><img src="https://geps.dev/progress/72?successColor=006600" alt="" /></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/199-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/186-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/198-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
