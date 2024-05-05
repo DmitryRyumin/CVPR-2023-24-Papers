@@ -1,4 +1,4 @@
-# CVPR-2023-24-Papers
+# CVPR-2023-Papers
 
 <table>
     <tr>
@@ -6,6 +6,14 @@
         <td>
             <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
                 <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>New collections</strong></td>
+        <td>
+            <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/README.md">
+                <img src="http://img.shields.io/badge/CVPR-2024-0073AE.svg" alt="Conference">
             </a>
         </td>
     </tr>
