@@ -23,7 +23,7 @@
     <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/">
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/README_2023.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">
