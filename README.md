@@ -261,9 +261,9 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md">1-300 papers</a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md">1-300 papers</a>
             </td>
-            <td colspan="4" rowspan="5" align="center"><i>Will soon be sorted</i></td>
+            <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
         </tr>
     </tbody>
 </table>
