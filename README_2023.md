@@ -58,7 +58,7 @@
       <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/stargazers">
         <img src="https://img.shields.io/github/stars/dmitryryumin/CVPR-2023-24-Papers?style=flat" alt="GitHub Repo stars">
       </a>
-      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-24-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FCVPR-2023-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
   <tr>
