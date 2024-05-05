@@ -231,3 +231,55 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
 > Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/CVPR-2023-24-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/CVPR-2023-24-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
+
+## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+<a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/README_2023.md">
+  <img src="http://img.shields.io/badge/CVPR-2023-0073AE.svg" alt="Conference">
+</a>
+
+> [!important]
+> Papers will be sorted by category as soon as the [*proceedings*](https://openaccess.thecvf.com/menu) are available.
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/AAAI-2024-Papers/blob/main/sections/2024/main/1_200.md">1-300 papers</a>
+            </td>
+            <td colspan="4" rowspan="5" align="center"><i>Will soon be sorted</i></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## Key Terms
+
+> Will soon be added
+
+---
+
+## Star History
+
+<p align="center">
+    <a href="https://star-history.com/#Dmitryryumin/CVPR-2023-24-Papers&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/CVPR-2023-24-Papers&type=Date" alt="Star History Chart">
+    </a>
+<p>
