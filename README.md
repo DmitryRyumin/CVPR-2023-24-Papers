@@ -149,8 +149,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
@@ -277,7 +276,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md">Humans: Face, Body, Pose, Gesture, Movement</a>
-            </td> 
+            </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-Papers/blob/main/sections/2023/main/humans-face-body-pose-gesture-movement.md"><img src="https://img.shields.io/badge/166-42BA16" alt="Papers"></a>
             </td>
