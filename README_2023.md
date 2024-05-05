@@ -240,6 +240,10 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
+<a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers">
+  <img src="http://img.shields.io/badge/CVPR-2024-0073AE.svg" alt="Conference">
+</a>
+
 <table>
     <thead>
         <tr>
