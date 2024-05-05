@@ -20,12 +20,12 @@
 </table>
 
 <div align="center">
- <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/">
- <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
- </a>
- <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md">
- <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
- </a>
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/README_2023.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
+    </a>
+    <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/image-and-video-synthesis-and-generation.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
+    </a>
 </div>
 
 ## 3D from Multi-View and Sensors
