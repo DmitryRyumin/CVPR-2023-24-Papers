@@ -266,16 +266,16 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md">1-300 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/1_300.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/1_300.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/1_300.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/1_300.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
