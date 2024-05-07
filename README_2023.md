@@ -399,13 +399,13 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/91-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/71-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/70-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/72-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/69-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/deep-learning-architectures-and-techniques.md"><img src="https://img.shields.io/badge/68-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
