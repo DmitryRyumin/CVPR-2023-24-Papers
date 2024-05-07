@@ -258,7 +258,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md">3D from Multi-View and Sensors</a>
-            </td> 
+            </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2023/main/3d-from-multi-view-and-sensors.md"><img src="https://img.shields.io/badge/246-42BA16" alt="Papers"></a>
             </td>
