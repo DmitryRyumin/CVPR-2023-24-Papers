@@ -240,10 +240,6 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
-<a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/README_2023.md">
-  <img src="http://img.shields.io/badge/CVPR-2023-0073AE.svg" alt="Conference">
-</a>
-
 > [!important]
 > Papers will be sorted by category as soon as the [*proceedings*](https://openaccess.thecvf.com/menu) are available.
 
@@ -333,10 +329,6 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
-</a>
-
-<a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers">
-  <img src="http://img.shields.io/badge/CVPR-2024-0073AE.svg" alt="Conference">
 </a>
 
 <table>
