@@ -28,7 +28,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Vision Transformers Are Good Mask Auto-Labelers",
+    "title": "Vision Transformers are Good Mask Auto-Labelers",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -84,7 +84,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Ultra-High Resolution Segmentation With Ultra-Rich Context: A Novel Benchmark",
+    "title": "Ultra-High Resolution Segmentation with Ultra-Rich Context: A Novel Benchmark",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -112,7 +112,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "AttentionShift: Iteratively Estimated Part-Based Attention Map for Pointly Supervised Instance Segmentation",
+    "title": "AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -140,7 +140,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "MDQE: Mining Discriminative Query Embeddings To Segment Occluded Instances on Challenging Videos",
+    "title": "MDQE: Mining Discriminative Query Embeddings to Segment Occluded Instances on Challenging Videos",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -172,7 +172,7 @@
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
-    "github": "suhwan-cho/awesome-video-object-segmentation",
+    "github": null,
     "web_page": null,
     "github_page": null,
     "colab": null,
@@ -224,12 +224,12 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "EFEM: Equivariant Neural Field Expectation Maximization for 3D Object Segmentation Without Scene Supervision",
+    "title": "EFEM: Equivariant Neural Field Expectation Maximization for 3D Object Segmentation without Scene Supervision",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
     "github": "JiahuiLei/EFEM",
-    "web_page": null,
+    "web_page": "https://www.cis.upenn.edu/~leijh/projects/efem/",
     "github_page": null,
     "colab": null,
     "modelscope": null,
@@ -252,7 +252,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Camouflaged Object Detection With Feature Decomposition and Edge Reconstruction",
+    "title": "Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -308,7 +308,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "OneFormer: One Transformer To Rule Universal Image Segmentation",
+    "title": "OneFormer: One Transformer to Rule Universal Image Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -364,7 +364,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Less Is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation",
+    "title": "Less is more: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -420,7 +420,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "The Devil Is in the Points: Weakly Semi-Supervised Instance Segmentation via Point-Guided Mask Representation",
+    "title": "The Devil is in the Points: Weakly Semi-Supervised Instance Segmentation via Point-Guided Mask Representation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -476,7 +476,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Interactive Segmentation As Gaussion Process Classification",
+    "title": "Interactive Segmentation as Gaussion Process Classification",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -532,7 +532,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Adversarially Masking Synthetic To Mimic Real: Adaptive Noise Injection for Point Cloud Segmentation Adaptation",
+    "title": "Adversarially Masking Synthetic to Mimic Real: Adaptive Noise Injection for Point Cloud Segmentation Adaptation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -784,7 +784,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "G-MSM: Unsupervised Multi-Shape Matching With Graph-Based Affinity Priors",
+    "title": "G-MSM: Unsupervised Multi-Shape Matching with Graph-based Affinity Priors",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -812,7 +812,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Continual Semantic Segmentation With Automatic Memory Sample Selection",
+    "title": "Continual Semantic Segmentation with Automatic Memory Sample Selection",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -868,7 +868,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Object Discovery From Motion-Guided Tokens",
+    "title": "Object Discovery from Motion-Guided Tokens",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -896,7 +896,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Efficient Mask Correction for Click-Based Interactive Image Segmentation",
+    "title": "Efficient Mask Correction for Click-based Interactive Image Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -980,7 +980,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Learning Open-Vocabulary Semantic Segmentation Models From Natural Language Supervision",
+    "title": "Learning Open-Vocabulary Semantic Segmentation Models from Natural Language Supervision",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1036,7 +1036,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "BUOL: A Bottom-Up Framework With Occupancy-Aware Lifting for Panoptic 3D Scene Reconstruction From a Single Image",
+    "title": "BUOL: A Bottom-Up Framework with Occupancy-Aware Lifting for Panoptic 3D Scene Reconstruction from a Single Image",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1204,7 +1204,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Understanding Imbalanced Semantic Segmentation Through Neural Collapse",
+    "title": "Understanding Imbalanced Semantic Segmentation through Neural Collapse",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1288,7 +1288,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "PartDistillation: Learning Parts From Instance Segmentation",
+    "title": "PartDistillation: Learning Parts from Instance Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1316,7 +1316,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Sketch2Saliency: Learning To Detect Salient Objects From Human Drawings",
+    "title": "Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1344,7 +1344,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "FastInst: A Simple Query-Based Model for Real-Time Instance Segmentation",
+    "title": "FastInst: A Simple Query-based Model for Real-Time Instance Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1512,7 +1512,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "SimpSON: Simplifying Photo Cleanup With Single-Click Distracting Object Segmentation Network",
+    "title": "SimpSON: Simplifying Photo Cleanup with Single-Click Distracting Object Segmentation Network",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1596,7 +1596,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Ultrahigh Resolution Image/Video Matting With Spatio-Temporal Sparsity",
+    "title": "Ultrahigh Resolution Image/Video Matting with Spatio-Temporal Sparsity",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1764,7 +1764,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Marching-Primitives: Shape Abstraction From Signed Distance Function",
+    "title": "Marching-Primitives: Shape Abstraction from Signed Distance Function",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -1820,7 +1820,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "CLIP Is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation",
+    "title": "CLIP is also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2044,7 +2044,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "End-to-End Video Matting With Trimap Propagation",
+    "title": "End-to-End Video Matting with Trimap Propagation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2072,7 +2072,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "ISBNet: A 3D Point Cloud Instance Segmentation Network With Instance-Aware Sampling and Box-Aware Dynamic Convolution",
+    "title": "ISBNet: A 3D Point Cloud Instance Segmentation Network with Instance-Aware Sampling and Box-Aware Dynamic Convolution",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2184,7 +2184,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class",
+    "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2296,7 +2296,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Sparsely Annotated Semantic Segmentation With Adaptive Gaussian Mixtures",
+    "title": "Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2352,7 +2352,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Visual Dependency Transformers: Dependency Tree Emerges From Reversed Attention",
+    "title": "Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2380,7 +2380,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation",
+    "title": "Conflict-based Cross-View Consistency for Semi-Supervised Semantic Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2436,7 +2436,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Attention-Based Point Cloud Edge Sampling",
+    "title": "Attention-based Point Cloud Edge Sampling",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2464,7 +2464,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "DA Wand: Distortion-Aware Selection Using Neural Mesh Parameterization",
+    "title": "DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2492,7 +2492,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Extracting Class Activation Maps From Non-Discriminative Features As Well",
+    "title": "Extracting Class Activation Maps from Non-Discriminative Features as Well",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2548,7 +2548,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Boosting Low-Data Instance Segmentation by Unsupervised Pre-Training With Saliency Prompt",
+    "title": "Boosting Low-Data Instance Segmentation by Unsupervised Pre-Training with Saliency Prompt",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2716,7 +2716,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Test Time Adaptation With Regularized Loss for Weakly Supervised Salient Object Detection",
+    "title": "Test Time Adaptation with Regularized Loss for Weakly Supervised Salient Object Detection",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2744,7 +2744,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Feature Shrinkage Pyramid for Camouflaged Object Detection With Transformers",
+    "title": "Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2772,7 +2772,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Reliability in Semantic Segmentation: Are We on the Right Track?",
+    "title": "Reliability in Semantic Segmentation: Are we on the Right Track?",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2828,7 +2828,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Heat Diffusion Based Multi-Scale and Geometric Structure-Aware Transformer for Mesh Segmentation",
+    "title": "Heat Diffusion based Multi-Scale and Geometric Structure-Aware Transformer for Mesh Segmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2856,7 +2856,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Tree Instance Segmentation With Temporal Contour Graph",
+    "title": "Tree Instance Segmentation with Temporal Contour Graph",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2884,7 +2884,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation With Exemplars",
+    "title": "Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2912,7 +2912,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Omnimatte3D: Associating Objects and Their Effects in Unconstrained Monocular Video",
+    "title": "Omnimatte3D: Associating Objects and their Effects in Unconstrained Monocular Video",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -2996,7 +2996,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Improving Robustness of Semantic Segmentation to Motion-Blur Using Class-Centric Augmentation",
+    "title": "Improving Robustness of Semantic Segmentation to Motion-Blur using Class-Centric Augmentation",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -3080,7 +3080,7 @@
     "section": "Segmentation, Grouping and Shape Analysis"
   },
   {
-    "title": "Pruning Parameterization With Bi-Level Optimization for Efficient Semantic Segmentation on the Edge",
+    "title": "Pruning Parameterization with Bi-Level Optimization for Efficient Semantic Segmentation on the Edge",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
