@@ -12,7 +12,7 @@
       <a href="https://cvpr2023.thecvf.com/Conferences/2023">
         <img src="http://img.shields.io/badge/CVPR-2023-7395C5.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/version-v1.0.0-rc0" alt="Version">
       <a href ="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
       </a>
