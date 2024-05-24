@@ -93,9 +93,9 @@
   <tr>
     <td><strong>Main</strong></td>
     <td>
-      <!-- 80/2/2719 -->
+      <!-- 100/2/2719 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/1?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/2?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -267,16 +267,16 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md">1-300 papers</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/80-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/100-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/61-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/79-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/52-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/64-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/31-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/1_300.md"><img src="https://img.shields.io/badge/40-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
