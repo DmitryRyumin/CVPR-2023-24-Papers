@@ -4032,7 +4032,7 @@
     "section": "1-300 papers"
   },
   {
-    "title": "Low-power, Continuous Remote Behavioral Localization with Event Cameras",
+    "title": "Low-Power, Continuous Remote Behavioral Localization with Event Cameras",
     "base_url": null,
     "title_page": null,
     "ieee_id": null,
@@ -4458,7 +4458,7 @@
     "ieee_id": null,
     "github": "wenwhx/nerfdirector",
     "web_page": null,
-    "github_page": null,
+    "github_page": "https://wenwhx.github.io/nerfdirector/",
     "colab": null,
     "modelscope": null,
     "gitee": null,
