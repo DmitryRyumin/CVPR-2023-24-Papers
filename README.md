@@ -119,6 +119,11 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ---
 
+> [!TIP]
+> [*The PDF version of the CVPR 2024 Conference Programme*](https://media.eventhosts.cc/Conferences/CVPR2024/CVPR_main_conf_2024.pdf), comprises a list of all accepted papers, their presentation order, as well as the designated presentation times.
+
+---
+
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />
   Other collections of the best AI conferences
