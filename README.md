@@ -1197,7 +1197,9 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ## Key Terms
 
-> Will soon be added
+<p align="center">
+    <img width="500" src="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/images/Keywords2024.png" alt="Key Terms">
+<p>
 
 ---
 

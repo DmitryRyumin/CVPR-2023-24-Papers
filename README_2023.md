@@ -880,7 +880,7 @@ CVPR 2023 Papers: Explore a comprehensive collection of cutting-edge research pa
 ## Key Terms
 
 <p align="center">
-    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/CVPR-2023-24-Papers@main/images/Keywords.png" alt="Key Terms">
+    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/CVPR-2023-24-Papers@main/images/Keywords2023.png" alt="Key Terms">
 <p>
 
 ---
