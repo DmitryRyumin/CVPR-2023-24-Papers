@@ -19,6 +19,7 @@ jobs:
       HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
       JSON_DATA_PATH_2023: 'json_data/2023/CVPR'
       JSON_DATA_PATH_2024: 'json_data/2024/CVPR'
+      SUBDIRECTORIES: 'main'
       UPDATE_REPO_SH: 'update_repo.sh'
       COMPARE_FILES_SH: 'compare_files.sh'
       EMAIL: 'dl_03.03.1991@mail.ru'
@@ -54,18 +55,29 @@ jobs:
           GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" "${{ env.LOCAL_DIR }}"
         continue-on-error: true
 
-      - name: Create directories if they do not exist
+      - name: Create directories and sync 2023
         run: |
-          mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
-          mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}/$subdir"
+          done
+
+      - name: Create directories and sync 2024
+        run: |
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}/$subdir"
+          done
 
       - name: Display cloned directory contents for 2023
         run: |
-          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}/$subdir"
+          done
 
       - name: Display cloned directory contents for 2024
         run: |
-          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}/$subdir"
+          done
 
       - name: Make scripts executable
         run: |
@@ -80,16 +92,28 @@ jobs:
           chmod +x ${{ github.workspace }}/${{ env.COMPARE_FILES_SH }}
 
       - name: Compare and update files for 2023
-        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2023" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
+        run: |
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2023" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}/$subdir"
+          done
 
       - name: Compare and update files for 2024
-        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2024" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+        run: |
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2024" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}/$subdir"
+          done
 
       - name: Update repository and commit for 2023
-        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2023 }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+        run: |
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}/$subdir" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2023 }}/$subdir" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+          done
 
       - name: Update repository and commit for 2024
-        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2024 }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+        run: |
+          for subdir in ${{ env.SUBDIRECTORIES }}; do
+            bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}/$subdir" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2024 }}/$subdir" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+          done
 
   finalize:
     runs-on: ubuntu-latest
