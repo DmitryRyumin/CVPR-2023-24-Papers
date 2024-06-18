@@ -75,10 +75,10 @@ jobs:
           chmod +x ${{ github.workspace }}/${{ env.COMPARE_FILES_SH }}
 
       - name: Compare and update files for 2023
-        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2023" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
 
       - name: Compare and update files for 2024
-        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data/2024" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
 
       - name: Update repository and commit for 2023
         run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2023 }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
@@ -100,4 +100,3 @@ jobs:
             echo "status=success" >> $GITHUB_ENV
           else
             echo "status=failure" >> $GITHUB_ENV
-          fi
