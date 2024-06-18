@@ -17,7 +17,8 @@ jobs:
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
       HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
-      JSON_DATA_PATH: 'json_data/2023/CVPR'
+      JSON_DATA_PATH_2023: 'json_data/2023/CVPR'
+      JSON_DATA_PATH_2024: 'json_data/2024/CVPR'
       UPDATE_REPO_SH: 'update_repo.sh'
       COMPARE_FILES_SH: 'compare_files.sh'
       EMAIL: 'dl_03.03.1991@mail.ru'
@@ -53,9 +54,13 @@ jobs:
           GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" "${{ env.LOCAL_DIR }}"
         continue-on-error: true
 
-      - name: Display cloned directory contents
+      - name: Display cloned directory contents for 2023
         run: |
-          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
+
+      - name: Display cloned directory contents for 2024
+        run: |
+          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
 
       - name: Make scripts executable
         run: |
@@ -69,11 +74,17 @@ jobs:
           chmod +x ${{ github.workspace }}/${{ env.UPDATE_REPO_SH }}
           chmod +x ${{ github.workspace }}/${{ env.COMPARE_FILES_SH }}
 
-      - name: Compare and update files
-        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+      - name: Compare and update files for 2023
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
 
-      - name: Update repository and commit
-        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+      - name: Compare and update files for 2024
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+
+      - name: Update repository and commit for 2023
+        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2023 }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+
+      - name: Update repository and commit for 2024
+        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH_2024 }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
 
   finalize:
     runs-on: ubuntu-latest
