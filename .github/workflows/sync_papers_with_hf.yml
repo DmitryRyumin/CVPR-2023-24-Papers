@@ -54,6 +54,11 @@ jobs:
           GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" "${{ env.LOCAL_DIR }}"
         continue-on-error: true
 
+      - name: Create directories if they do not exist
+        run: |
+          mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
+          mkdir -p "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2024 }}"
+
       - name: Display cloned directory contents for 2023
         run: |
           ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH_2023 }}"
