@@ -105,3 +105,4 @@ jobs:
             echo "status=success" >> $GITHUB_ENV
           else
             echo "status=failure" >> $GITHUB_ENV
+          fi
