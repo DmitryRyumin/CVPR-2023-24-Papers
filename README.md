@@ -281,7 +281,7 @@ CVPR 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/41-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/27-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers/blob/main/sections/2024/main/image-and-video-synthesis-and-generation.md"><img src="https://img.shields.io/badge/28-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
